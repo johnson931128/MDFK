@@ -37,6 +37,8 @@ public sealed class PlayerController : MonoBehaviour
 
     private Rigidbody2D body;
     private SpriteRenderer spriteRenderer;
+    private Transform visualRoot;
+    private Animator animator;
     private InputAction moveAction;
     private InputAction jumpAction;
     private float lastGroundedTime = float.NegativeInfinity;
@@ -48,6 +50,9 @@ public sealed class PlayerController : MonoBehaviour
     {
         body = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
+        visualRoot ??= transform.Find("CharacterVisual");
+        facingMarker ??= transform.Find("FacingMarker");
 
         if (inputActions == null)
         {
@@ -117,10 +122,21 @@ public sealed class PlayerController : MonoBehaviour
         float newHorizontalSpeed = Mathf.MoveTowards(body.linearVelocity.x, targetSpeed, acceleration * Time.fixedDeltaTime);
         body.linearVelocity = new Vector2(newHorizontalSpeed, body.linearVelocity.y);
 
-        if (spriteRenderer != null && horizontalInput != 0f)
+        if (horizontalInput != 0f)
         {
             bool facingLeft = horizontalInput < 0f;
-            spriteRenderer.flipX = facingLeft;
+
+            if (spriteRenderer != null)
+            {
+                spriteRenderer.flipX = facingLeft;
+            }
+
+            if (visualRoot != null)
+            {
+                Vector3 visualScale = visualRoot.localScale;
+                visualScale.x = facingLeft ? -Mathf.Abs(visualScale.x) : Mathf.Abs(visualScale.x);
+                visualRoot.localScale = visualScale;
+            }
 
             if (facingMarker != null)
             {
@@ -128,6 +144,13 @@ public sealed class PlayerController : MonoBehaviour
                 markerPosition.x = (facingLeft ? -1f : 1f) * Mathf.Abs(facingMarkerDistance);
                 facingMarker.localPosition = markerPosition;
             }
+        }
+
+        if (animator != null)
+        {
+            animator.SetBool("Grounded", IsGrounded);
+            animator.SetFloat("Speed", Mathf.Abs(body.linearVelocity.x));
+            animator.SetFloat("VerticalVelocity", body.linearVelocity.y);
         }
 
         ApplyBetterGravity();
@@ -184,6 +207,11 @@ public sealed class PlayerController : MonoBehaviour
     public void ConfigureFacingMarker(Transform marker)
     {
         facingMarker = marker;
+    }
+
+    public void ConfigureVisualRoot(Transform root)
+    {
+        visualRoot = root;
     }
 
     private void OnDrawGizmosSelected()
