@@ -142,6 +142,7 @@ public static class MVHumanWomanPlayerBuilder
         {
             throw new InvalidOperationException("PlayerController is missing from Player.");
         }
+        controllerComponent.enabled = true;
         controllerComponent.ConfigureVisualRoot(visualRoot);
         return visualRoot;
     }
@@ -149,7 +150,6 @@ public static class MVHumanWomanPlayerBuilder
     private static AnimatorController CreateAnimatorController(Sprite[] sprites)
     {
         EnsureDirectory(GeneratedDirectory);
-        DeleteAssetIfPresent(ControllerPath);
         string[] clipPaths =
         {
             GeneratedDirectory + "/Idle.anim",
@@ -157,6 +157,30 @@ public static class MVHumanWomanPlayerBuilder
             GeneratedDirectory + "/Jump.anim",
             GeneratedDirectory + "/Fall.anim"
         };
+
+        AnimationClip existingIdle = AssetDatabase.LoadAssetAtPath<AnimationClip>(clipPaths[0]);
+        AnimationClip existingRun = AssetDatabase.LoadAssetAtPath<AnimationClip>(clipPaths[1]);
+        AnimationClip existingJump = AssetDatabase.LoadAssetAtPath<AnimationClip>(clipPaths[2]);
+        AnimationClip existingFall = AssetDatabase.LoadAssetAtPath<AnimationClip>(clipPaths[3]);
+        AnimatorController existingController = AssetDatabase.LoadAssetAtPath<AnimatorController>(ControllerPath);
+        if (existingController != null
+            && HasExpectedClip(existingIdle, new[] { sprites[FrameIndex(0, 0)] }, true)
+            && HasExpectedClip(existingRun, new[]
+            {
+                sprites[FrameIndex(0, 1)], sprites[FrameIndex(0, 2)], sprites[FrameIndex(0, 3)],
+                sprites[FrameIndex(0, 4)], sprites[FrameIndex(0, 5)], sprites[FrameIndex(0, 6)]
+            }, true)
+            && HasExpectedClip(existingJump, new[]
+            {
+                sprites[FrameIndex(1, 7)], sprites[FrameIndex(1, 8)], sprites[FrameIndex(1, 9)]
+            }, false)
+            && HasExpectedClip(existingFall, new[] { sprites[FrameIndex(1, 9)] }, false)
+            && HasExpectedController(existingController, existingIdle, existingRun, existingJump, existingFall))
+        {
+            return existingController;
+        }
+
+        DeleteAssetIfPresent(ControllerPath);
         foreach (string clipPath in clipPaths)
         {
             DeleteAssetIfPresent(clipPath);
@@ -214,6 +238,96 @@ public static class MVHumanWomanPlayerBuilder
         AddTransition(fallState, idleState, new AnimatorCondition { mode = AnimatorConditionMode.If, parameter = "Grounded" }, new AnimatorCondition { mode = AnimatorConditionMode.Less, parameter = "Speed", threshold = 0.1f });
         AddTransition(fallState, runState, new AnimatorCondition { mode = AnimatorConditionMode.If, parameter = "Grounded" }, new AnimatorCondition { mode = AnimatorConditionMode.Greater, parameter = "Speed", threshold = 0.1f });
         return controller;
+    }
+
+    private static bool HasExpectedClip(AnimationClip clip, Sprite[] expectedSprites, bool looping)
+    {
+        if (clip == null || clip.isLooping != looping)
+        {
+            return false;
+        }
+
+        EditorCurveBinding[] bindings = AnimationUtility.GetObjectReferenceCurveBindings(clip);
+        if (bindings.Length != 1)
+        {
+            return false;
+        }
+
+        EditorCurveBinding binding = bindings[0];
+        if (binding.path != "VisualRoot"
+            || binding.type != typeof(SpriteRenderer)
+            || binding.propertyName != "m_Sprite")
+        {
+            return false;
+        }
+
+        ObjectReferenceKeyframe[] keys = AnimationUtility.GetObjectReferenceCurve(clip, binding);
+        int expectedKeyCount = expectedSprites.Length + (looping ? 1 : 0);
+        if (keys.Length != expectedKeyCount)
+        {
+            return false;
+        }
+
+        for (int index = 0; index < expectedSprites.Length; index++)
+        {
+            if (keys[index].value != expectedSprites[index])
+            {
+                return false;
+            }
+        }
+
+        return !looping || keys[^1].value == expectedSprites[0];
+    }
+
+    private static bool HasExpectedController(AnimatorController controller, AnimationClip idle, AnimationClip run, AnimationClip jump, AnimationClip fall)
+    {
+        AnimatorControllerParameter grounded = Array.Find(controller.parameters, parameter => parameter.name == "Grounded");
+        AnimatorControllerParameter speed = Array.Find(controller.parameters, parameter => parameter.name == "Speed");
+        AnimatorControllerParameter verticalVelocity = Array.Find(controller.parameters, parameter => parameter.name == "VerticalVelocity");
+        if (grounded == null || grounded.type != AnimatorControllerParameterType.Bool
+            || speed == null || speed.type != AnimatorControllerParameterType.Float
+            || verticalVelocity == null || verticalVelocity.type != AnimatorControllerParameterType.Float
+            || controller.layers.Length == 0)
+        {
+            return false;
+        }
+
+        Dictionary<string, AnimationClip> expectedMotions = new()
+        {
+            ["Idle"] = idle,
+            ["Run"] = run,
+            ["Jump"] = jump,
+            ["Fall"] = fall
+        };
+        ChildAnimatorState[] states = controller.layers[0].stateMachine.states;
+        if (states.Length != expectedMotions.Count)
+        {
+            return false;
+        }
+
+        foreach (ChildAnimatorState childState in states)
+        {
+            if (!expectedMotions.TryGetValue(childState.state.name, out AnimationClip expectedMotion)
+                || childState.state.motion != expectedMotion)
+            {
+                return false;
+            }
+
+            foreach (AnimatorStateTransition transition in childState.state.transitions)
+            {
+                foreach (AnimatorCondition condition in transition.conditions)
+                {
+                    if (condition.parameter == "Grounded"
+                        && condition.mode != AnimatorConditionMode.If
+                        && condition.mode != AnimatorConditionMode.IfNot)
+                    {
+                        return false;
+                    }
+                }
+            }
+        }
+
+        return true;
     }
 
     private static AnimationClip CreateClip(string name, Sprite[] sprites, float frameDuration, bool looping)
