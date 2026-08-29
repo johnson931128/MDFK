@@ -228,7 +228,7 @@ public static class MVHumanWomanPlayerBuilder
         {
             keys[^1] = new ObjectReferenceKeyframe { time = sprites.Length * frameDuration, value = sprites[0] };
         }
-        AnimationUtility.SetObjectReferenceCurve(clip, EditorCurveBinding.PPtrCurve("", typeof(SpriteRenderer), "m_Sprite"), keys);
+        AnimationUtility.SetObjectReferenceCurve(clip, EditorCurveBinding.PPtrCurve("VisualRoot", typeof(SpriteRenderer), "m_Sprite"), keys);
         AnimationClipSettings settings = AnimationUtility.GetAnimationClipSettings(clip);
         settings.loopTime = looping;
         AnimationUtility.SetAnimationClipSettings(clip, settings);
