@@ -1,0 +1,37 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Visual Studio / Rider / IDE generated files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity generated files
+sysinfo.txt
+crashlytics-build.properties
+
+# Build and test output
+[Tt]est[Rr]esults/
+[Bb]uild[Ll]og.txt
+[Bb]uild[Ll]og-*.txt
+
+# Generated project-local QA captures
+/milestone1-*.png
