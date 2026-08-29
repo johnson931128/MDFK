@@ -6,8 +6,22 @@ using UnityEngine.InputSystem;
 public sealed class PlayerController : MonoBehaviour
 {
     [Header("Movement")]
-    [SerializeField] private float moveSpeed = 6f;
+    [SerializeField] private float moveSpeed = 7f;
+    [SerializeField] private float groundAcceleration = 60f;
+    [SerializeField] private float groundDeceleration = 70f;
+    [SerializeField] private float airAcceleration = 40f;
+    [SerializeField] private float airDeceleration = 30f;
+
+    [Header("Jump")]
     [SerializeField] private float jumpForce = 12f;
+    [SerializeField] private float coyoteTime = 0.12f;
+    [SerializeField] private float jumpBufferTime = 0.12f;
+    [SerializeField, Range(0f, 1f)] private float jumpCutMultiplier = 0.5f;
+
+    [Header("Gravity")]
+    [SerializeField] private float lowJumpGravityMultiplier = 2.2f;
+    [SerializeField] private float fallGravityMultiplier = 1.8f;
+    [SerializeField] private float maxFallSpeed = 20f;
 
     [Header("Ground Check")]
     [SerializeField] private Transform groundCheck;
@@ -18,14 +32,18 @@ public sealed class PlayerController : MonoBehaviour
     [SerializeField] private InputActionAsset inputActions;
 
     private Rigidbody2D body;
+    private SpriteRenderer spriteRenderer;
     private InputAction moveAction;
     private InputAction jumpAction;
+    private float lastGroundedTime = float.NegativeInfinity;
+    private float lastJumpPressedTime = float.NegativeInfinity;
 
     public bool IsGrounded { get; private set; }
 
     private void Awake()
     {
         body = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
 
         if (inputActions == null)
         {
@@ -50,10 +68,31 @@ public sealed class PlayerController : MonoBehaviour
     private void Update()
     {
         IsGrounded = CheckGrounded();
+        if (IsGrounded)
+        {
+            lastGroundedTime = Time.time;
+        }
 
-        if (jumpAction != null && jumpAction.WasPressedThisFrame() && IsGrounded)
+        if (jumpAction == null)
+        {
+            return;
+        }
+
+        if (jumpAction.WasPressedThisFrame())
+        {
+            lastJumpPressedTime = Time.time;
+        }
+
+        if (jumpAction.WasReleasedThisFrame() && body.linearVelocity.y > 0f)
+        {
+            body.linearVelocity = new Vector2(body.linearVelocity.x, body.linearVelocity.y * jumpCutMultiplier);
+        }
+
+        if (CanJump())
         {
             body.linearVelocity = new Vector2(body.linearVelocity.x, jumpForce);
+            lastGroundedTime = float.NegativeInfinity;
+            lastJumpPressedTime = float.NegativeInfinity;
         }
     }
 
@@ -65,7 +104,52 @@ public sealed class PlayerController : MonoBehaviour
         }
 
         float horizontalInput = moveAction.ReadValue<Vector2>().x;
-        body.linearVelocity = new Vector2(horizontalInput * moveSpeed, body.linearVelocity.y);
+        bool isAccelerating = !Mathf.Approximately(horizontalInput, 0f);
+        bool isGrounded = IsGrounded;
+        float acceleration = isGrounded
+            ? (isAccelerating ? groundAcceleration : groundDeceleration)
+            : (isAccelerating ? airAcceleration : airDeceleration);
+        float targetSpeed = horizontalInput * moveSpeed;
+        float newHorizontalSpeed = Mathf.MoveTowards(body.linearVelocity.x, targetSpeed, acceleration * Time.fixedDeltaTime);
+        body.linearVelocity = new Vector2(newHorizontalSpeed, body.linearVelocity.y);
+
+        if (spriteRenderer != null && horizontalInput != 0f)
+        {
+            spriteRenderer.flipX = horizontalInput < 0f;
+        }
+
+        ApplyBetterGravity();
+    }
+
+    private bool CanJump()
+    {
+        bool hasBufferedJump = Time.time - lastJumpPressedTime <= jumpBufferTime;
+        bool hasCoyoteTime = Time.time - lastGroundedTime <= coyoteTime;
+        return hasBufferedJump && hasCoyoteTime;
+    }
+
+    private void ApplyBetterGravity()
+    {
+        float gravityMultiplier = 1f;
+        if (body.linearVelocity.y < 0f)
+        {
+            gravityMultiplier = fallGravityMultiplier;
+        }
+        else if (body.linearVelocity.y > 0f && jumpAction != null && !jumpAction.IsPressed())
+        {
+            gravityMultiplier = lowJumpGravityMultiplier;
+        }
+
+        if (gravityMultiplier > 1f)
+        {
+            Vector2 extraGravity = Physics2D.gravity * (body.gravityScale * body.mass * (gravityMultiplier - 1f));
+            body.AddForce(extraGravity, ForceMode2D.Force);
+        }
+
+        if (body.linearVelocity.y < -maxFallSpeed)
+        {
+            body.linearVelocity = new Vector2(body.linearVelocity.x, -maxFallSpeed);
+        }
     }
 
     private bool CheckGrounded()

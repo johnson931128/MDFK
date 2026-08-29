@@ -198,8 +198,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d7b15ebdde69944782086ac5d18c24f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  moveSpeed: 6
+  moveSpeed: 7
+  groundAcceleration: 60
+  groundDeceleration: 70
+  airAcceleration: 40
+  airDeceleration: 30
   jumpForce: 12
+  coyoteTime: 0.12
+  jumpBufferTime: 0.12
+  jumpCutMultiplier: 0.5
+  lowJumpGravityMultiplier: 2.2
+  fallGravityMultiplier: 1.8
+  maxFallSpeed: 20
   groundCheck: {fileID: 647442400}
   groundCheckRadius: 0.16
   groundLayer:
