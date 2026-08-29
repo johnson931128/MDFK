@@ -19,14 +19,18 @@ public sealed class PlayerController : MonoBehaviour
     [SerializeField, Range(0f, 1f)] private float jumpCutMultiplier = 0.5f;
 
     [Header("Gravity")]
-    [SerializeField] private float lowJumpGravityMultiplier = 2.2f;
-    [SerializeField] private float fallGravityMultiplier = 1.8f;
-    [SerializeField] private float maxFallSpeed = 20f;
+    [SerializeField] private float lowJumpGravityMultiplier = 1.8f;
+    [SerializeField] private float fallGravityMultiplier = 1.55f;
+    [SerializeField] private float maxFallSpeed = 18f;
 
     [Header("Ground Check")]
     [SerializeField] private Transform groundCheck;
     [SerializeField] private float groundCheckRadius = 0.16f;
     [SerializeField] private LayerMask groundLayer;
+
+    [Header("Facing")]
+    [SerializeField] private Transform facingMarker;
+    [SerializeField] private float facingMarkerDistance = 0.46f;
 
     [Header("Input System")]
     [SerializeField] private InputActionAsset inputActions;
@@ -115,7 +119,15 @@ public sealed class PlayerController : MonoBehaviour
 
         if (spriteRenderer != null && horizontalInput != 0f)
         {
-            spriteRenderer.flipX = horizontalInput < 0f;
+            bool facingLeft = horizontalInput < 0f;
+            spriteRenderer.flipX = facingLeft;
+
+            if (facingMarker != null)
+            {
+                Vector3 markerPosition = facingMarker.localPosition;
+                markerPosition.x = (facingLeft ? -1f : 1f) * Mathf.Abs(facingMarkerDistance);
+                facingMarker.localPosition = markerPosition;
+            }
         }
 
         ApplyBetterGravity();
@@ -167,6 +179,11 @@ public sealed class PlayerController : MonoBehaviour
         inputActions = actions;
         groundCheck = check;
         groundLayer = layer;
+    }
+
+    public void ConfigureFacingMarker(Transform marker)
+    {
+        facingMarker = marker;
     }
 
     private void OnDrawGizmosSelected()
