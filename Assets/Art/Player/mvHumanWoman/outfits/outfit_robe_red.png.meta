@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: b5b9160153dd8154abf5dc477704b5ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8673741042139543100
+    second: outfit_robe_red_0
+  - first:
+      213: 3144470280233592433
+    second: outfit_robe_red_1
+  - first:
+      213: 4198885561023694587
+    second: outfit_robe_red_2
+  - first:
+      213: 3199201172834428963
+    second: outfit_robe_red_3
+  - first:
+      213: 7834917241536844168
+    second: outfit_robe_red_4
+  - first:
+      213: 5333226703428739188
+    second: outfit_robe_red_5
+  - first:
+      213: -8217398196943440456
+    second: outfit_robe_red_6
+  - first:
+      213: 279133596484871907
+    second: outfit_robe_red_7
+  - first:
+      213: 5580508657626612950
+    second: outfit_robe_red_8
+  - first:
+      213: 7297069251985436757
+    second: outfit_robe_red_9
+  - first:
+      213: -6745128199247095910
+    second: outfit_robe_red_10
+  - first:
+      213: -3483728892037859725
+    second: outfit_robe_red_11
+  - first:
+      213: 543418241675871924
+    second: outfit_robe_red_12
+  - first:
+      213: 2169697649518342061
+    second: outfit_robe_red_13
+  - first:
+      213: 4922966310011178222
+    second: outfit_robe_red_14
+  - first:
+      213: 5942093787380673455
+    second: outfit_robe_red_15
+  - first:
+      213: -9109990942346631353
+    second: outfit_robe_red_16
+  - first:
+      213: -6076581870595989531
+    second: outfit_robe_red_17
+  - first:
+      213: -6145994898774980929
+    second: outfit_robe_red_18
+  - first:
+      213: 5480648210561015121
+    second: outfit_robe_red_19
+  - first:
+      213: -3372181899121869111
+    second: outfit_robe_red_20
+  - first:
+      213: 2991583268802482931
+    second: outfit_robe_red_21
+  - first:
+      213: 2206879633374305427
+    second: outfit_robe_red_22
+  - first:
+      213: 3702583867491230548
+    second: outfit_robe_red_23
+  - first:
+      213: 5531182117116126484
+    second: outfit_robe_red_24
+  - first:
+      213: 8253404046541614134
+    second: outfit_robe_red_25
+  - first:
+      213: -3097158377276318499
+    second: outfit_robe_red_26
+  - first:
+      213: 6570313734692613472
+    second: outfit_robe_red_27
+  - first:
+      213: -6667856114088143891
+    second: outfit_robe_red_28
+  - first:
+      213: 3040620827394986421
+    second: outfit_robe_red_29
+  - first:
+      213: -3729771387578762699
+    second: outfit_robe_red_30
+  - first:
+      213: 3919215186026584222
+    second: outfit_robe_red_31
+  - first:
+      213: 6306869015934799257
+    second: outfit_robe_red_32
+  - first:
+      213: 9099356114398384614
+    second: outfit_robe_red_33
+  - first:
+      213: 1223736800216851421
+    second: outfit_robe_red_34
+  - first:
+      213: -6661398330580686266
+    second: outfit_robe_red_35
+  - first:
+      213: -7444269113288756603
+    second: outfit_robe_red_36
+  - first:
+      213: -1760202622197970130
+    second: outfit_robe_red_37
+  - first:
+      213: -2880615113757098299
+    second: outfit_robe_red_38
+  - first:
+      213: 6005220962055426979
+    second: outfit_robe_red_39
+  - first:
+      213: -4974141931908166364
+    second: outfit_robe_red_40
+  - first:
+      213: 6613553505900574306
+    second: outfit_robe_red_41
+  - first:
+      213: -1730357789736389694
+    second: outfit_robe_red_42
+  - first:
+      213: 452367432974800581
+    second: outfit_robe_red_43
+  - first:
+      213: -8308148115872643688
+    second: outfit_robe_red_44
+  - first:
+      213: -4270316001585925167
+    second: outfit_robe_red_45
+  - first:
+      213: -4809497140994541410
+    second: outfit_robe_red_46
+  - first:
+      213: 5724127570163594018
+    second: outfit_robe_red_47
+  - first:
+      213: -7644191730254771897
+    second: outfit_robe_red_48
+  - first:
+      213: 33537011137212558
+    second: outfit_robe_red_49
+  - first:
+      213: 707637991845909885
+    second: outfit_robe_red_50
+  - first:
+      213: 2523209224438470707
+    second: outfit_robe_red_51
+  - first:
+      213: 663623006673579482
+    second: outfit_robe_red_52
+  - first:
+      213: -2507149629635178413
+    second: outfit_robe_red_53
+  - first:
+      213: 5386059782049938164
+    second: outfit_robe_red_54
+  - first:
+      213: 1603857243872271294
+    second: outfit_robe_red_55
+  - first:
+      213: 1945241325473677539
+    second: outfit_robe_red_56
+  - first:
+      213: 8028499808337370485
+    second: outfit_robe_red_57
+  - first:
+      213: -6791621704483234988
+    second: outfit_robe_red_58
+  - first:
+      213: 2103729498073614320
+    second: outfit_robe_red_59
+  - first:
+      213: 2460010091573921704
+    second: outfit_robe_red_60
+  - first:
+      213: 5873182428612217869
+    second: outfit_robe_red_61
+  - first:
+      213: -1335324839329547245
+    second: outfit_robe_red_62
+  - first:
+      213: 2685468532015306203
+    second: outfit_robe_red_63
+  - first:
+      213: -8170562718785132341
+    second: outfit_robe_red_64
+  - first:
+      213: -2478464539770025461
+    second: outfit_robe_red_65
+  - first:
+      213: 7373904254220874884
+    second: outfit_robe_red_66
+  - first:
+      213: -884054073778912812
+    second: outfit_robe_red_67
+  - first:
+      213: -5786518683933115154
+    second: outfit_robe_red_68
+  - first:
+      213: -3231880471381486683
+    second: outfit_robe_red_69
+  - first:
+      213: 563759505627109993
+    second: outfit_robe_red_70
+  - first:
+      213: 4279379392123903694
+    second: outfit_robe_red_71
+  - first:
+      213: -253188103354034830
+    second: outfit_robe_red_72
+  - first:
+      213: -8678224442186913601
+    second: outfit_robe_red_73
+  - first:
+      213: -4076267450056762151
+    second: outfit_robe_red_74
+  - first:
+      213: 2516989652750405344
+    second: outfit_robe_red_75
+  - first:
+      213: 557569257687114851
+    second: outfit_robe_red_76
+  - first:
+      213: 6088504868832590594
+    second: outfit_robe_red_77
+  - first:
+      213: 8143649090781668971
+    second: outfit_robe_red_78
+  - first:
+      213: -5585451597805874486
+    second: outfit_robe_red_79
+  - first:
+      213: -7668476719639929376
+    second: outfit_robe_red_80
+  - first:
+      213: 3180092337841706114
+    second: outfit_robe_red_81
+  - first:
+      213: 8988087324388573205
+    second: outfit_robe_red_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: outfit_robe_red_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36347ab5815f5870800000000000000
+      internalID: 8673741042139543100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176a81c4f0763ab20800000000000000
+      internalID: 3144470280233592433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 575
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6855dcb20754a30800000000000000
+      internalID: 4198885561023694587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 575
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3282fcf3488d56c20800000000000000
+      internalID: 3199201172834428963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881136258b73bbc60800000000000000
+      internalID: 7834917241536844168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 575
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4706f7c1e6d630a40800000000000000
+      internalID: 5333226703428739188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 583
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b53045a0efe5fd80800000000000000
+      internalID: -8217398196943440456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 575
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6ab5fe68eafd300800000000000000
+      internalID: 279133596484871907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 575
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d483dbae03f17d40800000000000000
+      internalID: 5580508657626612950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550740ab2d5644560800000000000000
+      internalID: 7297069251985436757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 575
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a971867d3ad7462a0800000000000000
+      internalID: -6745128199247095910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 575
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3767150c70f47afc0800000000000000
+      internalID: -3483728892037859725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 575
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6ce8bf20c9a8700800000000000000
+      internalID: 543418241675871924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf6a8544805c1e10800000000000000
+      internalID: 2169697649518342061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 511
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec8e65a6c3e15440800000000000000
+      internalID: 4922966310011178222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 511
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab61ea21de867250800000000000000
+      internalID: 5942093787380673455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 511
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7472766318fc29180800000000000000
+      internalID: -9109990942346631353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 511
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef1c8adbf4ababa0800000000000000
+      internalID: -6076581870595989531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 511
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb68723d33a05baa0800000000000000
+      internalID: -6145994898774980929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 511
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d9e51828c2f0c40800000000000000
+      internalID: 5480648210561015121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 520
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceb6d8ed6a9331d0800000000000000
+      internalID: -3372181899121869111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 516
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f259f4022d348920800000000000000
+      internalID: 2991583268802482931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 513
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cd151855960ae10800000000000000
+      internalID: 2206879633374305427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 519
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45328ec0968326330800000000000000
+      internalID: 3702583867491230548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 511
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41523be74d4b2cc40800000000000000
+      internalID: 5531182117116126484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 511
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c62ed704bf98270800000000000000
+      internalID: 8253404046541614134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcd1558ddea405d0800000000000000
+      internalID: -3097158377276318499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d293bd7817e2b50800000000000000
+      internalID: 6570313734692613472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 447
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de31c5a21340773a0800000000000000
+      internalID: -6667856114088143891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b158895884723a20800000000000000
+      internalID: 3040620827394986421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 453
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ab3f52fa03d3cc0800000000000000
+      internalID: -3729771387578762699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e985e616279d36630800000000000000
+      internalID: 3919215186026584222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d06bb64ff768750800000000000000
+      internalID: 6306869015934799257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 453
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e19e73fc28674e70800000000000000
+      internalID: 9099356114398384614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3af7bd2269bf010800000000000000
+      internalID: 1223736800216851421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aab5e0385fd83a0800000000000000
+      internalID: -6661398330580686266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_36
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 447
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582f202dea4a0b890800000000000000
+      internalID: -7444269113288756603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bcd238a018297e0800000000000000
+      internalID: -1760202622197970130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 453
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cef2e1f0dff508d0800000000000000
+      internalID: -2880615113757098299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_39
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a31b01e5a4d65350800000000000000
+      internalID: 6005220962055426979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 447
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d0d3e544c48fab0800000000000000
+      internalID: -4974141931908166364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2663e3e9fdf08cb50800000000000000
+      internalID: 6613553505900574306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3be6012c88cf7e0800000000000000
+      internalID: -1730357789736389694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 447
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c61b6698c1274600800000000000000
+      internalID: 452367432974800581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895841c9e4783bc80800000000000000
+      internalID: -8308148115872643688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_45
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 453
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3fdceb83accb4c0800000000000000
+      internalID: -4270316001585925167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_46
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9873c205db314db0800000000000000
+      internalID: -4809497140994541410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 447
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223fe9482bf207f40800000000000000
+      internalID: 5724127570163594018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 383
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7498f2b3f106ae590800000000000000
+      internalID: -7644191730254771897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 383
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8079a3ebb5277000800000000000000
+      internalID: 33537011137212558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 383
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75db8d110902d900800000000000000
+      internalID: 707637991845909885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 383
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338d4accb6d340320800000000000000
+      internalID: 2523209224438470707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 383
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add2e89cb99a53900800000000000000
+      internalID: 663623006673579482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 383
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350d7def1b0d43dd0800000000000000
+      internalID: -2507149629635178413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 383
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faba10d5d02fba40800000000000000
+      internalID: 5386059782049938164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb917b6aab024610800000000000000
+      internalID: 1603857243872271294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 383
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0c44fdda2eefa10800000000000000
+      internalID: 1945241325473677539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_57
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 383
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d9d33f906fa6f60800000000000000
+      internalID: 8028499808337370485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 327
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b91771b005fb1a0800000000000000
+      internalID: -6791621704483234988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 327
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7403c15d2f13d10800000000000000
+      internalID: 2103729498073614320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 327
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7c3240526b32220800000000000000
+      internalID: 2460010091573921704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 327
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c4f762d4cb18150800000000000000
+      internalID: 5873182428612217869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 327
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb10c2229f77de0800000000000000
+      internalID: -1335324839329547245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 327
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd51342d663b44520800000000000000
+      internalID: 2685468532015306203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 327
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc823cb2f745c9e80800000000000000
+      internalID: -8170562718785132341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_65
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 327
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a0b9ee1a9ba9dd0800000000000000
+      internalID: -2478464539770025461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_66
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 327
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484b390c9de555660800000000000000
+      internalID: 7373904254220874884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_67
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 327
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1cb2af0853bb3f0800000000000000
+      internalID: -884054073778912812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_68
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec710e4ae722bfa0800000000000000
+      internalID: -5786518683933115154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_69
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3d8c2a5dd0623d0800000000000000
+      internalID: -3231880471381486683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_70
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a57af8840e2d700800000000000000
+      internalID: 563759505627109993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_71
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece1cae42e8636b30800000000000000
+      internalID: 4279379392123903694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_72
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2755a3ee2ce7c7cf0800000000000000
+      internalID: -253188103354034830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_73
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8265a59d0c09780800000000000000
+      internalID: -8678224442186913601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_74
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc11e5e9503e67c0800000000000000
+      internalID: -4076267450056762151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_75
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee858be0c42ee220800000000000000
+      internalID: 2516989652750405344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_76
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3646e162942ecb700800000000000000
+      internalID: 557569257687114851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_77
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bb0008be6be7450800000000000000
+      internalID: 6088504868832590594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_78
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 255
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66697f73bd040170800000000000000
+      internalID: 8143649090781668971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_79
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 262
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac294a26d5d7c72b0800000000000000
+      internalID: -5585451597805874486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 268
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed52858d09149590800000000000000
+      internalID: -7668476719639929376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_81
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 258
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2841ff5e125f12c20800000000000000
+      internalID: 3180092337841706114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_red_82
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 255
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5104f54fcc91cbc70800000000000000
+      internalID: 8988087324388573205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      outfit_robe_red_0: 8673741042139543100
+      outfit_robe_red_1: 3144470280233592433
+      outfit_robe_red_10: -6745128199247095910
+      outfit_robe_red_11: -3483728892037859725
+      outfit_robe_red_12: 543418241675871924
+      outfit_robe_red_13: 2169697649518342061
+      outfit_robe_red_14: 4922966310011178222
+      outfit_robe_red_15: 5942093787380673455
+      outfit_robe_red_16: -9109990942346631353
+      outfit_robe_red_17: -6076581870595989531
+      outfit_robe_red_18: -6145994898774980929
+      outfit_robe_red_19: 5480648210561015121
+      outfit_robe_red_2: 4198885561023694587
+      outfit_robe_red_20: -3372181899121869111
+      outfit_robe_red_21: 2991583268802482931
+      outfit_robe_red_22: 2206879633374305427
+      outfit_robe_red_23: 3702583867491230548
+      outfit_robe_red_24: 5531182117116126484
+      outfit_robe_red_25: 8253404046541614134
+      outfit_robe_red_26: -3097158377276318499
+      outfit_robe_red_27: 6570313734692613472
+      outfit_robe_red_28: -6667856114088143891
+      outfit_robe_red_29: 3040620827394986421
+      outfit_robe_red_3: 3199201172834428963
+      outfit_robe_red_30: -3729771387578762699
+      outfit_robe_red_31: 3919215186026584222
+      outfit_robe_red_32: 6306869015934799257
+      outfit_robe_red_33: 9099356114398384614
+      outfit_robe_red_34: 1223736800216851421
+      outfit_robe_red_35: -6661398330580686266
+      outfit_robe_red_36: -7444269113288756603
+      outfit_robe_red_37: -1760202622197970130
+      outfit_robe_red_38: -2880615113757098299
+      outfit_robe_red_39: 6005220962055426979
+      outfit_robe_red_4: 7834917241536844168
+      outfit_robe_red_40: -4974141931908166364
+      outfit_robe_red_41: 6613553505900574306
+      outfit_robe_red_42: -1730357789736389694
+      outfit_robe_red_43: 452367432974800581
+      outfit_robe_red_44: -8308148115872643688
+      outfit_robe_red_45: -4270316001585925167
+      outfit_robe_red_46: -4809497140994541410
+      outfit_robe_red_47: 5724127570163594018
+      outfit_robe_red_48: -7644191730254771897
+      outfit_robe_red_49: 33537011137212558
+      outfit_robe_red_5: 5333226703428739188
+      outfit_robe_red_50: 707637991845909885
+      outfit_robe_red_51: 2523209224438470707
+      outfit_robe_red_52: 663623006673579482
+      outfit_robe_red_53: -2507149629635178413
+      outfit_robe_red_54: 5386059782049938164
+      outfit_robe_red_55: 1603857243872271294
+      outfit_robe_red_56: 1945241325473677539
+      outfit_robe_red_57: 8028499808337370485
+      outfit_robe_red_58: -6791621704483234988
+      outfit_robe_red_59: 2103729498073614320
+      outfit_robe_red_6: -8217398196943440456
+      outfit_robe_red_60: 2460010091573921704
+      outfit_robe_red_61: 5873182428612217869
+      outfit_robe_red_62: -1335324839329547245
+      outfit_robe_red_63: 2685468532015306203
+      outfit_robe_red_64: -8170562718785132341
+      outfit_robe_red_65: -2478464539770025461
+      outfit_robe_red_66: 7373904254220874884
+      outfit_robe_red_67: -884054073778912812
+      outfit_robe_red_68: -5786518683933115154
+      outfit_robe_red_69: -3231880471381486683
+      outfit_robe_red_7: 279133596484871907
+      outfit_robe_red_70: 563759505627109993
+      outfit_robe_red_71: 4279379392123903694
+      outfit_robe_red_72: -253188103354034830
+      outfit_robe_red_73: -8678224442186913601
+      outfit_robe_red_74: -4076267450056762151
+      outfit_robe_red_75: 2516989652750405344
+      outfit_robe_red_76: 557569257687114851
+      outfit_robe_red_77: 6088504868832590594
+      outfit_robe_red_78: 8143649090781668971
+      outfit_robe_red_79: -5585451597805874486
+      outfit_robe_red_8: 5580508657626612950
+      outfit_robe_red_80: -7668476719639929376
+      outfit_robe_red_81: 3180092337841706114
+      outfit_robe_red_82: 8988087324388573205
+      outfit_robe_red_9: 7297069251985436757
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

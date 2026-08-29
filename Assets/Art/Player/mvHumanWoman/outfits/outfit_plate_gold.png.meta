@@ -1,0 +1,2262 @@
+fileFormatVersion: 2
+guid: a733616eb36246e4fab95f269cbe2023
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1345684630356532867
+    second: outfit_plate_gold_0
+  - first:
+      213: -7251141234299965072
+    second: outfit_plate_gold_1
+  - first:
+      213: 727627589089241461
+    second: outfit_plate_gold_2
+  - first:
+      213: 4745034464445623456
+    second: outfit_plate_gold_3
+  - first:
+      213: 5337629118813613313
+    second: outfit_plate_gold_4
+  - first:
+      213: -3788878253330141623
+    second: outfit_plate_gold_5
+  - first:
+      213: -8779361558883345027
+    second: outfit_plate_gold_6
+  - first:
+      213: -7864171596176122311
+    second: outfit_plate_gold_7
+  - first:
+      213: -6699974259588139150
+    second: outfit_plate_gold_8
+  - first:
+      213: 9136279690117569830
+    second: outfit_plate_gold_9
+  - first:
+      213: 6605291679986993099
+    second: outfit_plate_gold_10
+  - first:
+      213: 1040124615820580066
+    second: outfit_plate_gold_11
+  - first:
+      213: -9020443495055719136
+    second: outfit_plate_gold_12
+  - first:
+      213: 3396646633423327
+    second: outfit_plate_gold_13
+  - first:
+      213: -2395813401659475785
+    second: outfit_plate_gold_14
+  - first:
+      213: -4996513350843756640
+    second: outfit_plate_gold_15
+  - first:
+      213: -7311035779761051414
+    second: outfit_plate_gold_16
+  - first:
+      213: -1390516308836217308
+    second: outfit_plate_gold_17
+  - first:
+      213: -6526686607387193747
+    second: outfit_plate_gold_18
+  - first:
+      213: -337293474613104534
+    second: outfit_plate_gold_19
+  - first:
+      213: 945489020201419082
+    second: outfit_plate_gold_20
+  - first:
+      213: 6931728557946006177
+    second: outfit_plate_gold_21
+  - first:
+      213: 8969610535638524920
+    second: outfit_plate_gold_22
+  - first:
+      213: 6522103275006120352
+    second: outfit_plate_gold_23
+  - first:
+      213: -4862304705868213788
+    second: outfit_plate_gold_24
+  - first:
+      213: -897474740773590733
+    second: outfit_plate_gold_25
+  - first:
+      213: -8461266193253207870
+    second: outfit_plate_gold_26
+  - first:
+      213: 5674002018973221397
+    second: outfit_plate_gold_27
+  - first:
+      213: 1017971831195360284
+    second: outfit_plate_gold_28
+  - first:
+      213: 389039999681983357
+    second: outfit_plate_gold_29
+  - first:
+      213: -7295382322605468811
+    second: outfit_plate_gold_30
+  - first:
+      213: 7910220640058691779
+    second: outfit_plate_gold_31
+  - first:
+      213: -4384078074356448105
+    second: outfit_plate_gold_32
+  - first:
+      213: -5320817063789386885
+    second: outfit_plate_gold_33
+  - first:
+      213: -4768268793658364966
+    second: outfit_plate_gold_34
+  - first:
+      213: 6600336834398902427
+    second: outfit_plate_gold_35
+  - first:
+      213: -1397092288678173412
+    second: outfit_plate_gold_36
+  - first:
+      213: -226248061388631958
+    second: outfit_plate_gold_37
+  - first:
+      213: 1476973594863860638
+    second: outfit_plate_gold_38
+  - first:
+      213: 6912612137358787371
+    second: outfit_plate_gold_39
+  - first:
+      213: -8621692913255057338
+    second: outfit_plate_gold_40
+  - first:
+      213: 8449765644478400599
+    second: outfit_plate_gold_41
+  - first:
+      213: 867928188375368857
+    second: outfit_plate_gold_42
+  - first:
+      213: -5350560243366840853
+    second: outfit_plate_gold_43
+  - first:
+      213: -3020065915748821873
+    second: outfit_plate_gold_44
+  - first:
+      213: -6760195313395252594
+    second: outfit_plate_gold_45
+  - first:
+      213: 2727871738946151501
+    second: outfit_plate_gold_46
+  - first:
+      213: 51159047061655239
+    second: outfit_plate_gold_47
+  - first:
+      213: 3656975356481409487
+    second: outfit_plate_gold_48
+  - first:
+      213: -3332082298068158845
+    second: outfit_plate_gold_49
+  - first:
+      213: -4681910895992849002
+    second: outfit_plate_gold_50
+  - first:
+      213: -96320390826099481
+    second: outfit_plate_gold_51
+  - first:
+      213: 3959469415392309809
+    second: outfit_plate_gold_52
+  - first:
+      213: -5392522114077402346
+    second: outfit_plate_gold_53
+  - first:
+      213: 4073251386699931537
+    second: outfit_plate_gold_54
+  - first:
+      213: 8983699292635469187
+    second: outfit_plate_gold_55
+  - first:
+      213: 6720621084104309890
+    second: outfit_plate_gold_56
+  - first:
+      213: 5365547068535553865
+    second: outfit_plate_gold_57
+  - first:
+      213: -2773739802043118715
+    second: outfit_plate_gold_58
+  - first:
+      213: 6770057934947155324
+    second: outfit_plate_gold_59
+  - first:
+      213: -8683415439345376543
+    second: outfit_plate_gold_60
+  - first:
+      213: 74591890570135674
+    second: outfit_plate_gold_61
+  - first:
+      213: -104402408804601490
+    second: outfit_plate_gold_62
+  - first:
+      213: 6438092934095019647
+    second: outfit_plate_gold_63
+  - first:
+      213: -5384714976135460490
+    second: outfit_plate_gold_64
+  - first:
+      213: 3987148676752437272
+    second: outfit_plate_gold_65
+  - first:
+      213: -507891291966980806
+    second: outfit_plate_gold_66
+  - first:
+      213: -3675325857690150033
+    second: outfit_plate_gold_67
+  - first:
+      213: 1061075447146882772
+    second: outfit_plate_gold_68
+  - first:
+      213: 691585095734511504
+    second: outfit_plate_gold_69
+  - first:
+      213: -8667285657286626982
+    second: outfit_plate_gold_70
+  - first:
+      213: -1403986200357806076
+    second: outfit_plate_gold_71
+  - first:
+      213: 244256849651224020
+    second: outfit_plate_gold_72
+  - first:
+      213: 1559434726721474202
+    second: outfit_plate_gold_73
+  - first:
+      213: 6836020145729827361
+    second: outfit_plate_gold_74
+  - first:
+      213: 990702993404542215
+    second: outfit_plate_gold_75
+  - first:
+      213: -9171481501663284190
+    second: outfit_plate_gold_76
+  - first:
+      213: 3458793393373940520
+    second: outfit_plate_gold_77
+  - first:
+      213: -9075168671760288915
+    second: outfit_plate_gold_78
+  - first:
+      213: -4271608935180962790
+    second: outfit_plate_gold_79
+  - first:
+      213: 5712384169832079494
+    second: outfit_plate_gold_80
+  - first:
+      213: -1389171681527679065
+    second: outfit_plate_gold_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: outfit_plate_gold_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7165eb55fa235de0800000000000000
+      internalID: -1345684630356532867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071fc513775ce5b90800000000000000
+      internalID: -7251141234299965072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 575
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5792078ef6d091a00800000000000000
+      internalID: 727627589089241461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 575
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac644484bfb9d140800000000000000
+      internalID: 4745034464445623456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10daaa15761131a40800000000000000
+      internalID: 5337629118813613313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 575
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eed0d8d433b6bc0800000000000000
+      internalID: -3788878253330141623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 575
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dd9006d21792680800000000000000
+      internalID: -8779361558883345027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 575
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e94357999dcd290800000000000000
+      internalID: -7864171596176122311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 594
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277fcfca8e8e403a0800000000000000
+      internalID: -6699974259588139150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 575
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dd21ad8f59ace70800000000000000
+      internalID: 9136279690117569830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 590
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7c77f59c5baab50800000000000000
+      internalID: 6605291679986993099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 575
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e41028c3d34f6e00800000000000000
+      internalID: 1040124615820580066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02588b00f62f0d280800000000000000
+      internalID: -9020443495055719136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 511
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1430c6b311c0000800000000000000
+      internalID: 3396646633423327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 511
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b877fd976c50ced0800000000000000
+      internalID: -2395813401659475785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 511
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af067f7491d8aab0800000000000000
+      internalID: -4996513350843756640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 511
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8eb2f91bbf98a90800000000000000
+      internalID: -7311035779761051414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 511
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e0e6dc8c4e3bce0800000000000000
+      internalID: -1390516308836217308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 543
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e03664c1d8c65a0800000000000000
+      internalID: -6526686607387193747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 513
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60f0a43f51b15bf0800000000000000
+      internalID: -337293474613104534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 540
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a414324214d0f1d00800000000000000
+      internalID: 945489020201419082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 511
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa6dc7c562723060800000000000000
+      internalID: 6931728557946006177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 535
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3e55652457a7c70800000000000000
+      internalID: 8969610535638524920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 511
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1d62f7f5a238a50800000000000000
+      internalID: 6522103275006120352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 511
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1d301b1af958cb0800000000000000
+      internalID: -4862304705868213788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 488
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339ed417a778b83f0800000000000000
+      internalID: -897474740773590733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 447
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0fe191a3b839a80800000000000000
+      internalID: -8461266193253207870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 486
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5128fbb26ca1ebe40800000000000000
+      internalID: 5674002018973221397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 447
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cd0cdacff802e00800000000000000
+      internalID: 1017971831195360284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 447
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73767881d5266500800000000000000
+      internalID: 389039999681983357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 480
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573df602e6891ca90800000000000000
+      internalID: -7295382322605468811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 447
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c059a113cfb6cd60800000000000000
+      internalID: 7910220640058691779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 474
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c76e1830a823c0800000000000000
+      internalID: -4384078074356448105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 447
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b732ff54219a826b0800000000000000
+      internalID: -5320817063789386885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adba968abc4b3ddb0800000000000000
+      internalID: -4768268793658364966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 447
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98d54c716b199b50800000000000000
+      internalID: 6600336834398902427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 480
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1566ee27f78c9ce0800000000000000
+      internalID: -1397092288678173412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 447
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a605fcd36943cdcf0800000000000000
+      internalID: -226248061388631958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 447
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bfd70c8a34f7410800000000000000
+      internalID: 1476973594863860638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_39
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 471
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2303554d188eef50800000000000000
+      internalID: 6912612137358787371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 447
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648fdee99f7995880800000000000000
+      internalID: -8621692913255057338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_41
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 471
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7584f6ab519934570800000000000000
+      internalID: 8449765644478400599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99489aeb6108b0c00800000000000000
+      internalID: 867928188375368857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5bac0aecdfeb5b0800000000000000
+      internalID: -5350560243366840853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 383
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84d685fc029616d0800000000000000
+      internalID: -3020065915748821873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82c0d4fd26fe22a0800000000000000
+      internalID: -6760195313395252594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_46
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 409
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4466b8c4e85bd520800000000000000
+      internalID: 2727871738946151501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_47
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 383
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce482bd1e0c5b000800000000000000
+      internalID: 51159047061655239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc19e6316bf20c230800000000000000
+      internalID: 3656975356481409487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 383
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386b745ddc012c1d0800000000000000
+      internalID: -3332082298068158845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 383
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69db05e88d2860fb0800000000000000
+      internalID: -4681910895992849002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 383
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecfe286d1dc9aef0800000000000000
+      internalID: -96320390826099481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_52
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1327b73847cd2f630800000000000000
+      internalID: 3959469415392309809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b5af245b9e925b0800000000000000
+      internalID: -5392522114077402346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fdd112e88178830800000000000000
+      internalID: 4073251386699931537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3851772b8e28cac70800000000000000
+      internalID: 8983699292635469187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 383
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cb904c441744d50800000000000000
+      internalID: 6720621084104309890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f33b581a0467a40800000000000000
+      internalID: 5365547068535553865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_58
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b8bdf8852b189d0800000000000000
+      internalID: -2773739802043118715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_59
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 407
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7df65192d314fd50800000000000000
+      internalID: 6770057934947155324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e22da42aaf4e7780800000000000000
+      internalID: -8683415439345376543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 319
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78ce84ede0090100800000000000000
+      internalID: 74591890570135674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_62
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61b185ff861d8ef0800000000000000
+      internalID: -104402408804601490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e9fafb963b85950800000000000000
+      internalID: 6438092934095019647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 319
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67948b63246a545b0800000000000000
+      internalID: -5384714976135460490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 319
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8107f70c892355730800000000000000
+      internalID: 3987148676752437272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 319
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d3bc59f8b93f8f0800000000000000
+      internalID: -507891291966980806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 319
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b129aea9e9efcc0800000000000000
+      internalID: -3675325857690150033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_68
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 319
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d624135f72b9be00800000000000000
+      internalID: 1061075447146882772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_69
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097c53bfaf0099900800000000000000
+      internalID: 691585095734511504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51b79ead9d97b780800000000000000
+      internalID: -8667285657286626982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_71
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 319
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4006f1a4df9048ce0800000000000000
+      internalID: -1403986200357806076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_72
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 319
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddca658f46c36300800000000000000
+      internalID: 244256849651224020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_73
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 319
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e44a82f9934a510800000000000000
+      internalID: 1559434726721474202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122f3af8a1c6ede50800000000000000
+      internalID: 6836020145729827361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_75
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 319
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d3bcf9f1fafbd00800000000000000
+      internalID: 990702993404542215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 355
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2243b45ba2a58b080800000000000000
+      internalID: -9171481501663284190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_77
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 255
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b858b044a100030800000000000000
+      internalID: 3458793393373940520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 277
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6379f2ec268e0280800000000000000
+      internalID: -9075168671760288915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_79
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 258
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14772f2e4238b4c0800000000000000
+      internalID: -4271608935180962790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_80
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680e76f0327764f40800000000000000
+      internalID: 5712384169832079494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_gold_81
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 255
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7b28e37bba8bce0800000000000000
+      internalID: -1389171681527679065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      outfit_plate_gold_0: -1345684630356532867
+      outfit_plate_gold_1: -7251141234299965072
+      outfit_plate_gold_10: 6605291679986993099
+      outfit_plate_gold_11: 1040124615820580066
+      outfit_plate_gold_12: -9020443495055719136
+      outfit_plate_gold_13: 3396646633423327
+      outfit_plate_gold_14: -2395813401659475785
+      outfit_plate_gold_15: -4996513350843756640
+      outfit_plate_gold_16: -7311035779761051414
+      outfit_plate_gold_17: -1390516308836217308
+      outfit_plate_gold_18: -6526686607387193747
+      outfit_plate_gold_19: -337293474613104534
+      outfit_plate_gold_2: 727627589089241461
+      outfit_plate_gold_20: 945489020201419082
+      outfit_plate_gold_21: 6931728557946006177
+      outfit_plate_gold_22: 8969610535638524920
+      outfit_plate_gold_23: 6522103275006120352
+      outfit_plate_gold_24: -4862304705868213788
+      outfit_plate_gold_25: -897474740773590733
+      outfit_plate_gold_26: -8461266193253207870
+      outfit_plate_gold_27: 5674002018973221397
+      outfit_plate_gold_28: 1017971831195360284
+      outfit_plate_gold_29: 389039999681983357
+      outfit_plate_gold_3: 4745034464445623456
+      outfit_plate_gold_30: -7295382322605468811
+      outfit_plate_gold_31: 7910220640058691779
+      outfit_plate_gold_32: -4384078074356448105
+      outfit_plate_gold_33: -5320817063789386885
+      outfit_plate_gold_34: -4768268793658364966
+      outfit_plate_gold_35: 6600336834398902427
+      outfit_plate_gold_36: -1397092288678173412
+      outfit_plate_gold_37: -226248061388631958
+      outfit_plate_gold_38: 1476973594863860638
+      outfit_plate_gold_39: 6912612137358787371
+      outfit_plate_gold_4: 5337629118813613313
+      outfit_plate_gold_40: -8621692913255057338
+      outfit_plate_gold_41: 8449765644478400599
+      outfit_plate_gold_42: 867928188375368857
+      outfit_plate_gold_43: -5350560243366840853
+      outfit_plate_gold_44: -3020065915748821873
+      outfit_plate_gold_45: -6760195313395252594
+      outfit_plate_gold_46: 2727871738946151501
+      outfit_plate_gold_47: 51159047061655239
+      outfit_plate_gold_48: 3656975356481409487
+      outfit_plate_gold_49: -3332082298068158845
+      outfit_plate_gold_5: -3788878253330141623
+      outfit_plate_gold_50: -4681910895992849002
+      outfit_plate_gold_51: -96320390826099481
+      outfit_plate_gold_52: 3959469415392309809
+      outfit_plate_gold_53: -5392522114077402346
+      outfit_plate_gold_54: 4073251386699931537
+      outfit_plate_gold_55: 8983699292635469187
+      outfit_plate_gold_56: 6720621084104309890
+      outfit_plate_gold_57: 5365547068535553865
+      outfit_plate_gold_58: -2773739802043118715
+      outfit_plate_gold_59: 6770057934947155324
+      outfit_plate_gold_6: -8779361558883345027
+      outfit_plate_gold_60: -8683415439345376543
+      outfit_plate_gold_61: 74591890570135674
+      outfit_plate_gold_62: -104402408804601490
+      outfit_plate_gold_63: 6438092934095019647
+      outfit_plate_gold_64: -5384714976135460490
+      outfit_plate_gold_65: 3987148676752437272
+      outfit_plate_gold_66: -507891291966980806
+      outfit_plate_gold_67: -3675325857690150033
+      outfit_plate_gold_68: 1061075447146882772
+      outfit_plate_gold_69: 691585095734511504
+      outfit_plate_gold_7: -7864171596176122311
+      outfit_plate_gold_70: -8667285657286626982
+      outfit_plate_gold_71: -1403986200357806076
+      outfit_plate_gold_72: 244256849651224020
+      outfit_plate_gold_73: 1559434726721474202
+      outfit_plate_gold_74: 6836020145729827361
+      outfit_plate_gold_75: 990702993404542215
+      outfit_plate_gold_76: -9171481501663284190
+      outfit_plate_gold_77: 3458793393373940520
+      outfit_plate_gold_78: -9075168671760288915
+      outfit_plate_gold_79: -4271608935180962790
+      outfit_plate_gold_8: -6699974259588139150
+      outfit_plate_gold_80: 5712384169832079494
+      outfit_plate_gold_81: -1389171681527679065
+      outfit_plate_gold_9: 9136279690117569830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

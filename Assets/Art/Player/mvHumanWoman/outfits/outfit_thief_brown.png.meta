@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: a69b63fee68845b468b579d1781c0029
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7566830084546653214
+    second: outfit_thief_brown_0
+  - first:
+      213: 5881302094307120259
+    second: outfit_thief_brown_1
+  - first:
+      213: -4272483448398205058
+    second: outfit_thief_brown_2
+  - first:
+      213: 1708118867568890657
+    second: outfit_thief_brown_3
+  - first:
+      213: -5424343622580800562
+    second: outfit_thief_brown_4
+  - first:
+      213: -4663924472291513314
+    second: outfit_thief_brown_5
+  - first:
+      213: 2110410609439096188
+    second: outfit_thief_brown_6
+  - first:
+      213: -9048601803720281412
+    second: outfit_thief_brown_7
+  - first:
+      213: 9209917742696405182
+    second: outfit_thief_brown_8
+  - first:
+      213: -4417267904256672203
+    second: outfit_thief_brown_9
+  - first:
+      213: -2506223954872725416
+    second: outfit_thief_brown_10
+  - first:
+      213: 2389107195419675739
+    second: outfit_thief_brown_11
+  - first:
+      213: 5511609343860729947
+    second: outfit_thief_brown_12
+  - first:
+      213: -5083307689551550680
+    second: outfit_thief_brown_13
+  - first:
+      213: -4332064129786743419
+    second: outfit_thief_brown_14
+  - first:
+      213: 8256300676649191728
+    second: outfit_thief_brown_15
+  - first:
+      213: 1474769053422990779
+    second: outfit_thief_brown_16
+  - first:
+      213: 6273245009054121583
+    second: outfit_thief_brown_17
+  - first:
+      213: 862247976454680578
+    second: outfit_thief_brown_18
+  - first:
+      213: -957077574781327539
+    second: outfit_thief_brown_19
+  - first:
+      213: -5928891444552456897
+    second: outfit_thief_brown_20
+  - first:
+      213: -8334507104540646785
+    second: outfit_thief_brown_21
+  - first:
+      213: 6786919803503631012
+    second: outfit_thief_brown_22
+  - first:
+      213: 7541654027167320692
+    second: outfit_thief_brown_23
+  - first:
+      213: 8028382269646629106
+    second: outfit_thief_brown_24
+  - first:
+      213: -6876389346365117991
+    second: outfit_thief_brown_25
+  - first:
+      213: 4979216056562008682
+    second: outfit_thief_brown_26
+  - first:
+      213: 2354657464175436946
+    second: outfit_thief_brown_27
+  - first:
+      213: -7396294573912460341
+    second: outfit_thief_brown_28
+  - first:
+      213: -413784503529006652
+    second: outfit_thief_brown_29
+  - first:
+      213: -4988990539355810405
+    second: outfit_thief_brown_30
+  - first:
+      213: -6479423204084534483
+    second: outfit_thief_brown_31
+  - first:
+      213: 8637375586723475177
+    second: outfit_thief_brown_32
+  - first:
+      213: 8228823138759491635
+    second: outfit_thief_brown_33
+  - first:
+      213: -6301302185667956514
+    second: outfit_thief_brown_34
+  - first:
+      213: -3094925938684951586
+    second: outfit_thief_brown_35
+  - first:
+      213: 6847011889505619837
+    second: outfit_thief_brown_36
+  - first:
+      213: 5301071752600162663
+    second: outfit_thief_brown_37
+  - first:
+      213: 8377408935397238868
+    second: outfit_thief_brown_38
+  - first:
+      213: -3326481426252851267
+    second: outfit_thief_brown_39
+  - first:
+      213: -1989441901488613766
+    second: outfit_thief_brown_40
+  - first:
+      213: 1123468054678692504
+    second: outfit_thief_brown_41
+  - first:
+      213: 157325104428296997
+    second: outfit_thief_brown_42
+  - first:
+      213: 5786298404806724781
+    second: outfit_thief_brown_43
+  - first:
+      213: 4726712218480320755
+    second: outfit_thief_brown_44
+  - first:
+      213: -841075798575865788
+    second: outfit_thief_brown_45
+  - first:
+      213: 5839377886385328487
+    second: outfit_thief_brown_46
+  - first:
+      213: 4431796341572405357
+    second: outfit_thief_brown_47
+  - first:
+      213: 5142350937864594285
+    second: outfit_thief_brown_48
+  - first:
+      213: 7083752427337780112
+    second: outfit_thief_brown_49
+  - first:
+      213: -3088300696589274410
+    second: outfit_thief_brown_50
+  - first:
+      213: 4160935916491253820
+    second: outfit_thief_brown_51
+  - first:
+      213: -842195201730190638
+    second: outfit_thief_brown_52
+  - first:
+      213: 4575755628103477588
+    second: outfit_thief_brown_53
+  - first:
+      213: -8955138587236884325
+    second: outfit_thief_brown_54
+  - first:
+      213: -7704104769472769150
+    second: outfit_thief_brown_55
+  - first:
+      213: 1440509273136239641
+    second: outfit_thief_brown_56
+  - first:
+      213: 2122281951319150027
+    second: outfit_thief_brown_57
+  - first:
+      213: -2032494272621962872
+    second: outfit_thief_brown_58
+  - first:
+      213: -6694169381577995411
+    second: outfit_thief_brown_59
+  - first:
+      213: 5348560808541484566
+    second: outfit_thief_brown_60
+  - first:
+      213: 3543943010408898657
+    second: outfit_thief_brown_61
+  - first:
+      213: -3132724500247619503
+    second: outfit_thief_brown_62
+  - first:
+      213: -96263259539327612
+    second: outfit_thief_brown_63
+  - first:
+      213: -6107437119029447073
+    second: outfit_thief_brown_64
+  - first:
+      213: -7116965459748075697
+    second: outfit_thief_brown_65
+  - first:
+      213: -4086762772484119272
+    second: outfit_thief_brown_66
+  - first:
+      213: -2203967226976003491
+    second: outfit_thief_brown_67
+  - first:
+      213: -6621299859879018280
+    second: outfit_thief_brown_68
+  - first:
+      213: -2092183912215015073
+    second: outfit_thief_brown_69
+  - first:
+      213: -6426585874330462699
+    second: outfit_thief_brown_70
+  - first:
+      213: 1298300814151768543
+    second: outfit_thief_brown_71
+  - first:
+      213: -5065887903782122636
+    second: outfit_thief_brown_72
+  - first:
+      213: 1679607418247627084
+    second: outfit_thief_brown_73
+  - first:
+      213: 8605962741319979152
+    second: outfit_thief_brown_74
+  - first:
+      213: -6388194540277612434
+    second: outfit_thief_brown_75
+  - first:
+      213: -488803600576050881
+    second: outfit_thief_brown_76
+  - first:
+      213: 8468666905788084318
+    second: outfit_thief_brown_77
+  - first:
+      213: -365408810007569831
+    second: outfit_thief_brown_78
+  - first:
+      213: 1485897472734702723
+    second: outfit_thief_brown_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: outfit_thief_brown_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e39bdef0283df690800000000000000
+      internalID: -7566830084546653214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384dfe328159e9150800000000000000
+      internalID: 5881302094307120259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 575
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f2d75b0f615b4c0800000000000000
+      internalID: -4272483448398205058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 575
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123169f5f0574b710800000000000000
+      internalID: 1708118867568890657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec37a64f63cd8b4b0800000000000000
+      internalID: -5424343622580800562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 575
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c20d92769664fb0800000000000000
+      internalID: -4663924472291513314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 575
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d35d1944fa94d10800000000000000
+      internalID: 2110410609439096188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 575
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb23b4fd998ec6280800000000000000
+      internalID: -9048601803720281412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 594
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb89cf7046330df70800000000000000
+      internalID: 9209917742696405182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 575
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53efb09ae36b2b2c0800000000000000
+      internalID: -4417267904256672203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 590
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8509c32779a183dd0800000000000000
+      internalID: -2506223954872725416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 575
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cc1511650d72120800000000000000
+      internalID: 2389107195419675739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58ea891f7b2d7c40800000000000000
+      internalID: 5511609343860729947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 511
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827a440c6967479b0800000000000000
+      internalID: -5083307689551550680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 511
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58579df40aa61e3c0800000000000000
+      internalID: -4332064129786743419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 511
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0390e7eb8b5449270800000000000000
+      internalID: 8256300676649191728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 511
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb53403f3ae677410800000000000000
+      internalID: 1474769053422990779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 511
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eb9a1491b0f0750800000000000000
+      internalID: 6273245009054121583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 513
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20071e857f157fb00800000000000000
+      internalID: 862247976454680578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_19
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 540
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47aaac3407c7b2f0800000000000000
+      internalID: -957077574781327539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 511
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35299fc4a858bda0800000000000000
+      internalID: -5928891444552456897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 511
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72a2ef42f1e55c80800000000000000
+      internalID: -8334507104540646785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 511
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aad5e64a9bff2e50800000000000000
+      internalID: 6786919803503631012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 487
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ac33c516659a860800000000000000
+      internalID: 7541654027167320692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 484
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8e457532b8a6f60800000000000000
+      internalID: 8028382269646629106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 447
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d960a872582290a0800000000000000
+      internalID: -6876389346365117991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 447
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62cc475f9ab91540800000000000000
+      internalID: 4979216056562008682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 447
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29426e7fc7c6da020800000000000000
+      internalID: 2354657464175436946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 478
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc37cc3b5451b5990800000000000000
+      internalID: -7396294573912460341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 447
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c99795bf21f14af0800000000000000
+      internalID: -413784503529006652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 447
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9599e9898b83cab0800000000000000
+      internalID: -4988990539355810405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 447
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d233e13ece67416a0800000000000000
+      internalID: -6479423204084534483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 474
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eea846555f1ed770800000000000000
+      internalID: 8637375586723475177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 447
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3304649eb07a23270800000000000000
+      internalID: 8228823138759491635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed07ed04c074d88a0800000000000000
+      internalID: -6301302185667956514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 447
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed38a82a14d9c05d0800000000000000
+      internalID: -3094925938684951586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 447
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fcbd65909750f50800000000000000
+      internalID: 6847011889505619837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_37
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 478
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76117963ca0319940800000000000000
+      internalID: 5301071752600162663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 463
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45829849a09824470800000000000000
+      internalID: 8377408935397238868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 471
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7934c64c6f5d1d0800000000000000
+      internalID: -3326481426252851267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 471
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a765e7091251464e0800000000000000
+      internalID: -1989441901488613766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 413
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8926f9b4e3c579f00800000000000000
+      internalID: 1123468054678692504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 411
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b23b3595eee2200800000000000000
+      internalID: 157325104428296997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 407
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac0ae6fdbf0d4050800000000000000
+      internalID: 5786298404806724781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_44
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 405
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0a40238b7a89140800000000000000
+      internalID: 4726712218480320755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 383
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44025b47406e354f0800000000000000
+      internalID: -841075798575865788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761d443df33a90150800000000000000
+      internalID: 5839377886385328487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d688c40ca47e08d30800000000000000
+      internalID: 4431796341572405357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_48
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 383
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63e0d1ceec4d5740800000000000000
+      internalID: 5142350937864594285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 383
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b87442d4b8e4260800000000000000
+      internalID: 7083752427337780112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 383
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2743401e62425d0800000000000000
+      internalID: -3088300696589274410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_51
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 401
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3820a3ab2d9eb930800000000000000
+      internalID: 4160935916491253820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 401
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d265591debef44f0800000000000000
+      internalID: -842195201730190638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_53
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4592a181089508f30800000000000000
+      internalID: 4575755628103477588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_54
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b902a59b6e4f8b380800000000000000
+      internalID: -8955138587236884325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_55
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 383
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283de2fb785851590800000000000000
+      internalID: -7704104769472769150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 401
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91411f04d87bdf310800000000000000
+      internalID: 1440509273136239641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_57
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdc99db03cd37d10800000000000000
+      internalID: 2122281951319150027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8891a584a312bc3e0800000000000000
+      internalID: -2032494272621962872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 359
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b4fb82a688913a0800000000000000
+      internalID: -6694169381577995411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_60
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 355
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616f0bca7b7e93a40800000000000000
+      internalID: 5348560808541484566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_61
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 353
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160a6af246d9e2130800000000000000
+      internalID: 3543943010408898657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 319
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158d3973aa35684d0800000000000000
+      internalID: -3132724500247619503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 319
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485bc3253110aaef0800000000000000
+      internalID: -96263259539327612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 319
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56f6308c460e3ba0800000000000000
+      internalID: -6107437119029447073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_65
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 319
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47cdf42f957b3d90800000000000000
+      internalID: -7116965459748075697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 319
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8152bc839e6e847c0800000000000000
+      internalID: -4086762772484119272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 319
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a1e73fb7fe961e0800000000000000
+      internalID: -2203967226976003491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_68
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 349
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0419ccbda6c14a0800000000000000
+      internalID: -6621299859879018280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 349
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5113a311d117f2e0800000000000000
+      internalID: -2092183912215015073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_70
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 319
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5165df1623e20d6a0800000000000000
+      internalID: -6426585874330462699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 319
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9dd1736bd740210800000000000000
+      internalID: 1298300814151768543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_72
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 319
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b4e1faac952b9b0800000000000000
+      internalID: -5065887903782122636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 349
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41c2c64c0a2f4710800000000000000
+      internalID: 1679607418247627084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 319
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090df9254858e6770800000000000000
+      internalID: 8605962741319979152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_75
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 255
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60c9a669e29857a0800000000000000
+      internalID: -6388194540277612434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 277
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f398bbe07bb6739f0800000000000000
+      internalID: -488803600576050881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_77
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 274
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50fa909eafb68570800000000000000
+      internalID: 8468666905788084318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_78
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 258
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a53b19f9ecdeaf0800000000000000
+      internalID: -365408810007569831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_brown_79
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 255
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ca00bf0e7fe9410800000000000000
+      internalID: 1485897472734702723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      outfit_thief_brown_0: -7566830084546653214
+      outfit_thief_brown_1: 5881302094307120259
+      outfit_thief_brown_10: -2506223954872725416
+      outfit_thief_brown_11: 2389107195419675739
+      outfit_thief_brown_12: 5511609343860729947
+      outfit_thief_brown_13: -5083307689551550680
+      outfit_thief_brown_14: -4332064129786743419
+      outfit_thief_brown_15: 8256300676649191728
+      outfit_thief_brown_16: 1474769053422990779
+      outfit_thief_brown_17: 6273245009054121583
+      outfit_thief_brown_18: 862247976454680578
+      outfit_thief_brown_19: -957077574781327539
+      outfit_thief_brown_2: -4272483448398205058
+      outfit_thief_brown_20: -5928891444552456897
+      outfit_thief_brown_21: -8334507104540646785
+      outfit_thief_brown_22: 6786919803503631012
+      outfit_thief_brown_23: 7541654027167320692
+      outfit_thief_brown_24: 8028382269646629106
+      outfit_thief_brown_25: -6876389346365117991
+      outfit_thief_brown_26: 4979216056562008682
+      outfit_thief_brown_27: 2354657464175436946
+      outfit_thief_brown_28: -7396294573912460341
+      outfit_thief_brown_29: -413784503529006652
+      outfit_thief_brown_3: 1708118867568890657
+      outfit_thief_brown_30: -4988990539355810405
+      outfit_thief_brown_31: -6479423204084534483
+      outfit_thief_brown_32: 8637375586723475177
+      outfit_thief_brown_33: 8228823138759491635
+      outfit_thief_brown_34: -6301302185667956514
+      outfit_thief_brown_35: -3094925938684951586
+      outfit_thief_brown_36: 6847011889505619837
+      outfit_thief_brown_37: 5301071752600162663
+      outfit_thief_brown_38: 8377408935397238868
+      outfit_thief_brown_39: -3326481426252851267
+      outfit_thief_brown_4: -5424343622580800562
+      outfit_thief_brown_40: -1989441901488613766
+      outfit_thief_brown_41: 1123468054678692504
+      outfit_thief_brown_42: 157325104428296997
+      outfit_thief_brown_43: 5786298404806724781
+      outfit_thief_brown_44: 4726712218480320755
+      outfit_thief_brown_45: -841075798575865788
+      outfit_thief_brown_46: 5839377886385328487
+      outfit_thief_brown_47: 4431796341572405357
+      outfit_thief_brown_48: 5142350937864594285
+      outfit_thief_brown_49: 7083752427337780112
+      outfit_thief_brown_5: -4663924472291513314
+      outfit_thief_brown_50: -3088300696589274410
+      outfit_thief_brown_51: 4160935916491253820
+      outfit_thief_brown_52: -842195201730190638
+      outfit_thief_brown_53: 4575755628103477588
+      outfit_thief_brown_54: -8955138587236884325
+      outfit_thief_brown_55: -7704104769472769150
+      outfit_thief_brown_56: 1440509273136239641
+      outfit_thief_brown_57: 2122281951319150027
+      outfit_thief_brown_58: -2032494272621962872
+      outfit_thief_brown_59: -6694169381577995411
+      outfit_thief_brown_6: 2110410609439096188
+      outfit_thief_brown_60: 5348560808541484566
+      outfit_thief_brown_61: 3543943010408898657
+      outfit_thief_brown_62: -3132724500247619503
+      outfit_thief_brown_63: -96263259539327612
+      outfit_thief_brown_64: -6107437119029447073
+      outfit_thief_brown_65: -7116965459748075697
+      outfit_thief_brown_66: -4086762772484119272
+      outfit_thief_brown_67: -2203967226976003491
+      outfit_thief_brown_68: -6621299859879018280
+      outfit_thief_brown_69: -2092183912215015073
+      outfit_thief_brown_7: -9048601803720281412
+      outfit_thief_brown_70: -6426585874330462699
+      outfit_thief_brown_71: 1298300814151768543
+      outfit_thief_brown_72: -5065887903782122636
+      outfit_thief_brown_73: 1679607418247627084
+      outfit_thief_brown_74: 8605962741319979152
+      outfit_thief_brown_75: -6388194540277612434
+      outfit_thief_brown_76: -488803600576050881
+      outfit_thief_brown_77: 8468666905788084318
+      outfit_thief_brown_78: -365408810007569831
+      outfit_thief_brown_79: 1485897472734702723
+      outfit_thief_brown_8: 9209917742696405182
+      outfit_thief_brown_9: -4417267904256672203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

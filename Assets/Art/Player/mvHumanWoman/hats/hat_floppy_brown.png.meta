@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 893b294aa4c35ba48a6dd1740d8657a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7484933532437436741
+    second: hat_floppy_brown_0
+  - first:
+      213: -8766594426931960730
+    second: hat_floppy_brown_1
+  - first:
+      213: -5322202166000344204
+    second: hat_floppy_brown_2
+  - first:
+      213: -464834636902500350
+    second: hat_floppy_brown_3
+  - first:
+      213: 3637025256054052764
+    second: hat_floppy_brown_4
+  - first:
+      213: 7605526857910955768
+    second: hat_floppy_brown_5
+  - first:
+      213: 6086927285702261847
+    second: hat_floppy_brown_6
+  - first:
+      213: 1553053721800615559
+    second: hat_floppy_brown_7
+  - first:
+      213: 3923967018243696849
+    second: hat_floppy_brown_8
+  - first:
+      213: -5907276469051482443
+    second: hat_floppy_brown_9
+  - first:
+      213: 5538316227739680033
+    second: hat_floppy_brown_10
+  - first:
+      213: -5266013490832736979
+    second: hat_floppy_brown_11
+  - first:
+      213: -691320676013427558
+    second: hat_floppy_brown_12
+  - first:
+      213: -2775311119615179588
+    second: hat_floppy_brown_13
+  - first:
+      213: 1929034827826168179
+    second: hat_floppy_brown_14
+  - first:
+      213: 3616003755593089622
+    second: hat_floppy_brown_15
+  - first:
+      213: 41770958631138707
+    second: hat_floppy_brown_16
+  - first:
+      213: -4958693541588027413
+    second: hat_floppy_brown_17
+  - first:
+      213: -5098798542122281134
+    second: hat_floppy_brown_18
+  - first:
+      213: 2342967398356464293
+    second: hat_floppy_brown_19
+  - first:
+      213: 4225562812115256628
+    second: hat_floppy_brown_20
+  - first:
+      213: -4026865318660035403
+    second: hat_floppy_brown_21
+  - first:
+      213: 8309128696549707164
+    second: hat_floppy_brown_22
+  - first:
+      213: 4183004961742632405
+    second: hat_floppy_brown_23
+  - first:
+      213: -6751947445825415906
+    second: hat_floppy_brown_24
+  - first:
+      213: 7725827072996848341
+    second: hat_floppy_brown_25
+  - first:
+      213: 2235237057134867972
+    second: hat_floppy_brown_26
+  - first:
+      213: -2408943914769908049
+    second: hat_floppy_brown_27
+  - first:
+      213: 1779183077649545949
+    second: hat_floppy_brown_28
+  - first:
+      213: -3136269909664618100
+    second: hat_floppy_brown_29
+  - first:
+      213: 6503707380828951933
+    second: hat_floppy_brown_30
+  - first:
+      213: -3263022979477664975
+    second: hat_floppy_brown_31
+  - first:
+      213: 284410414050817304
+    second: hat_floppy_brown_32
+  - first:
+      213: 6151321735827248251
+    second: hat_floppy_brown_33
+  - first:
+      213: 3331635542044762732
+    second: hat_floppy_brown_34
+  - first:
+      213: -6246001953266863078
+    second: hat_floppy_brown_35
+  - first:
+      213: 6978946492516012551
+    second: hat_floppy_brown_36
+  - first:
+      213: -5390326376898786780
+    second: hat_floppy_brown_37
+  - first:
+      213: -2924915319835420803
+    second: hat_floppy_brown_38
+  - first:
+      213: -5101292568613393800
+    second: hat_floppy_brown_39
+  - first:
+      213: 619264800259151362
+    second: hat_floppy_brown_40
+  - first:
+      213: 2556595403951511972
+    second: hat_floppy_brown_41
+  - first:
+      213: -1411544511423929404
+    second: hat_floppy_brown_42
+  - first:
+      213: 6321952824502120065
+    second: hat_floppy_brown_43
+  - first:
+      213: 1135282741010178121
+    second: hat_floppy_brown_44
+  - first:
+      213: 5208982885014341868
+    second: hat_floppy_brown_45
+  - first:
+      213: -5067794375119558745
+    second: hat_floppy_brown_46
+  - first:
+      213: -4916261255336262657
+    second: hat_floppy_brown_47
+  - first:
+      213: 8847838945671978459
+    second: hat_floppy_brown_48
+  - first:
+      213: -3994297687869337140
+    second: hat_floppy_brown_49
+  - first:
+      213: -7697774059638434355
+    second: hat_floppy_brown_50
+  - first:
+      213: -866706736426127847
+    second: hat_floppy_brown_51
+  - first:
+      213: -2031760173733081016
+    second: hat_floppy_brown_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_floppy_brown_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549d7501463dfd760800000000000000
+      internalID: 7484933532437436741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6642dcce0dcc65680800000000000000
+      internalID: -8766594426931960730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4732cb8045db326b0800000000000000
+      internalID: -5322202166000344204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208f02c4c539c89f0800000000000000
+      internalID: -464834636902500350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97d93a533f497230800000000000000
+      internalID: 3637025256054052764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fea977a1624c8960800000000000000
+      internalID: 7605526857910955768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c7aedcd1c197450800000000000000
+      internalID: 6086927285702261847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 613
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786260da12e8d8510800000000000000
+      internalID: 1553053721800615559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 608
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8a3c8863bb47630800000000000000
+      internalID: 3923967018243696849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 602
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be99287953250ea0800000000000000
+      internalID: -5907276469051482443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 550
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d7430144d0cdc40800000000000000
+      internalID: 5538316227739680033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 546
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dff7071ac5be6b0800000000000000
+      internalID: -5266013490832736979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 545
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a943658028fe766f0800000000000000
+      internalID: -691320676013427558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 546
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4452ead3d1c79d0800000000000000
+      internalID: -2775311119615179588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 543
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3718fe794fe45ca10800000000000000
+      internalID: 1929034827826168179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 552
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652ca9ed140ae2230800000000000000
+      internalID: 3616003755593089622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 550
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395f22f2776649000800000000000000
+      internalID: 41770958631138707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 550
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be73f970f7e2f2bb0800000000000000
+      internalID: -4958693541588027413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 537
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25795839dbd6d39b0800000000000000
+      internalID: -5098798542122281134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 536
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2bb5b6f64e38020800000000000000
+      internalID: 2342967398356464293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 486
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4350b385df634aa30800000000000000
+      internalID: 4225562812115256628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 485
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcade2f353bd18c0800000000000000
+      internalID: -4026865318660035403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 483
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d89de9684ff4370800000000000000
+      internalID: 8309128696549707164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 480
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5bd56a9d40d0a30800000000000000
+      internalID: 4183004961742632405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 485
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15587542934c42a0800000000000000
+      internalID: -6751947445825415906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 480
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2b21a2ac6a73b60800000000000000
+      internalID: 7725827072996848341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 485
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406305bb248250f10800000000000000
+      internalID: 2235237057134867972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 485
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faefc4cc546b19ed0800000000000000
+      internalID: -2408943914769908049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 480
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaffa5259de0b810800000000000000
+      internalID: 1779183077649545949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_29
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 485
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89a1b2422bb974d0800000000000000
+      internalID: -3136269909664618100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 412
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75556d976fc14a50800000000000000
+      internalID: 6503707380828951933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 412
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b0c4e63e967b2d0800000000000000
+      internalID: -3263022979477664975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 412
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815bbe3c3cd62f300800000000000000
+      internalID: 284410414050817304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 410
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b745f131782ed5550800000000000000
+      internalID: 6151321735827248251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 412
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62e4acafd85c3e20800000000000000
+      internalID: 3331635542044762732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 410
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14f125f05eb159a0800000000000000
+      internalID: -6246001953266863078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 412
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70210e0ebd23ad060800000000000000
+      internalID: 6978946492516012551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 412
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a878928b6b135b0800000000000000
+      internalID: -5390326376898786780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 410
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d779c13730d9867d0800000000000000
+      internalID: -2924915319835420803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_39
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 412
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a6578cf619439b0800000000000000
+      internalID: -5101292568613393800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 360
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20699590e02189800800000000000000
+      internalID: 619264800259151362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 360
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a91de679f9da7320800000000000000
+      internalID: 2556595403951511972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 360
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3acebdebf296ce0800000000000000
+      internalID: -1411544511423929404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_43
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 358
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ee93749961cb750800000000000000
+      internalID: 6321952824502120065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 360
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9402b8153a551cf00800000000000000
+      internalID: 1135282741010178121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 358
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce88e56e5560a4840800000000000000
+      internalID: 5208982885014341868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_46
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 360
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7a64cbdd39ba9b0800000000000000
+      internalID: -5067794375119558745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 360
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff38aac8f6ee5cbb0800000000000000
+      internalID: -4916261255336262657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_48
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 358
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd15aaa4a6d9ca70800000000000000
+      internalID: 8847838945671978459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_49
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 360
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc152636a676198c0800000000000000
+      internalID: -3994297687869337140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 288
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5d80ef6430c2590800000000000000
+      internalID: -7697774059638434355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 270
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ee1e2b0d6d8f3f0800000000000000
+      internalID: -866706736426127847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_brown_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 255
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8409adff2ecbdc3e0800000000000000
+      internalID: -2031760173733081016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_floppy_brown_0: 7484933532437436741
+      hat_floppy_brown_1: -8766594426931960730
+      hat_floppy_brown_10: 5538316227739680033
+      hat_floppy_brown_11: -5266013490832736979
+      hat_floppy_brown_12: -691320676013427558
+      hat_floppy_brown_13: -2775311119615179588
+      hat_floppy_brown_14: 1929034827826168179
+      hat_floppy_brown_15: 3616003755593089622
+      hat_floppy_brown_16: 41770958631138707
+      hat_floppy_brown_17: -4958693541588027413
+      hat_floppy_brown_18: -5098798542122281134
+      hat_floppy_brown_19: 2342967398356464293
+      hat_floppy_brown_2: -5322202166000344204
+      hat_floppy_brown_20: 4225562812115256628
+      hat_floppy_brown_21: -4026865318660035403
+      hat_floppy_brown_22: 8309128696549707164
+      hat_floppy_brown_23: 4183004961742632405
+      hat_floppy_brown_24: -6751947445825415906
+      hat_floppy_brown_25: 7725827072996848341
+      hat_floppy_brown_26: 2235237057134867972
+      hat_floppy_brown_27: -2408943914769908049
+      hat_floppy_brown_28: 1779183077649545949
+      hat_floppy_brown_29: -3136269909664618100
+      hat_floppy_brown_3: -464834636902500350
+      hat_floppy_brown_30: 6503707380828951933
+      hat_floppy_brown_31: -3263022979477664975
+      hat_floppy_brown_32: 284410414050817304
+      hat_floppy_brown_33: 6151321735827248251
+      hat_floppy_brown_34: 3331635542044762732
+      hat_floppy_brown_35: -6246001953266863078
+      hat_floppy_brown_36: 6978946492516012551
+      hat_floppy_brown_37: -5390326376898786780
+      hat_floppy_brown_38: -2924915319835420803
+      hat_floppy_brown_39: -5101292568613393800
+      hat_floppy_brown_4: 3637025256054052764
+      hat_floppy_brown_40: 619264800259151362
+      hat_floppy_brown_41: 2556595403951511972
+      hat_floppy_brown_42: -1411544511423929404
+      hat_floppy_brown_43: 6321952824502120065
+      hat_floppy_brown_44: 1135282741010178121
+      hat_floppy_brown_45: 5208982885014341868
+      hat_floppy_brown_46: -5067794375119558745
+      hat_floppy_brown_47: -4916261255336262657
+      hat_floppy_brown_48: 8847838945671978459
+      hat_floppy_brown_49: -3994297687869337140
+      hat_floppy_brown_5: 7605526857910955768
+      hat_floppy_brown_50: -7697774059638434355
+      hat_floppy_brown_51: -866706736426127847
+      hat_floppy_brown_52: -2031760173733081016
+      hat_floppy_brown_6: 6086927285702261847
+      hat_floppy_brown_7: 1553053721800615559
+      hat_floppy_brown_8: 3923967018243696849
+      hat_floppy_brown_9: -5907276469051482443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -51,7 +51,7 @@ public sealed class PlayerController : MonoBehaviour
         body = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
-        visualRoot ??= transform.Find("CharacterVisual");
+        visualRoot ??= transform.Find("VisualRoot") ?? transform.Find("CharacterVisual");
         facingMarker ??= transform.Find("FacingMarker");
 
         if (inputActions == null)
@@ -133,9 +133,17 @@ public sealed class PlayerController : MonoBehaviour
 
             if (visualRoot != null)
             {
-                Vector3 visualScale = visualRoot.localScale;
-                visualScale.x = facingLeft ? -Mathf.Abs(visualScale.x) : Mathf.Abs(visualScale.x);
-                visualRoot.localScale = visualScale;
+                SpriteRenderer visualRenderer = visualRoot.GetComponent<SpriteRenderer>();
+                if (visualRenderer != null)
+                {
+                    visualRenderer.flipX = facingLeft;
+                }
+                else
+                {
+                    Vector3 visualScale = visualRoot.localScale;
+                    visualScale.x = facingLeft ? -Mathf.Abs(visualScale.x) : Mathf.Abs(visualScale.x);
+                    visualRoot.localScale = visualScale;
+                }
             }
 
             if (facingMarker != null)

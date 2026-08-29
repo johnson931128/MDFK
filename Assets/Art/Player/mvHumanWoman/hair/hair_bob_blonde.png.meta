@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 2a5416469d8989046a5d9eb28bd8a30b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 276582003395123232
+    second: hair_bob_blonde_0
+  - first:
+      213: -5855729455834439824
+    second: hair_bob_blonde_1
+  - first:
+      213: 3448236166929455841
+    second: hair_bob_blonde_2
+  - first:
+      213: 6820137260030351108
+    second: hair_bob_blonde_3
+  - first:
+      213: 8224066793269281943
+    second: hair_bob_blonde_4
+  - first:
+      213: 5872170800549923287
+    second: hair_bob_blonde_5
+  - first:
+      213: -4332041914549405062
+    second: hair_bob_blonde_6
+  - first:
+      213: 5397987734783012029
+    second: hair_bob_blonde_7
+  - first:
+      213: 3127585334838567152
+    second: hair_bob_blonde_8
+  - first:
+      213: 8744589927672562418
+    second: hair_bob_blonde_9
+  - first:
+      213: -5585758285555561152
+    second: hair_bob_blonde_10
+  - first:
+      213: -1429511525308385570
+    second: hair_bob_blonde_11
+  - first:
+      213: -2695202854174025511
+    second: hair_bob_blonde_12
+  - first:
+      213: -2462762839110138959
+    second: hair_bob_blonde_13
+  - first:
+      213: -5818435493736407641
+    second: hair_bob_blonde_14
+  - first:
+      213: -7427907261937842071
+    second: hair_bob_blonde_15
+  - first:
+      213: 4976627151685832473
+    second: hair_bob_blonde_16
+  - first:
+      213: 5672747339108739514
+    second: hair_bob_blonde_17
+  - first:
+      213: -2923378881205831836
+    second: hair_bob_blonde_18
+  - first:
+      213: -5409378273530683867
+    second: hair_bob_blonde_19
+  - first:
+      213: 870000835371185859
+    second: hair_bob_blonde_20
+  - first:
+      213: -2428814194401717022
+    second: hair_bob_blonde_21
+  - first:
+      213: 8416185519179651683
+    second: hair_bob_blonde_22
+  - first:
+      213: 6752179489930188856
+    second: hair_bob_blonde_23
+  - first:
+      213: -211098366300996587
+    second: hair_bob_blonde_24
+  - first:
+      213: 8175378277954899472
+    second: hair_bob_blonde_25
+  - first:
+      213: -3040170601078909517
+    second: hair_bob_blonde_26
+  - first:
+      213: 1723123218632248970
+    second: hair_bob_blonde_27
+  - first:
+      213: 688615128034080065
+    second: hair_bob_blonde_28
+  - first:
+      213: -7136623731072655859
+    second: hair_bob_blonde_29
+  - first:
+      213: -6952760615949218406
+    second: hair_bob_blonde_30
+  - first:
+      213: 4080649167899813106
+    second: hair_bob_blonde_31
+  - first:
+      213: 4684010984114584175
+    second: hair_bob_blonde_32
+  - first:
+      213: 2649516715440784746
+    second: hair_bob_blonde_33
+  - first:
+      213: 3945059710479025144
+    second: hair_bob_blonde_34
+  - first:
+      213: 8779425522356568869
+    second: hair_bob_blonde_35
+  - first:
+      213: 142822716405659962
+    second: hair_bob_blonde_36
+  - first:
+      213: -2360797951406974879
+    second: hair_bob_blonde_37
+  - first:
+      213: 782689375689048899
+    second: hair_bob_blonde_38
+  - first:
+      213: 5333168127873016601
+    second: hair_bob_blonde_39
+  - first:
+      213: 3356758931908412029
+    second: hair_bob_blonde_40
+  - first:
+      213: 7646846868379866774
+    second: hair_bob_blonde_41
+  - first:
+      213: -1919636598187802195
+    second: hair_bob_blonde_42
+  - first:
+      213: 1274816213152601104
+    second: hair_bob_blonde_43
+  - first:
+      213: 7788702819855276928
+    second: hair_bob_blonde_44
+  - first:
+      213: 6204842054348844577
+    second: hair_bob_blonde_45
+  - first:
+      213: -8600263239867108968
+    second: hair_bob_blonde_46
+  - first:
+      213: -2955569065315446104
+    second: hair_bob_blonde_47
+  - first:
+      213: -232623681386362636
+    second: hair_bob_blonde_48
+  - first:
+      213: -7996587382181887836
+    second: hair_bob_blonde_49
+  - first:
+      213: 3809101873094807581
+    second: hair_bob_blonde_50
+  - first:
+      213: -87549469374512909
+    second: hair_bob_blonde_51
+  - first:
+      213: -4088619796502554905
+    second: hair_bob_blonde_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hair_bob_blonde_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 611
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028d1afdddd96d300800000000000000
+      internalID: 276582003395123232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 611
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f523cb5154cbea0800000000000000
+      internalID: -5855729455834439824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 611
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea1c7736889adf20800000000000000
+      internalID: 3448236166929455841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 611
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407d38f04bef5ae50800000000000000
+      internalID: 6820137260030351108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 611
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c6edec21c12270800000000000000
+      internalID: 8224066793269281943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 611
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d903332b342e7150800000000000000
+      internalID: 5872170800549923287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 611
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7afd23b4de71e3c0800000000000000
+      internalID: -4332041914549405062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 609
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc28a9be3189ea40800000000000000
+      internalID: 5397987734783012029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 605
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f026c79a4a676b20800000000000000
+      internalID: 3127585334838567152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 599
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2c16955360b5970800000000000000
+      internalID: 8744589927672562418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 546
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d04441f666b72b0800000000000000
+      internalID: -5585758285555561152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 545
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6baa377da592ce0800000000000000
+      internalID: -1429511525308385570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 544
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8965fa847b89ad0800000000000000
+      internalID: -2695202854174025511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 545
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3cec00f3282ddd0800000000000000
+      internalID: -2462762839110138959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 542
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad115feeb3c04fa0800000000000000
+      internalID: -5818435493736407641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 548
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96886a333b5cae890800000000000000
+      internalID: -7427907261937842071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 547
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f4cc3f608801540800000000000000
+      internalID: 4976627151685832473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 547
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab96e1046a5a9be40800000000000000
+      internalID: 5672747339108739514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 536
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467f8d175621e67d0800000000000000
+      internalID: -2923378881205831836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 535
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52edc7ece170ee4b0800000000000000
+      internalID: -5409378273530683867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 483
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6b79a762dd21c00800000000000000
+      internalID: 870000835371185859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 481
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4524dcb5e1b4ed0800000000000000
+      internalID: -2428814194401717022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a5d7a832c4cc470800000000000000
+      internalID: 8416185519179651683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 477
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83897f4b87f84bd50800000000000000
+      internalID: 6752179489930188856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 481
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cb6ff7727021df0800000000000000
+      internalID: -211098366300996587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 477
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e42f19a37c47170800000000000000
+      internalID: 8175378277954899472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 481
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b51b1222f42fc5d0800000000000000
+      internalID: -3040170601078909517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 481
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e8dc61073c9e710800000000000000
+      internalID: 1723123218632248970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 477
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1457e6d7fc37e8900800000000000000
+      internalID: 688615128034080065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 481
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e9acd278e95fc90800000000000000
+      internalID: -7136623731072655859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 409
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d450e9e05d28f90800000000000000
+      internalID: -6952760615949218406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f469a94cc061a830800000000000000
+      internalID: 4080649167899813106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a7d205c23f00140800000000000000
+      internalID: 4684010984114584175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 407
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65ce4a3a69f4c420800000000000000
+      internalID: 2649516715440784746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3cec4a7eaafb630800000000000000
+      internalID: 3945059710479025144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_35
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 407
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523cf084ff8c6d970800000000000000
+      internalID: 8779425522356568869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39373df0886bf100800000000000000
+      internalID: 142822716405659962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168daef65c2cc3fd0800000000000000
+      internalID: -2360797951406974879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 407
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3430b6f17dbacda00800000000000000
+      internalID: 782689375689048899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 408
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9136e4de728330a40800000000000000
+      internalID: 5333168127873016601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 357
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d724505b67a959e20800000000000000
+      internalID: 3356758931908412029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696179946be0f1a60800000000000000
+      internalID: 7646846868379866774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da14d234fa41c55e0800000000000000
+      internalID: -1919636598187802195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 355
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0149ed2779e01b110800000000000000
+      internalID: 1274816213152601104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b9e86c2f7071c60800000000000000
+      internalID: 7788702819855276928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_45
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 355
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e2ed849f60c1650800000000000000
+      internalID: 6204842054348844577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891fed4462ab5a880800000000000000
+      internalID: -8600263239867108968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a25db82895bbf6d0800000000000000
+      internalID: -2955569065315446104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_48
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 355
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f84f988efd85ccf0800000000000000
+      internalID: -232623681386362636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_49
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a08da5c42a660190800000000000000
+      internalID: -7996587382181887836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_50
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10571bd8f5acd430800000000000000
+      internalID: 3809101873094807581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 271
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f088a1b836f8cef0800000000000000
+      internalID: -87549469374512909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_bob_blonde_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6d5df15fd4247c0800000000000000
+      internalID: -4088619796502554905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hair_bob_blonde_0: 276582003395123232
+      hair_bob_blonde_1: -5855729455834439824
+      hair_bob_blonde_10: -5585758285555561152
+      hair_bob_blonde_11: -1429511525308385570
+      hair_bob_blonde_12: -2695202854174025511
+      hair_bob_blonde_13: -2462762839110138959
+      hair_bob_blonde_14: -5818435493736407641
+      hair_bob_blonde_15: -7427907261937842071
+      hair_bob_blonde_16: 4976627151685832473
+      hair_bob_blonde_17: 5672747339108739514
+      hair_bob_blonde_18: -2923378881205831836
+      hair_bob_blonde_19: -5409378273530683867
+      hair_bob_blonde_2: 3448236166929455841
+      hair_bob_blonde_20: 870000835371185859
+      hair_bob_blonde_21: -2428814194401717022
+      hair_bob_blonde_22: 8416185519179651683
+      hair_bob_blonde_23: 6752179489930188856
+      hair_bob_blonde_24: -211098366300996587
+      hair_bob_blonde_25: 8175378277954899472
+      hair_bob_blonde_26: -3040170601078909517
+      hair_bob_blonde_27: 1723123218632248970
+      hair_bob_blonde_28: 688615128034080065
+      hair_bob_blonde_29: -7136623731072655859
+      hair_bob_blonde_3: 6820137260030351108
+      hair_bob_blonde_30: -6952760615949218406
+      hair_bob_blonde_31: 4080649167899813106
+      hair_bob_blonde_32: 4684010984114584175
+      hair_bob_blonde_33: 2649516715440784746
+      hair_bob_blonde_34: 3945059710479025144
+      hair_bob_blonde_35: 8779425522356568869
+      hair_bob_blonde_36: 142822716405659962
+      hair_bob_blonde_37: -2360797951406974879
+      hair_bob_blonde_38: 782689375689048899
+      hair_bob_blonde_39: 5333168127873016601
+      hair_bob_blonde_4: 8224066793269281943
+      hair_bob_blonde_40: 3356758931908412029
+      hair_bob_blonde_41: 7646846868379866774
+      hair_bob_blonde_42: -1919636598187802195
+      hair_bob_blonde_43: 1274816213152601104
+      hair_bob_blonde_44: 7788702819855276928
+      hair_bob_blonde_45: 6204842054348844577
+      hair_bob_blonde_46: -8600263239867108968
+      hair_bob_blonde_47: -2955569065315446104
+      hair_bob_blonde_48: -232623681386362636
+      hair_bob_blonde_49: -7996587382181887836
+      hair_bob_blonde_5: 5872170800549923287
+      hair_bob_blonde_50: 3809101873094807581
+      hair_bob_blonde_51: -87549469374512909
+      hair_bob_blonde_52: -4088619796502554905
+      hair_bob_blonde_6: -4332041914549405062
+      hair_bob_blonde_7: 5397987734783012029
+      hair_bob_blonde_8: 3127585334838567152
+      hair_bob_blonde_9: 8744589927672562418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

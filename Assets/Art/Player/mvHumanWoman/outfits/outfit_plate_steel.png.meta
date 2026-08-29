@@ -1,0 +1,2262 @@
+fileFormatVersion: 2
+guid: faeb5ac2858104f43a2e1d882f931f66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6825897079741656860
+    second: outfit_plate_steel_0
+  - first:
+      213: -2426795799424542476
+    second: outfit_plate_steel_1
+  - first:
+      213: 302945204014836180
+    second: outfit_plate_steel_2
+  - first:
+      213: -5069522608409563414
+    second: outfit_plate_steel_3
+  - first:
+      213: -7681225041621941855
+    second: outfit_plate_steel_4
+  - first:
+      213: 2602592938348870840
+    second: outfit_plate_steel_5
+  - first:
+      213: 6867307255201004991
+    second: outfit_plate_steel_6
+  - first:
+      213: -1324968532675692348
+    second: outfit_plate_steel_7
+  - first:
+      213: 1628593479769361920
+    second: outfit_plate_steel_8
+  - first:
+      213: -7089713740160821115
+    second: outfit_plate_steel_9
+  - first:
+      213: 7188923203991258472
+    second: outfit_plate_steel_10
+  - first:
+      213: -2526651849015786783
+    second: outfit_plate_steel_11
+  - first:
+      213: 665329818910469695
+    second: outfit_plate_steel_12
+  - first:
+      213: 3558015112140807736
+    second: outfit_plate_steel_13
+  - first:
+      213: 8353126506479618292
+    second: outfit_plate_steel_14
+  - first:
+      213: 7426746789185128894
+    second: outfit_plate_steel_15
+  - first:
+      213: 2367369849167330955
+    second: outfit_plate_steel_16
+  - first:
+      213: 257312307831930934
+    second: outfit_plate_steel_17
+  - first:
+      213: 6166739980806942180
+    second: outfit_plate_steel_18
+  - first:
+      213: 8851906367694978534
+    second: outfit_plate_steel_19
+  - first:
+      213: 5372239862243078502
+    second: outfit_plate_steel_20
+  - first:
+      213: 1958385042546683610
+    second: outfit_plate_steel_21
+  - first:
+      213: -6799481020813613456
+    second: outfit_plate_steel_22
+  - first:
+      213: 4602652672966513883
+    second: outfit_plate_steel_23
+  - first:
+      213: -495534192955446322
+    second: outfit_plate_steel_24
+  - first:
+      213: -5996404308454953118
+    second: outfit_plate_steel_25
+  - first:
+      213: -4476682432494095360
+    second: outfit_plate_steel_26
+  - first:
+      213: -2794991761309664757
+    second: outfit_plate_steel_27
+  - first:
+      213: 3502967626449843694
+    second: outfit_plate_steel_28
+  - first:
+      213: 4286598448368326230
+    second: outfit_plate_steel_29
+  - first:
+      213: 3468194424974335267
+    second: outfit_plate_steel_30
+  - first:
+      213: 3022701334077643086
+    second: outfit_plate_steel_31
+  - first:
+      213: -6664608905277485122
+    second: outfit_plate_steel_32
+  - first:
+      213: -7683228990279566071
+    second: outfit_plate_steel_33
+  - first:
+      213: 1638802550294242457
+    second: outfit_plate_steel_34
+  - first:
+      213: -3984188238430819223
+    second: outfit_plate_steel_35
+  - first:
+      213: -8809335324757382586
+    second: outfit_plate_steel_36
+  - first:
+      213: 4736280040402049485
+    second: outfit_plate_steel_37
+  - first:
+      213: -2940551551464323273
+    second: outfit_plate_steel_38
+  - first:
+      213: -6360499827022773324
+    second: outfit_plate_steel_39
+  - first:
+      213: 8930143709905947391
+    second: outfit_plate_steel_40
+  - first:
+      213: 3959389495835172964
+    second: outfit_plate_steel_41
+  - first:
+      213: -6976936327761868585
+    second: outfit_plate_steel_42
+  - first:
+      213: 8909249390288041586
+    second: outfit_plate_steel_43
+  - first:
+      213: -9156319082567845845
+    second: outfit_plate_steel_44
+  - first:
+      213: 5250744755039335096
+    second: outfit_plate_steel_45
+  - first:
+      213: -6684507616779027550
+    second: outfit_plate_steel_46
+  - first:
+      213: 5347214543396632275
+    second: outfit_plate_steel_47
+  - first:
+      213: 3465583232538754995
+    second: outfit_plate_steel_48
+  - first:
+      213: -7381188478655224028
+    second: outfit_plate_steel_49
+  - first:
+      213: -5622653491069419591
+    second: outfit_plate_steel_50
+  - first:
+      213: 1392649335354508874
+    second: outfit_plate_steel_51
+  - first:
+      213: -8141010335866113329
+    second: outfit_plate_steel_52
+  - first:
+      213: -3999714587465814392
+    second: outfit_plate_steel_53
+  - first:
+      213: -4940801617368904431
+    second: outfit_plate_steel_54
+  - first:
+      213: -6290385483108377101
+    second: outfit_plate_steel_55
+  - first:
+      213: -8166652792584642615
+    second: outfit_plate_steel_56
+  - first:
+      213: 6578049754548031128
+    second: outfit_plate_steel_57
+  - first:
+      213: -659341452125483491
+    second: outfit_plate_steel_58
+  - first:
+      213: 8970984293709949495
+    second: outfit_plate_steel_59
+  - first:
+      213: -3756067484305112661
+    second: outfit_plate_steel_60
+  - first:
+      213: 550509809695309924
+    second: outfit_plate_steel_61
+  - first:
+      213: 4253395251002578495
+    second: outfit_plate_steel_62
+  - first:
+      213: -2437613619164107417
+    second: outfit_plate_steel_63
+  - first:
+      213: 4766325168141809022
+    second: outfit_plate_steel_64
+  - first:
+      213: 7319717825221442119
+    second: outfit_plate_steel_65
+  - first:
+      213: -7180679167535800022
+    second: outfit_plate_steel_66
+  - first:
+      213: 4065877112612060706
+    second: outfit_plate_steel_67
+  - first:
+      213: 2658558995550063383
+    second: outfit_plate_steel_68
+  - first:
+      213: -954208830838305489
+    second: outfit_plate_steel_69
+  - first:
+      213: 8500308221710629
+    second: outfit_plate_steel_70
+  - first:
+      213: 1798925237191548472
+    second: outfit_plate_steel_71
+  - first:
+      213: -830545253261125648
+    second: outfit_plate_steel_72
+  - first:
+      213: 4888606114092385707
+    second: outfit_plate_steel_73
+  - first:
+      213: 7938380535420236175
+    second: outfit_plate_steel_74
+  - first:
+      213: 3916807655513274687
+    second: outfit_plate_steel_75
+  - first:
+      213: 8708749246859801838
+    second: outfit_plate_steel_76
+  - first:
+      213: -2012614304629224722
+    second: outfit_plate_steel_77
+  - first:
+      213: -5290418391987256741
+    second: outfit_plate_steel_78
+  - first:
+      213: 2651516149158910345
+    second: outfit_plate_steel_79
+  - first:
+      213: 7018975193436531227
+    second: outfit_plate_steel_80
+  - first:
+      213: 3720015655159675872
+    second: outfit_plate_steel_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: outfit_plate_steel_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e05f9865ca8541a0800000000000000
+      internalID: -6825897079741656860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8d3e0041a425ed0800000000000000
+      internalID: -2426795799424542476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 575
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d966b7de07443400800000000000000
+      internalID: 302945204014836180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 575
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeafe01c0075a9b0800000000000000
+      internalID: -5069522608409563414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a10a42858ec66590800000000000000
+      internalID: -7681225041621941855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 575
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc79310d744e1420800000000000000
+      internalID: 2602592938348870840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 575
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdf7b560939d4f50800000000000000
+      internalID: 6867307255201004991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 575
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c87b47b324cc9de0800000000000000
+      internalID: -1324968532675692348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 594
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e8b25242de99610800000000000000
+      internalID: 1628593479769361920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 575
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588128e8ae64c9d90800000000000000
+      internalID: -7089713740160821115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 590
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8654673c09f24c360800000000000000
+      internalID: 7188923203991258472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 575
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e28454b7878fecd0800000000000000
+      internalID: -2526651849015786783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e22aaf1f9bb3900800000000000000
+      internalID: 665329818910469695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 511
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83edf90b4eb906130800000000000000
+      internalID: 3558015112140807736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 511
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f80e960d444ce370800000000000000
+      internalID: 8353126506479618292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 511
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9072e2bda111760800000000000000
+      internalID: 7426746789185128894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 511
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eb69fb5569ad020800000000000000
+      internalID: 2367369849167330955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 511
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63088a04e28229300800000000000000
+      internalID: 257312307831930934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 543
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed623af659a49550800000000000000
+      internalID: 6166739980806942180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 513
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed3a7721f948da70800000000000000
+      internalID: 8851906367694978534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 540
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661313df0b70e8a40800000000000000
+      internalID: 5372239862243078502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 511
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeee6af1d49d2b10800000000000000
+      internalID: 1958385042546683610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 535
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076e469690463a1a0800000000000000
+      internalID: -6799481020813613456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 511
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4dbac5838efdf30800000000000000
+      internalID: 4602652672966513883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 511
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecba4d6e6428f19f0800000000000000
+      internalID: -495534192955446322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 488
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fabe04d0e78cca0800000000000000
+      internalID: -5996404308454953118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 447
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00435fecb01afd1c0800000000000000
+      internalID: -4476682432494095360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 486
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a7ef43dc13639d0800000000000000
+      internalID: -2794991761309664757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 447
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee57c3a2f7a0d9030800000000000000
+      internalID: 3502967626449843694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 447
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6561cb1d39e0d7b30800000000000000
+      internalID: 4286598448368326230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 480
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dd5984470812030800000000000000
+      internalID: 3468194424974335267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 447
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e491ccf29dac2f920800000000000000
+      internalID: 3022701334077643086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 474
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfc702e28d8283a0800000000000000
+      internalID: -6664608905277485122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 447
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d376ad0ffaf5590800000000000000
+      internalID: -7683228990279566071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994ea4b9c323eb610800000000000000
+      internalID: 1638802550294242457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 447
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96caa0208e155b8c0800000000000000
+      internalID: -3984188238430819223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 480
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a298c2234feb580800000000000000
+      internalID: -8809335324757382586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 447
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9dfe45a95aab140800000000000000
+      internalID: 4736280040402049485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 447
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737ce3391ff0137d0800000000000000
+      internalID: -2940551551464323273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_39
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 471
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3cf505b17fab7a0800000000000000
+      internalID: -6360499827022773324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 447
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa0226e36e3eeb70800000000000000
+      internalID: 8930143709905947391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_41
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 471
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4602baac4c392f630800000000000000
+      internalID: 3959389495835172964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d84c331061fc2f90800000000000000
+      internalID: -6976936327761868585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276fb730e1304ab70800000000000000
+      internalID: 8909249390288041586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 383
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28b9618e483ee080800000000000000
+      internalID: -9156319082567845845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b27d5af8846ed840800000000000000
+      internalID: 5250744755039335096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_46
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 409
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab3e731dbbdb33a0800000000000000
+      internalID: -6684507616779027550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_47
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 383
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d675f4eb4f153a40800000000000000
+      internalID: 5347214543396632275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfb50ba699381030800000000000000
+      internalID: 3465583232538754995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 383
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427ac859f20c09990800000000000000
+      internalID: -7381188478655224028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 383
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf72b1a07258f1b0800000000000000
+      internalID: -5622653491069419591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 383
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a464d72213fa35310800000000000000
+      internalID: 1392649335354508874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_52
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2bae18b32550f80800000000000000
+      internalID: -8141010335866113329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ee62b26c82e78c0800000000000000
+      internalID: -3999714587465814392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d0d034b1fbe6bb0800000000000000
+      internalID: -4940801617368904431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd1d032bbf04b8a0800000000000000
+      internalID: -6290385483108377101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 383
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf5a0ecd883aae80800000000000000
+      internalID: -8166652792584642615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e4ea6566de94b50800000000000000
+      internalID: 6578049754548031128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_58
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ece50517c89d6f0800000000000000
+      internalID: -659341452125483491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_59
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 407
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73aa0305fa65f7c70800000000000000
+      internalID: 8970984293709949495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba149950684cfdbc0800000000000000
+      internalID: -3756067484305112661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 319
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460c14451cdc3a700800000000000000
+      internalID: 550509809695309924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_62
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3697510278170b30800000000000000
+      internalID: 4253395251002578495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76da112145bdb2ed0800000000000000
+      internalID: -2437613619164107417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 319
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75b813cc73652240800000000000000
+      internalID: 4766325168141809022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 319
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a3b6c949cd49560800000000000000
+      internalID: 7319717825221442119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 319
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a212bfc875a195c90800000000000000
+      internalID: -7180679167535800022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 319
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ef1a521b5ec6830800000000000000
+      internalID: 4065877112612060706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_68
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 319
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b4e20225915e420800000000000000
+      internalID: 2658558995550063383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_69
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d875cbf18f1c2f0800000000000000
+      internalID: -954208830838305489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521590c3cf23e1000800000000000000
+      internalID: 8500308221710629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_71
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 319
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e994cd8f017f810800000000000000
+      internalID: 1798925237191548472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_72
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 319
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7db791e7f4974f0800000000000000
+      internalID: -830545253261125648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_73
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 319
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5874d1c51d7d340800000000000000
+      internalID: 4888606114092385707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f813991a90bca2e60800000000000000
+      internalID: 7938380535420236175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_75
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 319
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3936608fcb4b5630800000000000000
+      internalID: 3916807655513274687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 355
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee477019c41bbd870800000000000000
+      internalID: 8708749246859801838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_77
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 255
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea84b604f1c114e0800000000000000
+      internalID: -2012614304629224722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 277
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5208689088a496b0800000000000000
+      internalID: -5290418391987256741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_79
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 258
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98914daa3e31cc420800000000000000
+      internalID: 2651516149158910345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_80
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a201410c8686160800000000000000
+      internalID: 7018975193436531227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_plate_steel_81
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 255
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb3fa4678620a330800000000000000
+      internalID: 3720015655159675872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      outfit_plate_steel_0: -6825897079741656860
+      outfit_plate_steel_1: -2426795799424542476
+      outfit_plate_steel_10: 7188923203991258472
+      outfit_plate_steel_11: -2526651849015786783
+      outfit_plate_steel_12: 665329818910469695
+      outfit_plate_steel_13: 3558015112140807736
+      outfit_plate_steel_14: 8353126506479618292
+      outfit_plate_steel_15: 7426746789185128894
+      outfit_plate_steel_16: 2367369849167330955
+      outfit_plate_steel_17: 257312307831930934
+      outfit_plate_steel_18: 6166739980806942180
+      outfit_plate_steel_19: 8851906367694978534
+      outfit_plate_steel_2: 302945204014836180
+      outfit_plate_steel_20: 5372239862243078502
+      outfit_plate_steel_21: 1958385042546683610
+      outfit_plate_steel_22: -6799481020813613456
+      outfit_plate_steel_23: 4602652672966513883
+      outfit_plate_steel_24: -495534192955446322
+      outfit_plate_steel_25: -5996404308454953118
+      outfit_plate_steel_26: -4476682432494095360
+      outfit_plate_steel_27: -2794991761309664757
+      outfit_plate_steel_28: 3502967626449843694
+      outfit_plate_steel_29: 4286598448368326230
+      outfit_plate_steel_3: -5069522608409563414
+      outfit_plate_steel_30: 3468194424974335267
+      outfit_plate_steel_31: 3022701334077643086
+      outfit_plate_steel_32: -6664608905277485122
+      outfit_plate_steel_33: -7683228990279566071
+      outfit_plate_steel_34: 1638802550294242457
+      outfit_plate_steel_35: -3984188238430819223
+      outfit_plate_steel_36: -8809335324757382586
+      outfit_plate_steel_37: 4736280040402049485
+      outfit_plate_steel_38: -2940551551464323273
+      outfit_plate_steel_39: -6360499827022773324
+      outfit_plate_steel_4: -7681225041621941855
+      outfit_plate_steel_40: 8930143709905947391
+      outfit_plate_steel_41: 3959389495835172964
+      outfit_plate_steel_42: -6976936327761868585
+      outfit_plate_steel_43: 8909249390288041586
+      outfit_plate_steel_44: -9156319082567845845
+      outfit_plate_steel_45: 5250744755039335096
+      outfit_plate_steel_46: -6684507616779027550
+      outfit_plate_steel_47: 5347214543396632275
+      outfit_plate_steel_48: 3465583232538754995
+      outfit_plate_steel_49: -7381188478655224028
+      outfit_plate_steel_5: 2602592938348870840
+      outfit_plate_steel_50: -5622653491069419591
+      outfit_plate_steel_51: 1392649335354508874
+      outfit_plate_steel_52: -8141010335866113329
+      outfit_plate_steel_53: -3999714587465814392
+      outfit_plate_steel_54: -4940801617368904431
+      outfit_plate_steel_55: -6290385483108377101
+      outfit_plate_steel_56: -8166652792584642615
+      outfit_plate_steel_57: 6578049754548031128
+      outfit_plate_steel_58: -659341452125483491
+      outfit_plate_steel_59: 8970984293709949495
+      outfit_plate_steel_6: 6867307255201004991
+      outfit_plate_steel_60: -3756067484305112661
+      outfit_plate_steel_61: 550509809695309924
+      outfit_plate_steel_62: 4253395251002578495
+      outfit_plate_steel_63: -2437613619164107417
+      outfit_plate_steel_64: 4766325168141809022
+      outfit_plate_steel_65: 7319717825221442119
+      outfit_plate_steel_66: -7180679167535800022
+      outfit_plate_steel_67: 4065877112612060706
+      outfit_plate_steel_68: 2658558995550063383
+      outfit_plate_steel_69: -954208830838305489
+      outfit_plate_steel_7: -1324968532675692348
+      outfit_plate_steel_70: 8500308221710629
+      outfit_plate_steel_71: 1798925237191548472
+      outfit_plate_steel_72: -830545253261125648
+      outfit_plate_steel_73: 4888606114092385707
+      outfit_plate_steel_74: 7938380535420236175
+      outfit_plate_steel_75: 3916807655513274687
+      outfit_plate_steel_76: 8708749246859801838
+      outfit_plate_steel_77: -2012614304629224722
+      outfit_plate_steel_78: -5290418391987256741
+      outfit_plate_steel_79: 2651516149158910345
+      outfit_plate_steel_8: 1628593479769361920
+      outfit_plate_steel_80: 7018975193436531227
+      outfit_plate_steel_81: 3720015655159675872
+      outfit_plate_steel_9: -7089713740160821115
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

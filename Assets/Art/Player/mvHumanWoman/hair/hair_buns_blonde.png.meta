@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 1c60c5e1b6f86294089f3a7f554b9bf5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 334098519618851832
+    second: hair_buns_blonde_0
+  - first:
+      213: -432936171394811435
+    second: hair_buns_blonde_1
+  - first:
+      213: 1684581932804735164
+    second: hair_buns_blonde_2
+  - first:
+      213: 645417805431115740
+    second: hair_buns_blonde_3
+  - first:
+      213: -3181650124357261756
+    second: hair_buns_blonde_4
+  - first:
+      213: 952781578359908091
+    second: hair_buns_blonde_5
+  - first:
+      213: 3382022599843209436
+    second: hair_buns_blonde_6
+  - first:
+      213: -3687738001056666760
+    second: hair_buns_blonde_7
+  - first:
+      213: 2841260792271589470
+    second: hair_buns_blonde_8
+  - first:
+      213: 7577685790803149490
+    second: hair_buns_blonde_9
+  - first:
+      213: 500699675035460555
+    second: hair_buns_blonde_10
+  - first:
+      213: 2021475987092682815
+    second: hair_buns_blonde_11
+  - first:
+      213: -3282753138746161361
+    second: hair_buns_blonde_12
+  - first:
+      213: -7228914000361748941
+    second: hair_buns_blonde_13
+  - first:
+      213: 653144247728019125
+    second: hair_buns_blonde_14
+  - first:
+      213: -5044290371062853919
+    second: hair_buns_blonde_15
+  - first:
+      213: -4762387147263714797
+    second: hair_buns_blonde_16
+  - first:
+      213: 8996356961449898960
+    second: hair_buns_blonde_17
+  - first:
+      213: -7631974881826149192
+    second: hair_buns_blonde_18
+  - first:
+      213: 3416565177208910382
+    second: hair_buns_blonde_19
+  - first:
+      213: -6721344599109049728
+    second: hair_buns_blonde_20
+  - first:
+      213: -6609431035623986903
+    second: hair_buns_blonde_21
+  - first:
+      213: -9023852069550797912
+    second: hair_buns_blonde_22
+  - first:
+      213: 7616303470281720706
+    second: hair_buns_blonde_23
+  - first:
+      213: -4822798264395123260
+    second: hair_buns_blonde_24
+  - first:
+      213: -2314948336740704255
+    second: hair_buns_blonde_25
+  - first:
+      213: 5377628355600430071
+    second: hair_buns_blonde_26
+  - first:
+      213: 1469216507674637694
+    second: hair_buns_blonde_27
+  - first:
+      213: 6778724714214111491
+    second: hair_buns_blonde_28
+  - first:
+      213: -6437967504887268399
+    second: hair_buns_blonde_29
+  - first:
+      213: -3793582810342526263
+    second: hair_buns_blonde_30
+  - first:
+      213: 8108202172133656063
+    second: hair_buns_blonde_31
+  - first:
+      213: -347852502006349365
+    second: hair_buns_blonde_32
+  - first:
+      213: -7112489717124526535
+    second: hair_buns_blonde_33
+  - first:
+      213: -1695915381102318724
+    second: hair_buns_blonde_34
+  - first:
+      213: 6689971810987125368
+    second: hair_buns_blonde_35
+  - first:
+      213: 2955448567557669562
+    second: hair_buns_blonde_36
+  - first:
+      213: 3890732340687875821
+    second: hair_buns_blonde_37
+  - first:
+      213: -1493100458931935462
+    second: hair_buns_blonde_38
+  - first:
+      213: -4467036989567140736
+    second: hair_buns_blonde_39
+  - first:
+      213: 1448670407133202178
+    second: hair_buns_blonde_40
+  - first:
+      213: -970632698249318425
+    second: hair_buns_blonde_41
+  - first:
+      213: -155524182304617410
+    second: hair_buns_blonde_42
+  - first:
+      213: 8604687637021609585
+    second: hair_buns_blonde_43
+  - first:
+      213: 7554772845813014298
+    second: hair_buns_blonde_44
+  - first:
+      213: 9107680212779049423
+    second: hair_buns_blonde_45
+  - first:
+      213: 7124945300002368056
+    second: hair_buns_blonde_46
+  - first:
+      213: -8543415087456262280
+    second: hair_buns_blonde_47
+  - first:
+      213: 6878784439740272515
+    second: hair_buns_blonde_48
+  - first:
+      213: 3450913915971708203
+    second: hair_buns_blonde_49
+  - first:
+      213: 398358179051416405
+    second: hair_buns_blonde_50
+  - first:
+      213: -2965022234199607637
+    second: hair_buns_blonde_51
+  - first:
+      213: 7496612328335739732
+    second: hair_buns_blonde_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hair_buns_blonde_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 613
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f39ddd55d4f2a400800000000000000
+      internalID: 334098519618851832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 612
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9389d88d6edf9f0800000000000000
+      internalID: -432936171394811435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 612
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb00ed3b756d06710800000000000000
+      internalID: 1684581932804735164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 612
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf0f60131cf4f800800000000000000
+      internalID: 645417805431115740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 612
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446ab1aa11288d3d0800000000000000
+      internalID: -3181650124357261756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 583
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6ada62cc5f83d00800000000000000
+      internalID: 952781578359908091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 612
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd06ff5c2ab5fee20800000000000000
+      internalID: 3382022599843209436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 610
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bee4693d582dcc0800000000000000
+      internalID: -3687738001056666760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 605
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50d79d03af2e6720800000000000000
+      internalID: 2841260792271589470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 599
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2c8541419592960800000000000000
+      internalID: 7577685790803149490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 547
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc364ad93b7d2f600800000000000000
+      internalID: 500699675035460555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 546
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3834a433b9bd0c10800000000000000
+      internalID: 2021475987092682815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 545
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f278cbfb9615172d0800000000000000
+      internalID: -3282753138746161361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 546
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3360790640dbdab90800000000000000
+      internalID: -7228914000361748941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 543
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b61be89b3f601900800000000000000
+      internalID: 653144247728019125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 549
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee00e022a41ff9b0800000000000000
+      internalID: -5044290371062853919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 547
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ad57c2f1a98edb0800000000000000
+      internalID: -4762387147263714797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 547
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d375dfddfa79dc70800000000000000
+      internalID: 8996356961449898960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 537
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc6c0ae747c51690800000000000000
+      internalID: -7631974881826149192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 536
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22b18b4de31a6f20800000000000000
+      internalID: 3416565177208910382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0826d15c2bcf8b2a0800000000000000
+      internalID: -6721344599109049728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 482
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929a03acd759644a0800000000000000
+      internalID: -6609431035623986903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 480
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab40c86a56d4c280800000000000000
+      internalID: -9023852069550797912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 477
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28387bf37ab82b960800000000000000
+      internalID: 7616303470281720706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 482
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5bb53e78af11db0800000000000000
+      internalID: -4822798264395123260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 477
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100603bb0c6afdfd0800000000000000
+      internalID: -2314948336740704255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 482
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3b1ad5f7c21aa40800000000000000
+      internalID: 5377628355600430071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 482
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75361621a4b36410800000000000000
+      internalID: 1469216507674637694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 477
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309b4ec563ed21e50800000000000000
+      internalID: 6778724714214111491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 482
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbbfa30aaeb7a6a0800000000000000
+      internalID: -6437967504887268399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 409
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c27183888c7a5bc0800000000000000
+      internalID: -3793582810342526263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 409
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5c31d9aee168070800000000000000
+      internalID: 8108202172133656063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 409
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc14eaf0efd2c2bf0800000000000000
+      internalID: -347852502006349365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 407
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e8c2e294c5b4d90800000000000000
+      internalID: -7112489717124526535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 409
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b664c32f5e678e0800000000000000
+      internalID: -1695915381102318724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 407
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aa347caed87dc50800000000000000
+      internalID: 6689971810987125368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 409
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2463540dcd30920800000000000000
+      internalID: 2955448567557669562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_37
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 409
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee23da2378aef530800000000000000
+      internalID: 3890732340687875821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 407
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17a36b1b01774be0800000000000000
+      internalID: -1493100458931935462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_39
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 409
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cf15e7685e102c0800000000000000
+      internalID: -4467036989567140736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 357
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2078bc55f06ba1410800000000000000
+      internalID: 1448670407133202178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 357
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef687d14be9782f0800000000000000
+      internalID: -970632698249318425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 357
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c00c7849777ddf0800000000000000
+      internalID: -155524182304617410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 355
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e4ed7f0ddf96770800000000000000
+      internalID: 8604687637021609585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 357
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f937950e1f7d860800000000000000
+      internalID: 7554772845813014298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 355
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1ac8226eaf46e70800000000000000
+      internalID: 9107680212779049423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 357
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83aeab23004e0e260800000000000000
+      internalID: 7124945300002368056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_47
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 357
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877e47f2e31bf6980800000000000000
+      internalID: -8543415087456262280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_48
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 355
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f0439a00a567f50800000000000000
+      internalID: 6878784439740272515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_49
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 357
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2522ff3ceb14ef20800000000000000
+      internalID: 3450913915971708203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_50
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b2bbb37a0478500800000000000000
+      internalID: 398358179051416405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 271
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6b563ccff1ad6d0800000000000000
+      internalID: -2965022234199607637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_buns_blonde_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b0441a131590860800000000000000
+      internalID: 7496612328335739732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hair_buns_blonde_0: 334098519618851832
+      hair_buns_blonde_1: -432936171394811435
+      hair_buns_blonde_10: 500699675035460555
+      hair_buns_blonde_11: 2021475987092682815
+      hair_buns_blonde_12: -3282753138746161361
+      hair_buns_blonde_13: -7228914000361748941
+      hair_buns_blonde_14: 653144247728019125
+      hair_buns_blonde_15: -5044290371062853919
+      hair_buns_blonde_16: -4762387147263714797
+      hair_buns_blonde_17: 8996356961449898960
+      hair_buns_blonde_18: -7631974881826149192
+      hair_buns_blonde_19: 3416565177208910382
+      hair_buns_blonde_2: 1684581932804735164
+      hair_buns_blonde_20: -6721344599109049728
+      hair_buns_blonde_21: -6609431035623986903
+      hair_buns_blonde_22: -9023852069550797912
+      hair_buns_blonde_23: 7616303470281720706
+      hair_buns_blonde_24: -4822798264395123260
+      hair_buns_blonde_25: -2314948336740704255
+      hair_buns_blonde_26: 5377628355600430071
+      hair_buns_blonde_27: 1469216507674637694
+      hair_buns_blonde_28: 6778724714214111491
+      hair_buns_blonde_29: -6437967504887268399
+      hair_buns_blonde_3: 645417805431115740
+      hair_buns_blonde_30: -3793582810342526263
+      hair_buns_blonde_31: 8108202172133656063
+      hair_buns_blonde_32: -347852502006349365
+      hair_buns_blonde_33: -7112489717124526535
+      hair_buns_blonde_34: -1695915381102318724
+      hair_buns_blonde_35: 6689971810987125368
+      hair_buns_blonde_36: 2955448567557669562
+      hair_buns_blonde_37: 3890732340687875821
+      hair_buns_blonde_38: -1493100458931935462
+      hair_buns_blonde_39: -4467036989567140736
+      hair_buns_blonde_4: -3181650124357261756
+      hair_buns_blonde_40: 1448670407133202178
+      hair_buns_blonde_41: -970632698249318425
+      hair_buns_blonde_42: -155524182304617410
+      hair_buns_blonde_43: 8604687637021609585
+      hair_buns_blonde_44: 7554772845813014298
+      hair_buns_blonde_45: 9107680212779049423
+      hair_buns_blonde_46: 7124945300002368056
+      hair_buns_blonde_47: -8543415087456262280
+      hair_buns_blonde_48: 6878784439740272515
+      hair_buns_blonde_49: 3450913915971708203
+      hair_buns_blonde_5: 952781578359908091
+      hair_buns_blonde_50: 398358179051416405
+      hair_buns_blonde_51: -2965022234199607637
+      hair_buns_blonde_52: 7496612328335739732
+      hair_buns_blonde_6: 3382022599843209436
+      hair_buns_blonde_7: -3687738001056666760
+      hair_buns_blonde_8: 2841260792271589470
+      hair_buns_blonde_9: 7577685790803149490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

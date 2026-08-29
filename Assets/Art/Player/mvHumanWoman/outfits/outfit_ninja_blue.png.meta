@@ -1,0 +1,2366 @@
+fileFormatVersion: 2
+guid: ebd506be9c9e4824091ff6ebff3711a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9116646001532564206
+    second: outfit_ninja_blue_0
+  - first:
+      213: 3868881601400214447
+    second: outfit_ninja_blue_1
+  - first:
+      213: -4827264165562193985
+    second: outfit_ninja_blue_2
+  - first:
+      213: 1862943304048347354
+    second: outfit_ninja_blue_3
+  - first:
+      213: 1431481847772106435
+    second: outfit_ninja_blue_4
+  - first:
+      213: 3094649401735144279
+    second: outfit_ninja_blue_5
+  - first:
+      213: -4101314487877190075
+    second: outfit_ninja_blue_6
+  - first:
+      213: -4326572544651485524
+    second: outfit_ninja_blue_7
+  - first:
+      213: 8072916854554031219
+    second: outfit_ninja_blue_8
+  - first:
+      213: 2888695335920513466
+    second: outfit_ninja_blue_9
+  - first:
+      213: 1177063198925630498
+    second: outfit_ninja_blue_10
+  - first:
+      213: -6807934705553660177
+    second: outfit_ninja_blue_11
+  - first:
+      213: 2094136069261394966
+    second: outfit_ninja_blue_12
+  - first:
+      213: -1882190987904835496
+    second: outfit_ninja_blue_13
+  - first:
+      213: 8174384056993668535
+    second: outfit_ninja_blue_14
+  - first:
+      213: 7292964019104600965
+    second: outfit_ninja_blue_15
+  - first:
+      213: -632397627396353668
+    second: outfit_ninja_blue_16
+  - first:
+      213: -5466827940778936862
+    second: outfit_ninja_blue_17
+  - first:
+      213: -3654020998613216787
+    second: outfit_ninja_blue_18
+  - first:
+      213: -3269951797146034868
+    second: outfit_ninja_blue_19
+  - first:
+      213: -2221153508054980127
+    second: outfit_ninja_blue_20
+  - first:
+      213: 7842995191732570201
+    second: outfit_ninja_blue_21
+  - first:
+      213: -8005508478965643670
+    second: outfit_ninja_blue_22
+  - first:
+      213: 320007892538022614
+    second: outfit_ninja_blue_23
+  - first:
+      213: 91126168205092228
+    second: outfit_ninja_blue_24
+  - first:
+      213: 2320502463774235844
+    second: outfit_ninja_blue_25
+  - first:
+      213: 4409876735384752158
+    second: outfit_ninja_blue_26
+  - first:
+      213: 7554767643669676133
+    second: outfit_ninja_blue_27
+  - first:
+      213: 5371369277684081129
+    second: outfit_ninja_blue_28
+  - first:
+      213: -8719979879519099904
+    second: outfit_ninja_blue_29
+  - first:
+      213: -9061601689054428045
+    second: outfit_ninja_blue_30
+  - first:
+      213: 7015337694976869686
+    second: outfit_ninja_blue_31
+  - first:
+      213: -2647944171572348905
+    second: outfit_ninja_blue_32
+  - first:
+      213: 5104963604299407141
+    second: outfit_ninja_blue_33
+  - first:
+      213: 8353619098916905567
+    second: outfit_ninja_blue_34
+  - first:
+      213: -9184954479469971419
+    second: outfit_ninja_blue_35
+  - first:
+      213: -1015301878181548204
+    second: outfit_ninja_blue_36
+  - first:
+      213: 6908651268365514859
+    second: outfit_ninja_blue_37
+  - first:
+      213: 7609697062317662645
+    second: outfit_ninja_blue_38
+  - first:
+      213: 3509643496853501676
+    second: outfit_ninja_blue_39
+  - first:
+      213: -4539349107192396201
+    second: outfit_ninja_blue_40
+  - first:
+      213: -175412814061158643
+    second: outfit_ninja_blue_41
+  - first:
+      213: -8867658717943688821
+    second: outfit_ninja_blue_42
+  - first:
+      213: -7917744871142477297
+    second: outfit_ninja_blue_43
+  - first:
+      213: -2530820788160760184
+    second: outfit_ninja_blue_44
+  - first:
+      213: 8038561318775559381
+    second: outfit_ninja_blue_45
+  - first:
+      213: -3812297123405119619
+    second: outfit_ninja_blue_46
+  - first:
+      213: 5346312188168751418
+    second: outfit_ninja_blue_47
+  - first:
+      213: 5815175984685074630
+    second: outfit_ninja_blue_48
+  - first:
+      213: 7732500121736789073
+    second: outfit_ninja_blue_49
+  - first:
+      213: -5825887918707082936
+    second: outfit_ninja_blue_50
+  - first:
+      213: -6762283717873227209
+    second: outfit_ninja_blue_51
+  - first:
+      213: 9074368285339177823
+    second: outfit_ninja_blue_52
+  - first:
+      213: 7231330064602628785
+    second: outfit_ninja_blue_53
+  - first:
+      213: 8351407754619724485
+    second: outfit_ninja_blue_54
+  - first:
+      213: 2782057074213660252
+    second: outfit_ninja_blue_55
+  - first:
+      213: 4729223147953564001
+    second: outfit_ninja_blue_56
+  - first:
+      213: -4865370904127070766
+    second: outfit_ninja_blue_57
+  - first:
+      213: -2695137467896893413
+    second: outfit_ninja_blue_58
+  - first:
+      213: -3251101809458513520
+    second: outfit_ninja_blue_59
+  - first:
+      213: -5895633295160793737
+    second: outfit_ninja_blue_60
+  - first:
+      213: -8788924014264588550
+    second: outfit_ninja_blue_61
+  - first:
+      213: -2159927382472558915
+    second: outfit_ninja_blue_62
+  - first:
+      213: 7810718062745885298
+    second: outfit_ninja_blue_63
+  - first:
+      213: -4272563266792117430
+    second: outfit_ninja_blue_64
+  - first:
+      213: -7748055052029456663
+    second: outfit_ninja_blue_65
+  - first:
+      213: -5094356527240320714
+    second: outfit_ninja_blue_66
+  - first:
+      213: -6251750611179332651
+    second: outfit_ninja_blue_67
+  - first:
+      213: 2363104773106093438
+    second: outfit_ninja_blue_68
+  - first:
+      213: 4973851161905402692
+    second: outfit_ninja_blue_69
+  - first:
+      213: 6581924988602868466
+    second: outfit_ninja_blue_70
+  - first:
+      213: 4106518753201798464
+    second: outfit_ninja_blue_71
+  - first:
+      213: -2231752781450481941
+    second: outfit_ninja_blue_72
+  - first:
+      213: 6294404070935684805
+    second: outfit_ninja_blue_73
+  - first:
+      213: 5890568118788314882
+    second: outfit_ninja_blue_74
+  - first:
+      213: -6174747722570014757
+    second: outfit_ninja_blue_75
+  - first:
+      213: -2490812864010127177
+    second: outfit_ninja_blue_76
+  - first:
+      213: -9086375502261039748
+    second: outfit_ninja_blue_77
+  - first:
+      213: 5301991984733638894
+    second: outfit_ninja_blue_78
+  - first:
+      213: -7423702870616138442
+    second: outfit_ninja_blue_79
+  - first:
+      213: -8567136236089588575
+    second: outfit_ninja_blue_80
+  - first:
+      213: 5829105668788187861
+    second: outfit_ninja_blue_81
+  - first:
+      213: -4258270579512993499
+    second: outfit_ninja_blue_82
+  - first:
+      213: -2300764260358233602
+    second: outfit_ninja_blue_83
+  - first:
+      213: 7924490656236306873
+    second: outfit_ninja_blue_84
+  - first:
+      213: 5410994682164174979
+    second: outfit_ninja_blue_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: outfit_ninja_blue_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee275508c35d48e70800000000000000
+      internalID: 9116646001532564206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 575
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa31189715701b530800000000000000
+      internalID: 3868881601400214447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 575
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb761be31dc120db0800000000000000
+      internalID: -4827264165562193985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 575
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad88e7290118ad910800000000000000
+      internalID: 1862943304048347354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 575
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce40eef725add310800000000000000
+      internalID: 1431481847772106435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 575
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7536cc61c3762fa20800000000000000
+      internalID: 3094649401735144279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 584
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ebae5f3343517c0800000000000000
+      internalID: -4101314487877190075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 575
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae171d913de4f3c0800000000000000
+      internalID: -4326572544651485524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 575
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374f4f86b13c80070800000000000000
+      internalID: 8072916854554031219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 575
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1bed16a15b61820800000000000000
+      internalID: 2888695335920513466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 575
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ca52a3eb4c55010800000000000000
+      internalID: 1177063198925630498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 575
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6ab6d847b5581a0800000000000000
+      internalID: -6807934705553660177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 575
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61488a7e8addf0d10800000000000000
+      internalID: 2094136069261394966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850ad7ec44d11e5e0800000000000000
+      internalID: -1882190987904835496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 511
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd59b67dfe317170800000000000000
+      internalID: 8174384056993668535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 511
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5835f66b220d53560800000000000000
+      internalID: 7292964019104600965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 511
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c719d3e55b54937f0800000000000000
+      internalID: -632397627396353668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 511
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5f0bdc3fce124b0800000000000000
+      internalID: -5466827940778936862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 511
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de157d7f24f4a4dc0800000000000000
+      internalID: -3654020998613216787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 511
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dd57a5a2cce92d0800000000000000
+      internalID: -3269951797146034868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 519
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e925c017a0ec21e0800000000000000
+      internalID: -2221153508054980127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 521
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958015aa29ae7dc60800000000000000
+      internalID: 7842995191732570201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 516
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6600e01478b6e090800000000000000
+      internalID: -8005508478965643670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 519
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dadc089b75e07400800000000000000
+      internalID: 320007892538022614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 511
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4856b9564ceb34100800000000000000
+      internalID: 91126168205092228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 513
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc9ead32b4143020800000000000000
+      internalID: 2320502463774235844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 511
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e101edbb687033d30800000000000000
+      internalID: 4409876735384752158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 447
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560cb81252de7d860800000000000000
+      internalID: 7554767643669676133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e16ec936efea8a40800000000000000
+      internalID: 5371369277684081129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 447
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004e5b000886cf680800000000000000
+      internalID: -8719979879519099904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374c4d33649be3280800000000000000
+      internalID: -9061601689054428045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 452
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6350188f67c7b5160800000000000000
+      internalID: 7015337694976869686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7183d5c2ecc904bd0800000000000000
+      internalID: -2647944171572348905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f5091d95978d640800000000000000
+      internalID: 5104963604299407141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 452
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f526cd3af440ee370800000000000000
+      internalID: 8353619098916905567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5283f0d909c788080800000000000000
+      internalID: -9184954479469971419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fa333325ce8e1f0800000000000000
+      internalID: -1015301878181548204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_37
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 447
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b687af799b570ef50800000000000000
+      internalID: 6908651268365514859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b127c709231b9960800000000000000
+      internalID: 7609697062317662645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 452
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6763e5a22c4b030800000000000000
+      internalID: 3509643496853501676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7568f4a990ef001c0800000000000000
+      internalID: -4539349107192396201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_41
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 447
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f35d899fec09df0800000000000000
+      internalID: -175412814061158643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81129ff06fbfe480800000000000000
+      internalID: -8867658717943688821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02b16d5df48e1290800000000000000
+      internalID: -7917744871142477297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 447
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886f08be6e7b0ecd0800000000000000
+      internalID: -2530820788160760184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d410d6ede4be8f60800000000000000
+      internalID: 8038561318775559381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 452
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fb135f6fff71bc0800000000000000
+      internalID: -3812297123405119619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39c322fb9ae13a40800000000000000
+      internalID: 5346312188168751418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_48
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 447
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c849897fb7a3b050800000000000000
+      internalID: 5815175984685074630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 383
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c39c564eb5f4b60800000000000000
+      internalID: 7732500121736789073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 383
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84979380ec9462fa0800000000000000
+      internalID: -5825887918707082936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 383
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a22c569ca8722a0800000000000000
+      internalID: -6762283717873227209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 383
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5356b0a0e1aeed70800000000000000
+      internalID: 9074368285339177823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 383
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b20e3a6168da5460800000000000000
+      internalID: 7231330064602628785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_54
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 383
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c22d8cea1926e370800000000000000
+      internalID: 8351407754619724485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 383
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c562e554b2adb9620800000000000000
+      internalID: 2782057074213660252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_56
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 383
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169a355856391a140800000000000000
+      internalID: 4729223147953564001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_57
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 383
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd1cf6c0faba7cb0800000000000000
+      internalID: -4865370904127070766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_58
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 383
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10f82d90c2f89ad0800000000000000
+      internalID: -2695137467896893413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 327
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099789e1124c1e2d0800000000000000
+      internalID: -3251101809458513520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_60
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 327
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775a9f321c08e2ea0800000000000000
+      internalID: -5895633295160793737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_61
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 327
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6ebdbbc28770680800000000000000
+      internalID: -8788924014264588550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 327
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6751b4d756602e0800000000000000
+      internalID: -2159927382472558915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 327
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a12b2f1be356c60800000000000000
+      internalID: 7810718062745885298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_64
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 327
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b297a885ec4b4c0800000000000000
+      internalID: -4272563266792117430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_65
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 327
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee0d9b2bf0697490800000000000000
+      internalID: -7748055052029456663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_66
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 327
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639e5a2cab53d49b0800000000000000
+      internalID: -5094356527240320714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_67
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 327
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db135c31f15d39a0800000000000000
+      internalID: -6251750611179332651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_68
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 327
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dc408554f6bc020800000000000000
+      internalID: 2363104773106093438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4431907774ba60540800000000000000
+      internalID: 4973851161905402692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_70
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2e0f397e1b75b50800000000000000
+      internalID: 6581924988602868466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04db21c7c094df830800000000000000
+      internalID: 4106518753201798464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_72
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee672b6ba83701e0800000000000000
+      internalID: -2231752781450481941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_73
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6e4e047273a5750800000000000000
+      internalID: 6294404070935684805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_74
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2075e959e708fb150800000000000000
+      internalID: 5890568118788314882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_75
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfdf8a59a3ee4aa0800000000000000
+      internalID: -6174747722570014757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_76
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8f3b6a5eade6dd0800000000000000
+      internalID: -2490812864010127177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_77
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d4be35f95b6e180800000000000000
+      internalID: -9086375502261039748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_78
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee054047e95749940800000000000000
+      internalID: 5301991984733638894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_79
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 264
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d90e65295b9f890800000000000000
+      internalID: -7423702870616138442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 262
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4c081ebfa6b1980800000000000000
+      internalID: -8567136236089588575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 268
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2f55ac8b425e050800000000000000
+      internalID: 5829105668788187861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_82
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 260
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52991ae187597e4c0800000000000000
+      internalID: -4258270579512993499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1ee6d581b0210e0800000000000000
+      internalID: -2300764260358233602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_84
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 258
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b10ede144279fd60800000000000000
+      internalID: 7924490656236306873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_ninja_blue_85
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 255
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3806ce7aef6b71b40800000000000000
+      internalID: 5410994682164174979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      outfit_ninja_blue_0: 9116646001532564206
+      outfit_ninja_blue_1: 3868881601400214447
+      outfit_ninja_blue_10: 1177063198925630498
+      outfit_ninja_blue_11: -6807934705553660177
+      outfit_ninja_blue_12: 2094136069261394966
+      outfit_ninja_blue_13: -1882190987904835496
+      outfit_ninja_blue_14: 8174384056993668535
+      outfit_ninja_blue_15: 7292964019104600965
+      outfit_ninja_blue_16: -632397627396353668
+      outfit_ninja_blue_17: -5466827940778936862
+      outfit_ninja_blue_18: -3654020998613216787
+      outfit_ninja_blue_19: -3269951797146034868
+      outfit_ninja_blue_2: -4827264165562193985
+      outfit_ninja_blue_20: -2221153508054980127
+      outfit_ninja_blue_21: 7842995191732570201
+      outfit_ninja_blue_22: -8005508478965643670
+      outfit_ninja_blue_23: 320007892538022614
+      outfit_ninja_blue_24: 91126168205092228
+      outfit_ninja_blue_25: 2320502463774235844
+      outfit_ninja_blue_26: 4409876735384752158
+      outfit_ninja_blue_27: 7554767643669676133
+      outfit_ninja_blue_28: 5371369277684081129
+      outfit_ninja_blue_29: -8719979879519099904
+      outfit_ninja_blue_3: 1862943304048347354
+      outfit_ninja_blue_30: -9061601689054428045
+      outfit_ninja_blue_31: 7015337694976869686
+      outfit_ninja_blue_32: -2647944171572348905
+      outfit_ninja_blue_33: 5104963604299407141
+      outfit_ninja_blue_34: 8353619098916905567
+      outfit_ninja_blue_35: -9184954479469971419
+      outfit_ninja_blue_36: -1015301878181548204
+      outfit_ninja_blue_37: 6908651268365514859
+      outfit_ninja_blue_38: 7609697062317662645
+      outfit_ninja_blue_39: 3509643496853501676
+      outfit_ninja_blue_4: 1431481847772106435
+      outfit_ninja_blue_40: -4539349107192396201
+      outfit_ninja_blue_41: -175412814061158643
+      outfit_ninja_blue_42: -8867658717943688821
+      outfit_ninja_blue_43: -7917744871142477297
+      outfit_ninja_blue_44: -2530820788160760184
+      outfit_ninja_blue_45: 8038561318775559381
+      outfit_ninja_blue_46: -3812297123405119619
+      outfit_ninja_blue_47: 5346312188168751418
+      outfit_ninja_blue_48: 5815175984685074630
+      outfit_ninja_blue_49: 7732500121736789073
+      outfit_ninja_blue_5: 3094649401735144279
+      outfit_ninja_blue_50: -5825887918707082936
+      outfit_ninja_blue_51: -6762283717873227209
+      outfit_ninja_blue_52: 9074368285339177823
+      outfit_ninja_blue_53: 7231330064602628785
+      outfit_ninja_blue_54: 8351407754619724485
+      outfit_ninja_blue_55: 2782057074213660252
+      outfit_ninja_blue_56: 4729223147953564001
+      outfit_ninja_blue_57: -4865370904127070766
+      outfit_ninja_blue_58: -2695137467896893413
+      outfit_ninja_blue_59: -3251101809458513520
+      outfit_ninja_blue_6: -4101314487877190075
+      outfit_ninja_blue_60: -5895633295160793737
+      outfit_ninja_blue_61: -8788924014264588550
+      outfit_ninja_blue_62: -2159927382472558915
+      outfit_ninja_blue_63: 7810718062745885298
+      outfit_ninja_blue_64: -4272563266792117430
+      outfit_ninja_blue_65: -7748055052029456663
+      outfit_ninja_blue_66: -5094356527240320714
+      outfit_ninja_blue_67: -6251750611179332651
+      outfit_ninja_blue_68: 2363104773106093438
+      outfit_ninja_blue_69: 4973851161905402692
+      outfit_ninja_blue_7: -4326572544651485524
+      outfit_ninja_blue_70: 6581924988602868466
+      outfit_ninja_blue_71: 4106518753201798464
+      outfit_ninja_blue_72: -2231752781450481941
+      outfit_ninja_blue_73: 6294404070935684805
+      outfit_ninja_blue_74: 5890568118788314882
+      outfit_ninja_blue_75: -6174747722570014757
+      outfit_ninja_blue_76: -2490812864010127177
+      outfit_ninja_blue_77: -9086375502261039748
+      outfit_ninja_blue_78: 5301991984733638894
+      outfit_ninja_blue_79: -7423702870616138442
+      outfit_ninja_blue_8: 8072916854554031219
+      outfit_ninja_blue_80: -8567136236089588575
+      outfit_ninja_blue_81: 5829105668788187861
+      outfit_ninja_blue_82: -4258270579512993499
+      outfit_ninja_blue_83: -2300764260358233602
+      outfit_ninja_blue_84: 7924490656236306873
+      outfit_ninja_blue_85: 5410994682164174979
+      outfit_ninja_blue_9: 2888695335920513466
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

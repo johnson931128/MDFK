@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: cee713376da8e094389e6451ed4f3da9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3362651238255642716
+    second: hair_long_black_0
+  - first:
+      213: 7224504168548268139
+    second: hair_long_black_1
+  - first:
+      213: -6383150538542613867
+    second: hair_long_black_2
+  - first:
+      213: 5487027853161813564
+    second: hair_long_black_3
+  - first:
+      213: -1490767416856031746
+    second: hair_long_black_4
+  - first:
+      213: 2837011929323647717
+    second: hair_long_black_5
+  - first:
+      213: 4576107363735198916
+    second: hair_long_black_6
+  - first:
+      213: 8699376022633919027
+    second: hair_long_black_7
+  - first:
+      213: -5931707351056119750
+    second: hair_long_black_8
+  - first:
+      213: -2011411960249990149
+    second: hair_long_black_9
+  - first:
+      213: -2019011553341512114
+    second: hair_long_black_10
+  - first:
+      213: -7227888291510513916
+    second: hair_long_black_11
+  - first:
+      213: -8643877270140945309
+    second: hair_long_black_12
+  - first:
+      213: 1600959515436856957
+    second: hair_long_black_13
+  - first:
+      213: 247820986520492231
+    second: hair_long_black_14
+  - first:
+      213: 7156538216889501606
+    second: hair_long_black_15
+  - first:
+      213: 3570609263347084932
+    second: hair_long_black_16
+  - first:
+      213: 7148291612048359344
+    second: hair_long_black_17
+  - first:
+      213: 2516906702790073635
+    second: hair_long_black_18
+  - first:
+      213: 1193122413636055458
+    second: hair_long_black_19
+  - first:
+      213: 918589530473277636
+    second: hair_long_black_20
+  - first:
+      213: 6676732898630710350
+    second: hair_long_black_21
+  - first:
+      213: 3723600820273764103
+    second: hair_long_black_22
+  - first:
+      213: 4108639320678373946
+    second: hair_long_black_23
+  - first:
+      213: -6646045942249077188
+    second: hair_long_black_24
+  - first:
+      213: -7436918902508544016
+    second: hair_long_black_25
+  - first:
+      213: 4425983821704961694
+    second: hair_long_black_26
+  - first:
+      213: -8664474815538853695
+    second: hair_long_black_27
+  - first:
+      213: -1498972792127418394
+    second: hair_long_black_28
+  - first:
+      213: 835305002434360134
+    second: hair_long_black_29
+  - first:
+      213: 2642755941603319977
+    second: hair_long_black_30
+  - first:
+      213: 7348263956677838675
+    second: hair_long_black_31
+  - first:
+      213: 8229136916390595145
+    second: hair_long_black_32
+  - first:
+      213: -8651030804042481252
+    second: hair_long_black_33
+  - first:
+      213: -5067998103286452821
+    second: hair_long_black_34
+  - first:
+      213: 1615425176732589884
+    second: hair_long_black_35
+  - first:
+      213: 1917324675778824804
+    second: hair_long_black_36
+  - first:
+      213: -7895430848657794024
+    second: hair_long_black_37
+  - first:
+      213: 1963084431024680542
+    second: hair_long_black_38
+  - first:
+      213: -658710481312237835
+    second: hair_long_black_39
+  - first:
+      213: 6194178208390416513
+    second: hair_long_black_40
+  - first:
+      213: 6535199650736583504
+    second: hair_long_black_41
+  - first:
+      213: 5768712649580095068
+    second: hair_long_black_42
+  - first:
+      213: 975716103680884770
+    second: hair_long_black_43
+  - first:
+      213: -3127135566546668067
+    second: hair_long_black_44
+  - first:
+      213: 6569223438454605244
+    second: hair_long_black_45
+  - first:
+      213: -1153234480731925285
+    second: hair_long_black_46
+  - first:
+      213: 3348268095760820327
+    second: hair_long_black_47
+  - first:
+      213: -4785953205916879588
+    second: hair_long_black_48
+  - first:
+      213: 6593123873775484514
+    second: hair_long_black_49
+  - first:
+      213: 7360897261528125536
+    second: hair_long_black_50
+  - first:
+      213: 418538243412927966
+    second: hair_long_black_51
+  - first:
+      213: 5441798480043467816
+    second: hair_long_black_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hair_long_black_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 609
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5841cf2c798aae20800000000000000
+      internalID: 3362651238255642716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 609
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68f5a4a348924460800000000000000
+      internalID: 7224504168548268139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 609
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59af252976e7a67a0800000000000000
+      internalID: -6383150538542613867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 608
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36526cc2c6d52c40800000000000000
+      internalID: 5487027853161813564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 608
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdc19bceeabf4be0800000000000000
+      internalID: -1490767416856031746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 608
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2b1ee81571f5720800000000000000
+      internalID: 2837011929323647717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 608
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc5c7de669918f30800000000000000
+      internalID: 4576107363735198916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 607
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33235acb6646ab870800000000000000
+      internalID: 8699376022633919027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 603
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a380abc77975eada0800000000000000
+      internalID: -5931707351056119750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 597
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3c354aa770614e0800000000000000
+      internalID: -2011411960249990149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 544
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e466bad70b70bf3e0800000000000000
+      internalID: -2019011553341512114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 544
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f8f44d4e161bb90800000000000000
+      internalID: -7227888291510513916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 543
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cfc278b67ca0880800000000000000
+      internalID: -8643877270140945309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 544
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7635617230c73610800000000000000
+      internalID: 1600959515436856957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 541
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8d07dcfdf607300800000000000000
+      internalID: 247820986520492231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 535
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7c43f5791215360800000000000000
+      internalID: 7156538216889501606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 546
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ea585053a5d8130800000000000000
+      internalID: 3570609263347084932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 545
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bffb0f0955d33360800000000000000
+      internalID: 7148291612048359344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 545
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d1a90af49dde220800000000000000
+      internalID: 2516906702790073635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 534
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a175568382de8010800000000000000
+      internalID: 1193122413636055458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 481
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8a042af4c7fbc00800000000000000
+      internalID: 918589530473277636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 478
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e443c0b423588ac50800000000000000
+      internalID: 6676732898630710350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 476
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70755c1b733eca330800000000000000
+      internalID: 3723600820273764103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 473
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a9c3391b1d40930800000000000000
+      internalID: 4108639320678373946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 478
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3641538d6084c3a0800000000000000
+      internalID: -6646045942249077188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 473
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff179029a1cac890800000000000000
+      internalID: -7436918902508544016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 479
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e995206d04c6d30800000000000000
+      internalID: 4425983821704961694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 480
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c80d76cf0a91c780800000000000000
+      internalID: -8664474815538853695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 473
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef054dff24923be0800000000000000
+      internalID: -1498972792127418394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 479
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643f43d5979979b00800000000000000
+      internalID: 835305002434360134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 407
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0a157e684fca420800000000000000
+      internalID: 2642755941603319977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 405
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357c695c2274af560800000000000000
+      internalID: 7348263956677838675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 405
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ac385fc64c33270800000000000000
+      internalID: 8229136916390595145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 403
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c910610a15d51f780800000000000000
+      internalID: -8651030804042481252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 405
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bade143939adaa9b0800000000000000
+      internalID: -5067998103286452821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_35
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 403
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f5e5ca3a42b6610800000000000000
+      internalID: 1615425176732589884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 406
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a43ea52a4bb9a10800000000000000
+      internalID: 1917324675778824804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 407
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c5715997bcd6290800000000000000
+      internalID: -7895430848657794024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 403
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e635f93e64e3b10800000000000000
+      internalID: 1963084431024680542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 406
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6be87ae4acbd6f0800000000000000
+      internalID: -658710481312237835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 355
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188839a234426f550800000000000000
+      internalID: 6194178208390416513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 353
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05339661571b1ba50800000000000000
+      internalID: 6535199650736583504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 353
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56268147959e0050800000000000000
+      internalID: 5768712649580095068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 351
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220078170a07a8d00800000000000000
+      internalID: 975716103680884770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 353
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5fe7f35ce2a94d0800000000000000
+      internalID: -3127135566546668067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_45
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 351
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5c14b79e19a2b50800000000000000
+      internalID: 6569223438454605244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 354
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4dd319953eeffe0800000000000000
+      internalID: -1153234480731925285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 355
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768e89cd710777e20800000000000000
+      internalID: 3348268095760820327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_48
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 351
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15bea19ae0e49db0800000000000000
+      internalID: -4785953205916879588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_49
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 354
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ef8883b3b7f7b50800000000000000
+      internalID: 6593123873775484514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 286
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06097854f09272660800000000000000
+      internalID: 7360897261528125536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 268
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed52b8b9052fec500800000000000000
+      internalID: 418538243412927966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_long_black_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 255
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824604eb2e6258b40800000000000000
+      internalID: 5441798480043467816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hair_long_black_0: 3362651238255642716
+      hair_long_black_1: 7224504168548268139
+      hair_long_black_10: -2019011553341512114
+      hair_long_black_11: -7227888291510513916
+      hair_long_black_12: -8643877270140945309
+      hair_long_black_13: 1600959515436856957
+      hair_long_black_14: 247820986520492231
+      hair_long_black_15: 7156538216889501606
+      hair_long_black_16: 3570609263347084932
+      hair_long_black_17: 7148291612048359344
+      hair_long_black_18: 2516906702790073635
+      hair_long_black_19: 1193122413636055458
+      hair_long_black_2: -6383150538542613867
+      hair_long_black_20: 918589530473277636
+      hair_long_black_21: 6676732898630710350
+      hair_long_black_22: 3723600820273764103
+      hair_long_black_23: 4108639320678373946
+      hair_long_black_24: -6646045942249077188
+      hair_long_black_25: -7436918902508544016
+      hair_long_black_26: 4425983821704961694
+      hair_long_black_27: -8664474815538853695
+      hair_long_black_28: -1498972792127418394
+      hair_long_black_29: 835305002434360134
+      hair_long_black_3: 5487027853161813564
+      hair_long_black_30: 2642755941603319977
+      hair_long_black_31: 7348263956677838675
+      hair_long_black_32: 8229136916390595145
+      hair_long_black_33: -8651030804042481252
+      hair_long_black_34: -5067998103286452821
+      hair_long_black_35: 1615425176732589884
+      hair_long_black_36: 1917324675778824804
+      hair_long_black_37: -7895430848657794024
+      hair_long_black_38: 1963084431024680542
+      hair_long_black_39: -658710481312237835
+      hair_long_black_4: -1490767416856031746
+      hair_long_black_40: 6194178208390416513
+      hair_long_black_41: 6535199650736583504
+      hair_long_black_42: 5768712649580095068
+      hair_long_black_43: 975716103680884770
+      hair_long_black_44: -3127135566546668067
+      hair_long_black_45: 6569223438454605244
+      hair_long_black_46: -1153234480731925285
+      hair_long_black_47: 3348268095760820327
+      hair_long_black_48: -4785953205916879588
+      hair_long_black_49: 6593123873775484514
+      hair_long_black_5: 2837011929323647717
+      hair_long_black_50: 7360897261528125536
+      hair_long_black_51: 418538243412927966
+      hair_long_black_52: 5441798480043467816
+      hair_long_black_6: 4576107363735198916
+      hair_long_black_7: 8699376022633919027
+      hair_long_black_8: -5931707351056119750
+      hair_long_black_9: -2011411960249990149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

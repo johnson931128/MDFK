@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 760b9f4e7715c7142977edf4104b11f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5198707362728122097
+    second: hat_floppy_red_0
+  - first:
+      213: -8320263656718057108
+    second: hat_floppy_red_1
+  - first:
+      213: 7808030186382502409
+    second: hat_floppy_red_2
+  - first:
+      213: -7481290357096097787
+    second: hat_floppy_red_3
+  - first:
+      213: -4199464294562152705
+    second: hat_floppy_red_4
+  - first:
+      213: -7351485770993364134
+    second: hat_floppy_red_5
+  - first:
+      213: -8587277352363695786
+    second: hat_floppy_red_6
+  - first:
+      213: -1667143375353623486
+    second: hat_floppy_red_7
+  - first:
+      213: -7903907414722622720
+    second: hat_floppy_red_8
+  - first:
+      213: -8038301077019560664
+    second: hat_floppy_red_9
+  - first:
+      213: 825226683917122564
+    second: hat_floppy_red_10
+  - first:
+      213: 6408972303513390698
+    second: hat_floppy_red_11
+  - first:
+      213: 1227196651751408337
+    second: hat_floppy_red_12
+  - first:
+      213: -2748282275012045033
+    second: hat_floppy_red_13
+  - first:
+      213: 963288229225241020
+    second: hat_floppy_red_14
+  - first:
+      213: -5467165616942858311
+    second: hat_floppy_red_15
+  - first:
+      213: 3661516174711408240
+    second: hat_floppy_red_16
+  - first:
+      213: 4483658090748117569
+    second: hat_floppy_red_17
+  - first:
+      213: 2184058604792630200
+    second: hat_floppy_red_18
+  - first:
+      213: 7696409240412350775
+    second: hat_floppy_red_19
+  - first:
+      213: -761978083854089158
+    second: hat_floppy_red_20
+  - first:
+      213: 4632271068185288959
+    second: hat_floppy_red_21
+  - first:
+      213: 3963884542401789954
+    second: hat_floppy_red_22
+  - first:
+      213: 5918320114779865627
+    second: hat_floppy_red_23
+  - first:
+      213: -7565870516093064275
+    second: hat_floppy_red_24
+  - first:
+      213: -5710427962874789405
+    second: hat_floppy_red_25
+  - first:
+      213: 3698599348055150065
+    second: hat_floppy_red_26
+  - first:
+      213: 2343546465088909206
+    second: hat_floppy_red_27
+  - first:
+      213: -5171448634436359729
+    second: hat_floppy_red_28
+  - first:
+      213: -5835141532516938835
+    second: hat_floppy_red_29
+  - first:
+      213: 4801793772168595320
+    second: hat_floppy_red_30
+  - first:
+      213: 5839517197456366240
+    second: hat_floppy_red_31
+  - first:
+      213: -8928155072532726722
+    second: hat_floppy_red_32
+  - first:
+      213: -501400817039886836
+    second: hat_floppy_red_33
+  - first:
+      213: 7953691716959510779
+    second: hat_floppy_red_34
+  - first:
+      213: 1463000888264885175
+    second: hat_floppy_red_35
+  - first:
+      213: 5582383318847915854
+    second: hat_floppy_red_36
+  - first:
+      213: -41639069704550146
+    second: hat_floppy_red_37
+  - first:
+      213: 5678851779899548584
+    second: hat_floppy_red_38
+  - first:
+      213: 8941512471928613709
+    second: hat_floppy_red_39
+  - first:
+      213: -4647987199339174801
+    second: hat_floppy_red_40
+  - first:
+      213: -7058781686918028747
+    second: hat_floppy_red_41
+  - first:
+      213: 6244165073202925161
+    second: hat_floppy_red_42
+  - first:
+      213: -8026046852895956772
+    second: hat_floppy_red_43
+  - first:
+      213: -2955427172591021567
+    second: hat_floppy_red_44
+  - first:
+      213: 6869150489818723700
+    second: hat_floppy_red_45
+  - first:
+      213: 570079366804501122
+    second: hat_floppy_red_46
+  - first:
+      213: 9090118020882744905
+    second: hat_floppy_red_47
+  - first:
+      213: 131802483288260028
+    second: hat_floppy_red_48
+  - first:
+      213: 9045012600704609265
+    second: hat_floppy_red_49
+  - first:
+      213: -920737186102256659
+    second: hat_floppy_red_50
+  - first:
+      213: -6569719711355010428
+    second: hat_floppy_red_51
+  - first:
+      213: 5514531167545900539
+    second: hat_floppy_red_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_floppy_red_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09e161923b7ad7b0800000000000000
+      internalID: -5198707362728122097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c614abf694c788c80800000000000000
+      internalID: -8320263656718057108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a2bd6f512bb5c60800000000000000
+      internalID: 7808030186382502409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5085bbbce0e1d2890800000000000000
+      internalID: -7481290357096097787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffebfab497188b5c0800000000000000
+      internalID: -4199464294562152705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a531a9024a64af990800000000000000
+      internalID: -7351485770993364134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 615
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651ea90debcd3d880800000000000000
+      internalID: -8587277352363695786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 613
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cc66adeed1dd8e0800000000000000
+      internalID: -1667143375353623486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 608
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bc1ef351eaf4290800000000000000
+      internalID: -7903907414722622720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 602
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825fb9a52c7327090800000000000000
+      internalID: -8038301077019560664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 550
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cbd0afb4bc37b00800000000000000
+      internalID: 825226683917122564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 546
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e8b369a5e31f850800000000000000
+      internalID: 6408972303513390698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 545
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d201315ad0e70110800000000000000
+      internalID: 1227196651751408337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 546
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7179767f4d32cd9d0800000000000000
+      internalID: -2748282275012045033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 543
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9194f6a894e5d00800000000000000
+      internalID: 963288229225241020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 552
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf34e176d9b024b0800000000000000
+      internalID: -5467165616942858311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 550
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0764505bf8150d230800000000000000
+      internalID: 3661516174711408240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 550
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14209513747293e30800000000000000
+      internalID: 4483658090748117569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 537
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbcc4bbab55f4e10800000000000000
+      internalID: 2184058604792630200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 536
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739efc44d632fca60800000000000000
+      internalID: 7696409240412350775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 486
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a348e3948f8ec65f0800000000000000
+      internalID: -761978083854089158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 485
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0e0826ef1294040800000000000000
+      internalID: 4632271068185288959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 483
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20045806dfb820730800000000000000
+      internalID: 3963884542401789954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 480
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12c08ca9c8122250800000000000000
+      internalID: 5918320114779865627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 485
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabebafe9d0a00790800000000000000
+      internalID: -7565870516093064275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 480
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1046dd50c70c0b0800000000000000
+      internalID: -5710427962874789405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 485
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd8153d280145330800000000000000
+      internalID: 3698599348055150065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 485
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f2f36e713f58020800000000000000
+      internalID: 2343546465088909206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 480
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9ed32ddd25b38b0800000000000000
+      internalID: -5171448634436359729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_29
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 485
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab033c21b9650fa0800000000000000
+      internalID: -5835141532516938835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 412
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877cacaaef563a240800000000000000
+      internalID: 4801793772168595320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 412
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aadb26b3f12a0150800000000000000
+      internalID: 5839517197456366240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 412
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cb512d342d81480800000000000000
+      internalID: -8928155072532726722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 410
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c063f3a0d9aaa09f0800000000000000
+      internalID: -501400817039886836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 412
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0a652e970316e60800000000000000
+      internalID: 7953691716959510779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 410
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b30c1b7e8f9d4410800000000000000
+      internalID: 1463000888264885175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 412
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e470fff3d0c987d40800000000000000
+      internalID: 5582383318847915854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 412
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef88b799c711c6ff0800000000000000
+      internalID: -41639069704550146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 410
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3e1012b955fce40800000000000000
+      internalID: 5678851779899548584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_39
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 412
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ba7041832a61c70800000000000000
+      internalID: 8941512471928613709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 360
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6463dea4480f7fb0800000000000000
+      internalID: -4647987199339174801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 360
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532e73c647b2a0e90800000000000000
+      internalID: -7058781686918028747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 360
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e49231d0bb7a650800000000000000
+      internalID: 6244165073202925161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_43
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 358
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0ae7e39e0cd9090800000000000000
+      internalID: -8026046852895956772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 360
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102dc2225a63cf6d0800000000000000
+      internalID: -2955427172591021567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 358
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4757856e9ff145f50800000000000000
+      internalID: 6869150489818723700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_46
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 360
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2827928e92459e700800000000000000
+      internalID: 570079366804501122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 360
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946c711bd26962e70800000000000000
+      internalID: 9090118020882744905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_48
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 358
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd39e409a144d100800000000000000
+      internalID: 131802483288260028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_49
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 360
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb2eeda907568d70800000000000000
+      internalID: 9045012600704609265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 288
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debd1e25862e833f0800000000000000
+      internalID: -920737186102256659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 270
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4828dcafabaa3d4a0800000000000000
+      internalID: -6569719711355010428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_floppy_red_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 255
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdb46031ec878c40800000000000000
+      internalID: 5514531167545900539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_floppy_red_0: -5198707362728122097
+      hat_floppy_red_1: -8320263656718057108
+      hat_floppy_red_10: 825226683917122564
+      hat_floppy_red_11: 6408972303513390698
+      hat_floppy_red_12: 1227196651751408337
+      hat_floppy_red_13: -2748282275012045033
+      hat_floppy_red_14: 963288229225241020
+      hat_floppy_red_15: -5467165616942858311
+      hat_floppy_red_16: 3661516174711408240
+      hat_floppy_red_17: 4483658090748117569
+      hat_floppy_red_18: 2184058604792630200
+      hat_floppy_red_19: 7696409240412350775
+      hat_floppy_red_2: 7808030186382502409
+      hat_floppy_red_20: -761978083854089158
+      hat_floppy_red_21: 4632271068185288959
+      hat_floppy_red_22: 3963884542401789954
+      hat_floppy_red_23: 5918320114779865627
+      hat_floppy_red_24: -7565870516093064275
+      hat_floppy_red_25: -5710427962874789405
+      hat_floppy_red_26: 3698599348055150065
+      hat_floppy_red_27: 2343546465088909206
+      hat_floppy_red_28: -5171448634436359729
+      hat_floppy_red_29: -5835141532516938835
+      hat_floppy_red_3: -7481290357096097787
+      hat_floppy_red_30: 4801793772168595320
+      hat_floppy_red_31: 5839517197456366240
+      hat_floppy_red_32: -8928155072532726722
+      hat_floppy_red_33: -501400817039886836
+      hat_floppy_red_34: 7953691716959510779
+      hat_floppy_red_35: 1463000888264885175
+      hat_floppy_red_36: 5582383318847915854
+      hat_floppy_red_37: -41639069704550146
+      hat_floppy_red_38: 5678851779899548584
+      hat_floppy_red_39: 8941512471928613709
+      hat_floppy_red_4: -4199464294562152705
+      hat_floppy_red_40: -4647987199339174801
+      hat_floppy_red_41: -7058781686918028747
+      hat_floppy_red_42: 6244165073202925161
+      hat_floppy_red_43: -8026046852895956772
+      hat_floppy_red_44: -2955427172591021567
+      hat_floppy_red_45: 6869150489818723700
+      hat_floppy_red_46: 570079366804501122
+      hat_floppy_red_47: 9090118020882744905
+      hat_floppy_red_48: 131802483288260028
+      hat_floppy_red_49: 9045012600704609265
+      hat_floppy_red_5: -7351485770993364134
+      hat_floppy_red_50: -920737186102256659
+      hat_floppy_red_51: -6569719711355010428
+      hat_floppy_red_52: 5514531167545900539
+      hat_floppy_red_6: -8587277352363695786
+      hat_floppy_red_7: -1667143375353623486
+      hat_floppy_red_8: -7903907414722622720
+      hat_floppy_red_9: -8038301077019560664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

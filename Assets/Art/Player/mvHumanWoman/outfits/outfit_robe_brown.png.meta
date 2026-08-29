@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 489ede98a06e3e84787d490282157958
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1103522087691029615
+    second: outfit_robe_brown_0
+  - first:
+      213: 440949350525170485
+    second: outfit_robe_brown_1
+  - first:
+      213: -608478576585270036
+    second: outfit_robe_brown_2
+  - first:
+      213: -2639508447383327316
+    second: outfit_robe_brown_3
+  - first:
+      213: 3451794481336394216
+    second: outfit_robe_brown_4
+  - first:
+      213: -6713016249312479716
+    second: outfit_robe_brown_5
+  - first:
+      213: 2972901487280547732
+    second: outfit_robe_brown_6
+  - first:
+      213: -1826726470488591027
+    second: outfit_robe_brown_7
+  - first:
+      213: 3655677344859944822
+    second: outfit_robe_brown_8
+  - first:
+      213: -4259315705336230364
+    second: outfit_robe_brown_9
+  - first:
+      213: 1131594358918708587
+    second: outfit_robe_brown_10
+  - first:
+      213: 7165722868271600033
+    second: outfit_robe_brown_11
+  - first:
+      213: -5066475752074855581
+    second: outfit_robe_brown_12
+  - first:
+      213: -8708959568910747220
+    second: outfit_robe_brown_13
+  - first:
+      213: -3427804052927431313
+    second: outfit_robe_brown_14
+  - first:
+      213: -7727559954421373526
+    second: outfit_robe_brown_15
+  - first:
+      213: -5046189111793708756
+    second: outfit_robe_brown_16
+  - first:
+      213: 5510807995776489044
+    second: outfit_robe_brown_17
+  - first:
+      213: 5026401005313825481
+    second: outfit_robe_brown_18
+  - first:
+      213: -1997857554901980432
+    second: outfit_robe_brown_19
+  - first:
+      213: -9001251261817298014
+    second: outfit_robe_brown_20
+  - first:
+      213: 4651530115045936156
+    second: outfit_robe_brown_21
+  - first:
+      213: -4297626267059277743
+    second: outfit_robe_brown_22
+  - first:
+      213: 4572251695342441589
+    second: outfit_robe_brown_23
+  - first:
+      213: 5770010776237641226
+    second: outfit_robe_brown_24
+  - first:
+      213: -8299429476898536711
+    second: outfit_robe_brown_25
+  - first:
+      213: -7761824019340108338
+    second: outfit_robe_brown_26
+  - first:
+      213: -8270333952859902541
+    second: outfit_robe_brown_27
+  - first:
+      213: -2599400332860154006
+    second: outfit_robe_brown_28
+  - first:
+      213: 6772592443162710595
+    second: outfit_robe_brown_29
+  - first:
+      213: -3204200025565062995
+    second: outfit_robe_brown_30
+  - first:
+      213: -3860356800136523104
+    second: outfit_robe_brown_31
+  - first:
+      213: 2787506469680593821
+    second: outfit_robe_brown_32
+  - first:
+      213: -4219478468379715735
+    second: outfit_robe_brown_33
+  - first:
+      213: -8251196805131220471
+    second: outfit_robe_brown_34
+  - first:
+      213: 6587085092607373184
+    second: outfit_robe_brown_35
+  - first:
+      213: 7624549471761570772
+    second: outfit_robe_brown_36
+  - first:
+      213: 7537814630348598177
+    second: outfit_robe_brown_37
+  - first:
+      213: 8603411737765516086
+    second: outfit_robe_brown_38
+  - first:
+      213: 8137755157227953211
+    second: outfit_robe_brown_39
+  - first:
+      213: -4882298664417811603
+    second: outfit_robe_brown_40
+  - first:
+      213: 2176282268136699742
+    second: outfit_robe_brown_41
+  - first:
+      213: -5652670235062578974
+    second: outfit_robe_brown_42
+  - first:
+      213: 2866947499783335438
+    second: outfit_robe_brown_43
+  - first:
+      213: 7532761553042370918
+    second: outfit_robe_brown_44
+  - first:
+      213: -3260351645233139046
+    second: outfit_robe_brown_45
+  - first:
+      213: 8095335913432981701
+    second: outfit_robe_brown_46
+  - first:
+      213: 5531499542772394239
+    second: outfit_robe_brown_47
+  - first:
+      213: -8638384871717370467
+    second: outfit_robe_brown_48
+  - first:
+      213: -4659803230796944649
+    second: outfit_robe_brown_49
+  - first:
+      213: -8693052200504796820
+    second: outfit_robe_brown_50
+  - first:
+      213: 6527095623648153916
+    second: outfit_robe_brown_51
+  - first:
+      213: -8055299905101891527
+    second: outfit_robe_brown_52
+  - first:
+      213: 2421727215879373257
+    second: outfit_robe_brown_53
+  - first:
+      213: -4520525590581246656
+    second: outfit_robe_brown_54
+  - first:
+      213: 7013685078172661482
+    second: outfit_robe_brown_55
+  - first:
+      213: 2652820746803151216
+    second: outfit_robe_brown_56
+  - first:
+      213: 8603406720593456579
+    second: outfit_robe_brown_57
+  - first:
+      213: 1753792699779027641
+    second: outfit_robe_brown_58
+  - first:
+      213: 4398152788416035103
+    second: outfit_robe_brown_59
+  - first:
+      213: 2507001260417981135
+    second: outfit_robe_brown_60
+  - first:
+      213: -3803079475376340309
+    second: outfit_robe_brown_61
+  - first:
+      213: -5175818532629093228
+    second: outfit_robe_brown_62
+  - first:
+      213: 5367283704667335384
+    second: outfit_robe_brown_63
+  - first:
+      213: 1878564141642133876
+    second: outfit_robe_brown_64
+  - first:
+      213: 5696354217963117100
+    second: outfit_robe_brown_65
+  - first:
+      213: -5304652121979293110
+    second: outfit_robe_brown_66
+  - first:
+      213: 596198057858692873
+    second: outfit_robe_brown_67
+  - first:
+      213: -2817321245844152584
+    second: outfit_robe_brown_68
+  - first:
+      213: -4432463106830685920
+    second: outfit_robe_brown_69
+  - first:
+      213: 1582882731022884624
+    second: outfit_robe_brown_70
+  - first:
+      213: -2445789647035262974
+    second: outfit_robe_brown_71
+  - first:
+      213: 5443040512901803609
+    second: outfit_robe_brown_72
+  - first:
+      213: -4520302435715307020
+    second: outfit_robe_brown_73
+  - first:
+      213: -6604648452457570414
+    second: outfit_robe_brown_74
+  - first:
+      213: 6855606211040898425
+    second: outfit_robe_brown_75
+  - first:
+      213: -1988994650167910216
+    second: outfit_robe_brown_76
+  - first:
+      213: 7855082441873680526
+    second: outfit_robe_brown_77
+  - first:
+      213: 5189381217730371374
+    second: outfit_robe_brown_78
+  - first:
+      213: -1222831701729651705
+    second: outfit_robe_brown_79
+  - first:
+      213: -4381331846718818595
+    second: outfit_robe_brown_80
+  - first:
+      213: 5902292407406812269
+    second: outfit_robe_brown_81
+  - first:
+      213: -1287037875945052216
+    second: outfit_robe_brown_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: outfit_robe_brown_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193f06902808fa0f0800000000000000
+      internalID: -1103522087691029615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533fdf919119e1600800000000000000
+      internalID: 440949350525170485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 575
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec133d55ff3e87f0800000000000000
+      internalID: -608478576585270036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 575
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cade2144d059e5bd0800000000000000
+      internalID: -2639508447383327316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1a5b9dacc37ef20800000000000000
+      internalID: 3451794481336394216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 575
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16fd40d94396d2a0800000000000000
+      internalID: -6713016249312479716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 583
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497669dc62ed14920800000000000000
+      internalID: 2972901487280547732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 575
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4579b814f926a6e0800000000000000
+      internalID: -1826726470488591027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 575
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677f1d13d239bb230800000000000000
+      internalID: 3655677344859944822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 575
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e013dceeed3e4c0800000000000000
+      internalID: -4259315705336230364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 575
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d7f21f21b34bf00800000000000000
+      internalID: 1131594358918708587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 575
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1d83aabf2c17360800000000000000
+      internalID: 7165722868271600033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 575
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bb276952340b9b0800000000000000
+      internalID: -5066475752074855581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9f5d30a6f832780800000000000000
+      internalID: -8708959568910747220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 511
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dbd99006efd60d0800000000000000
+      internalID: -3427804052927431313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 511
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa52e20f92132c490800000000000000
+      internalID: -7727559954421373526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 511
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21971a1db558f9b0800000000000000
+      internalID: -5046189111793708756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 511
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456d3a5bca25a7c40800000000000000
+      internalID: 5510807995776489044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 511
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca9564551d51c540800000000000000
+      internalID: 5026401005313825481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 511
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faac30932f2644e0800000000000000
+      internalID: -1997857554901980432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 520
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3e7550ba1251380800000000000000
+      internalID: -9001251261817298014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 516
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c4859aefd8d8040800000000000000
+      internalID: 4651530115045936156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 513
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1503b8e0ea3cb54c0800000000000000
+      internalID: -4297626267059277743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 519
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574509c21b6e37f30800000000000000
+      internalID: 4572251695342441589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 511
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e02dbea32331050800000000000000
+      internalID: 5770010776237641226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 511
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f28e0fecd082dc80800000000000000
+      internalID: -8299429476898536711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd5326ad26784490800000000000000
+      internalID: -7761824019340108338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdeee5861fd93d80800000000000000
+      internalID: -8270333952859902541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 447
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f96d26b231debd0800000000000000
+      internalID: -2599400332860154006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342553fb1f41dfd50800000000000000
+      internalID: 6772592443162710595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 453
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da895e6ad056883d0800000000000000
+      internalID: -3204200025565062995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2599d71f14d6ac0800000000000000
+      internalID: -3860356800136523104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b3a668d563fa620800000000000000
+      internalID: 2787506469680593821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 453
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96751d250b66175c0800000000000000
+      internalID: -4219478468379715735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ac052f83cdd7d80800000000000000
+      internalID: -8251196805131220471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f222aedf60a6b50800000000000000
+      internalID: 6587085092607373184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_36
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 447
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db9db41957dfc960800000000000000
+      internalID: 7624549471761570772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ababa02872bb9860800000000000000
+      internalID: 7537814630348598177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 453
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63390f58465756770800000000000000
+      internalID: 8603411737765516086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_39
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cdca7233d1fe070800000000000000
+      internalID: 8137755157227953211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 447
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6323047b379e3cb0800000000000000
+      internalID: -4882298664417811603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57f4434135b33e10800000000000000
+      internalID: 2176282268136699742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0dbaece5ead81b0800000000000000
+      internalID: -5652670235062578974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 447
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ea742bf8179c720800000000000000
+      internalID: 2866947499783335438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6617fc2e8beb98860800000000000000
+      internalID: 7532761553042370918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_45
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 453
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92b407e377e0c2d0800000000000000
+      internalID: -3260351645233139046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_46
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0a2a15f19685070800000000000000
+      internalID: 8095335913432981701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 447
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff82f2ae685d3cc40800000000000000
+      internalID: 5531499542772394239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 383
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d958d203aba4e1880800000000000000
+      internalID: -8638384871717370467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 383
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa612976ad055fb0800000000000000
+      internalID: -4659803230796944649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 383
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69dbf6d4131c5780800000000000000
+      internalID: -8693052200504796820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 383
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c311e8e33e6e49a50800000000000000
+      internalID: 6527095623648153916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 383
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938f9254a63d53090800000000000000
+      internalID: -8055299905101891527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 383
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1c26d6214bb9120800000000000000
+      internalID: 2421727215879373257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 383
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04587571dedd341c0800000000000000
+      internalID: -4520525590581246656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae670f22b6d955160800000000000000
+      internalID: 7013685078172661482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 383
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0710df9f966b0d420800000000000000
+      internalID: 2652820746803151216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_57
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 383
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd6e2f54d0756770800000000000000
+      internalID: 8603406720593456579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 327
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b290002b29b65810800000000000000
+      internalID: 1753792699779027641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 327
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f197e6d98a0690d30800000000000000
+      internalID: 4398152788416035103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 327
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca9baa1d58aac220800000000000000
+      internalID: 2507001260417981135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 327
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba24d91ed5fb83bc0800000000000000
+      internalID: -3803079475376340309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 327
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49462cc977ccb28b0800000000000000
+      internalID: -5175818532629093228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 327
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da6071a71c6c7a40800000000000000
+      internalID: 5367283704667335384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 327
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471bd5e3220021a10800000000000000
+      internalID: 1878564141642133876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_65
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 327
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a5d7c0bf38d0f40800000000000000
+      internalID: 5696354217963117100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_66
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 327
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42f66410071266b0800000000000000
+      internalID: -5304652121979293110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_67
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 327
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907f17e89fe164800800000000000000
+      internalID: 596198057858692873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_68
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe5c43f04dd6e8d0800000000000000
+      internalID: -2817321245844152584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_69
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029255dd94abc72c0800000000000000
+      internalID: -4432463106830685920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_70
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f18b7157787f510800000000000000
+      internalID: 1582882731022884624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_71
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208922d364fce0ed0800000000000000
+      internalID: -2445789647035262974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_72
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e629d0280998b40800000000000000
+      internalID: 5443040512901803609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_73
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f92bd162e8a441c0800000000000000
+      internalID: -4520302435715307020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_74
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fdee4b9339754a0800000000000000
+      internalID: -6604648452457570414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_75
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ded01c681042f50800000000000000
+      internalID: 6855606211040898425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_76
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0e69067eba564e0800000000000000
+      internalID: -1988994650167910216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_77
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88e945ecdbd20d60800000000000000
+      internalID: 7855082441873680526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_78
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 255
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f17e619b2640840800000000000000
+      internalID: 5189381217730371374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_79
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 262
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704515ecb01a70fe0800000000000000
+      internalID: -1222831701729651705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 268
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6f73116e16233c0800000000000000
+      internalID: -4381331846718818595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_81
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 258
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cd7ff3ca729e150800000000000000
+      internalID: 5902292407406812269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_robe_brown_82
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 255
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c762dfeed5832ee0800000000000000
+      internalID: -1287037875945052216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      outfit_robe_brown_0: -1103522087691029615
+      outfit_robe_brown_1: 440949350525170485
+      outfit_robe_brown_10: 1131594358918708587
+      outfit_robe_brown_11: 7165722868271600033
+      outfit_robe_brown_12: -5066475752074855581
+      outfit_robe_brown_13: -8708959568910747220
+      outfit_robe_brown_14: -3427804052927431313
+      outfit_robe_brown_15: -7727559954421373526
+      outfit_robe_brown_16: -5046189111793708756
+      outfit_robe_brown_17: 5510807995776489044
+      outfit_robe_brown_18: 5026401005313825481
+      outfit_robe_brown_19: -1997857554901980432
+      outfit_robe_brown_2: -608478576585270036
+      outfit_robe_brown_20: -9001251261817298014
+      outfit_robe_brown_21: 4651530115045936156
+      outfit_robe_brown_22: -4297626267059277743
+      outfit_robe_brown_23: 4572251695342441589
+      outfit_robe_brown_24: 5770010776237641226
+      outfit_robe_brown_25: -8299429476898536711
+      outfit_robe_brown_26: -7761824019340108338
+      outfit_robe_brown_27: -8270333952859902541
+      outfit_robe_brown_28: -2599400332860154006
+      outfit_robe_brown_29: 6772592443162710595
+      outfit_robe_brown_3: -2639508447383327316
+      outfit_robe_brown_30: -3204200025565062995
+      outfit_robe_brown_31: -3860356800136523104
+      outfit_robe_brown_32: 2787506469680593821
+      outfit_robe_brown_33: -4219478468379715735
+      outfit_robe_brown_34: -8251196805131220471
+      outfit_robe_brown_35: 6587085092607373184
+      outfit_robe_brown_36: 7624549471761570772
+      outfit_robe_brown_37: 7537814630348598177
+      outfit_robe_brown_38: 8603411737765516086
+      outfit_robe_brown_39: 8137755157227953211
+      outfit_robe_brown_4: 3451794481336394216
+      outfit_robe_brown_40: -4882298664417811603
+      outfit_robe_brown_41: 2176282268136699742
+      outfit_robe_brown_42: -5652670235062578974
+      outfit_robe_brown_43: 2866947499783335438
+      outfit_robe_brown_44: 7532761553042370918
+      outfit_robe_brown_45: -3260351645233139046
+      outfit_robe_brown_46: 8095335913432981701
+      outfit_robe_brown_47: 5531499542772394239
+      outfit_robe_brown_48: -8638384871717370467
+      outfit_robe_brown_49: -4659803230796944649
+      outfit_robe_brown_5: -6713016249312479716
+      outfit_robe_brown_50: -8693052200504796820
+      outfit_robe_brown_51: 6527095623648153916
+      outfit_robe_brown_52: -8055299905101891527
+      outfit_robe_brown_53: 2421727215879373257
+      outfit_robe_brown_54: -4520525590581246656
+      outfit_robe_brown_55: 7013685078172661482
+      outfit_robe_brown_56: 2652820746803151216
+      outfit_robe_brown_57: 8603406720593456579
+      outfit_robe_brown_58: 1753792699779027641
+      outfit_robe_brown_59: 4398152788416035103
+      outfit_robe_brown_6: 2972901487280547732
+      outfit_robe_brown_60: 2507001260417981135
+      outfit_robe_brown_61: -3803079475376340309
+      outfit_robe_brown_62: -5175818532629093228
+      outfit_robe_brown_63: 5367283704667335384
+      outfit_robe_brown_64: 1878564141642133876
+      outfit_robe_brown_65: 5696354217963117100
+      outfit_robe_brown_66: -5304652121979293110
+      outfit_robe_brown_67: 596198057858692873
+      outfit_robe_brown_68: -2817321245844152584
+      outfit_robe_brown_69: -4432463106830685920
+      outfit_robe_brown_7: -1826726470488591027
+      outfit_robe_brown_70: 1582882731022884624
+      outfit_robe_brown_71: -2445789647035262974
+      outfit_robe_brown_72: 5443040512901803609
+      outfit_robe_brown_73: -4520302435715307020
+      outfit_robe_brown_74: -6604648452457570414
+      outfit_robe_brown_75: 6855606211040898425
+      outfit_robe_brown_76: -1988994650167910216
+      outfit_robe_brown_77: 7855082441873680526
+      outfit_robe_brown_78: 5189381217730371374
+      outfit_robe_brown_79: -1222831701729651705
+      outfit_robe_brown_8: 3655677344859944822
+      outfit_robe_brown_80: -4381331846718818595
+      outfit_robe_brown_81: 5902292407406812269
+      outfit_robe_brown_82: -1287037875945052216
+      outfit_robe_brown_9: -4259315705336230364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -70,7 +70,7 @@ public static class Milestone1SceneBuilder
         CameraFollow2D follow = cameraObject.AddComponent<CameraFollow2D>();
         follow.Configure(player.transform);
 
-        CharacterPrototypeBuilder.Build();
+        MVHumanWomanPlayerBuilder.Build();
         EditorSceneManager.SaveScene(scene, ScenePath);
         SetSceneInBuildSettings(ScenePath);
         AssetDatabase.SaveAssets();

@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: e2caee8a46b2d2b4d8e0b2d029c99c29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5966090590515278444
+    second: outfit_thief_red_0
+  - first:
+      213: 2721121020129392352
+    second: outfit_thief_red_1
+  - first:
+      213: -6785780370436274951
+    second: outfit_thief_red_2
+  - first:
+      213: 3508872652733869749
+    second: outfit_thief_red_3
+  - first:
+      213: -8921282361502953914
+    second: outfit_thief_red_4
+  - first:
+      213: 5369264510113597413
+    second: outfit_thief_red_5
+  - first:
+      213: -7445327873666509935
+    second: outfit_thief_red_6
+  - first:
+      213: 4199733041400910783
+    second: outfit_thief_red_7
+  - first:
+      213: -1165835495822693280
+    second: outfit_thief_red_8
+  - first:
+      213: 5958231527105308090
+    second: outfit_thief_red_9
+  - first:
+      213: -1587971453697528345
+    second: outfit_thief_red_10
+  - first:
+      213: -2352800198355270858
+    second: outfit_thief_red_11
+  - first:
+      213: 6684486667947245864
+    second: outfit_thief_red_12
+  - first:
+      213: 4972399799527379688
+    second: outfit_thief_red_13
+  - first:
+      213: 4690844991953664895
+    second: outfit_thief_red_14
+  - first:
+      213: -5449003277582608559
+    second: outfit_thief_red_15
+  - first:
+      213: 550669013081547239
+    second: outfit_thief_red_16
+  - first:
+      213: -6846740854495899438
+    second: outfit_thief_red_17
+  - first:
+      213: -7598709146906459297
+    second: outfit_thief_red_18
+  - first:
+      213: 2195783698652872575
+    second: outfit_thief_red_19
+  - first:
+      213: 4037347081873767330
+    second: outfit_thief_red_20
+  - first:
+      213: -7853704351952222285
+    second: outfit_thief_red_21
+  - first:
+      213: 5580315781981317524
+    second: outfit_thief_red_22
+  - first:
+      213: 771703134590608033
+    second: outfit_thief_red_23
+  - first:
+      213: -2448101448833761619
+    second: outfit_thief_red_24
+  - first:
+      213: 2147048810998254678
+    second: outfit_thief_red_25
+  - first:
+      213: 4703881249923119728
+    second: outfit_thief_red_26
+  - first:
+      213: 5789159987784725024
+    second: outfit_thief_red_27
+  - first:
+      213: -8270316871350685683
+    second: outfit_thief_red_28
+  - first:
+      213: -1429482700971956181
+    second: outfit_thief_red_29
+  - first:
+      213: 521368595727876760
+    second: outfit_thief_red_30
+  - first:
+      213: 6962757976965160498
+    second: outfit_thief_red_31
+  - first:
+      213: -2333816565200678368
+    second: outfit_thief_red_32
+  - first:
+      213: -5339856354188632822
+    second: outfit_thief_red_33
+  - first:
+      213: -7094393781374545890
+    second: outfit_thief_red_34
+  - first:
+      213: -9193437391782777061
+    second: outfit_thief_red_35
+  - first:
+      213: -5578976095529704709
+    second: outfit_thief_red_36
+  - first:
+      213: -2852124129586059767
+    second: outfit_thief_red_37
+  - first:
+      213: -2603251063686004012
+    second: outfit_thief_red_38
+  - first:
+      213: -1624560727917999247
+    second: outfit_thief_red_39
+  - first:
+      213: -3961340028071678443
+    second: outfit_thief_red_40
+  - first:
+      213: 960281848648191549
+    second: outfit_thief_red_41
+  - first:
+      213: 546904255076774998
+    second: outfit_thief_red_42
+  - first:
+      213: 1714282030179333321
+    second: outfit_thief_red_43
+  - first:
+      213: -3951933823042790684
+    second: outfit_thief_red_44
+  - first:
+      213: 4849190958773631838
+    second: outfit_thief_red_45
+  - first:
+      213: 6349008543262860865
+    second: outfit_thief_red_46
+  - first:
+      213: 7879138812900652763
+    second: outfit_thief_red_47
+  - first:
+      213: 1855216845253636401
+    second: outfit_thief_red_48
+  - first:
+      213: -5896737596472855604
+    second: outfit_thief_red_49
+  - first:
+      213: 3675660154306836450
+    second: outfit_thief_red_50
+  - first:
+      213: -5598648598620952383
+    second: outfit_thief_red_51
+  - first:
+      213: 4675119114444753257
+    second: outfit_thief_red_52
+  - first:
+      213: 15847590025117985
+    second: outfit_thief_red_53
+  - first:
+      213: 2286830206563955124
+    second: outfit_thief_red_54
+  - first:
+      213: 2037339704088685554
+    second: outfit_thief_red_55
+  - first:
+      213: 3374504790644576277
+    second: outfit_thief_red_56
+  - first:
+      213: 3705706611618785477
+    second: outfit_thief_red_57
+  - first:
+      213: -8050592948652756619
+    second: outfit_thief_red_58
+  - first:
+      213: 7875734664390964861
+    second: outfit_thief_red_59
+  - first:
+      213: 4140459787550923278
+    second: outfit_thief_red_60
+  - first:
+      213: -9220397004911036080
+    second: outfit_thief_red_61
+  - first:
+      213: 7441091451082564338
+    second: outfit_thief_red_62
+  - first:
+      213: 2144898220532115753
+    second: outfit_thief_red_63
+  - first:
+      213: 4962285677098889707
+    second: outfit_thief_red_64
+  - first:
+      213: 6228751606933873081
+    second: outfit_thief_red_65
+  - first:
+      213: -357307904797721604
+    second: outfit_thief_red_66
+  - first:
+      213: 6844114882825005544
+    second: outfit_thief_red_67
+  - first:
+      213: -6279531899270116870
+    second: outfit_thief_red_68
+  - first:
+      213: 5494640739057927645
+    second: outfit_thief_red_69
+  - first:
+      213: -3728301954947652982
+    second: outfit_thief_red_70
+  - first:
+      213: -8922052347106039520
+    second: outfit_thief_red_71
+  - first:
+      213: -1550147009518543450
+    second: outfit_thief_red_72
+  - first:
+      213: 8644067302658178907
+    second: outfit_thief_red_73
+  - first:
+      213: -4107188980564116733
+    second: outfit_thief_red_74
+  - first:
+      213: 6349993176532122347
+    second: outfit_thief_red_75
+  - first:
+      213: 1856800483893158748
+    second: outfit_thief_red_76
+  - first:
+      213: 9103019935899874677
+    second: outfit_thief_red_77
+  - first:
+      213: 3568504796859520602
+    second: outfit_thief_red_78
+  - first:
+      213: -304997045126557448
+    second: outfit_thief_red_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: outfit_thief_red_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62b67948cfcbc250800000000000000
+      internalID: 5966090590515278444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e639a3962d53c520800000000000000
+      internalID: 2721121020129392352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 575
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4c358a4b014d1a0800000000000000
+      internalID: -6785780370436274951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 575
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bee84c361502b030800000000000000
+      internalID: 3508872652733869749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 575
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e88ad85fc313480800000000000000
+      internalID: -8921282361502953914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 575
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7ce66df95738a40800000000000000
+      internalID: 5369264510113597413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 575
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1931bc5feb1eca890800000000000000
+      internalID: -7445327873666509935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 575
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb31c2433f2784a30800000000000000
+      internalID: 4199733041400910783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 594
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c62fc1bce12dfe0800000000000000
+      internalID: -1165835495822693280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 575
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab525ae7104efa250800000000000000
+      internalID: 5958231527105308090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 590
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ede5e4506466f9e0800000000000000
+      internalID: -1587971453697528345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 575
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633c09d6fac295fd0800000000000000
+      internalID: -2352800198355270858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82184d4653114cc50800000000000000
+      internalID: 6684486667947245864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 511
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e29d04d543810540800000000000000
+      internalID: 4972399799527379688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 511
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b71d1caaa391140800000000000000
+      internalID: 4690844991953664895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 511
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157dfbb93604164b0800000000000000
+      internalID: -5449003277582608559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 511
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e16a81cc8e54a700800000000000000
+      internalID: 550669013081547239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 511
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d01e9ae77d7bf0a0800000000000000
+      internalID: -6846740854495899438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 513
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5301236a46fb8690800000000000000
+      internalID: -7598709146906459297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_19
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 540
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f3cc1e3adf87e10800000000000000
+      internalID: 2195783698652872575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 511
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abbb0ab7c9870830800000000000000
+      internalID: 4037347081873767330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 511
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7c2faa089020390800000000000000
+      internalID: -7853704351952222285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 511
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499a08f43a3417d40800000000000000
+      internalID: 5580315781981317524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 487
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2245989e3a5ba00800000000000000
+      internalID: 771703134590608033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 484
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef420f3b8960ed0800000000000000
+      internalID: -2448101448833761619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 447
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cc9fe9489dbcd10800000000000000
+      internalID: 2147048810998254678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 447
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ab947131b874140800000000000000
+      internalID: 4703881249923119728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 447
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02230db265a375050800000000000000
+      internalID: 5789159987784725024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 478
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00f83f9f9ee93d80800000000000000
+      internalID: -8270316871350685683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 447
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b282004ae05792ce0800000000000000
+      internalID: -1429482700971956181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 447
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8928769b9f54c3700800000000000000
+      internalID: 521368595727876760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 447
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e96026d7fa0a060800000000000000
+      internalID: 6962757976965160498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 474
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0229a44f23e9c9fd0800000000000000
+      internalID: -2333816565200678368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 447
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d59f800f405e5b0800000000000000
+      internalID: -5339856354188632822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e101e6c8176ab8d90800000000000000
+      internalID: -7094393781374545890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 447
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f6efda6695a6080800000000000000
+      internalID: -9193437391782777061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 447
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf26e8fbcce7392b0800000000000000
+      internalID: -5578976095529704709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_37
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 478
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906e3b027383b68d0800000000000000
+      internalID: -2852124129586059767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 463
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d286df33f46fdbd0800000000000000
+      internalID: -2603251063686004012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 471
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bc56010a66479e0800000000000000
+      internalID: -1624560727917999247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 471
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e60488b3e7609c0800000000000000
+      internalID: -3961340028071678443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 413
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e4ee8e04b935d00800000000000000
+      internalID: 960281848648191549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 411
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654300ab58ef69700800000000000000
+      internalID: 546904255076774998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 407
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4bcad7c6a5ac710800000000000000
+      internalID: 1714282030179333321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_44
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 405
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eadead4029e729c0800000000000000
+      internalID: -3951933823042790684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 383
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bfcb12c79cb4340800000000000000
+      internalID: 4849190958773631838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1466a11b1a53c1850800000000000000
+      internalID: 6349008543262860865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6bfee3103585d60800000000000000
+      internalID: 7879138812900652763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_48
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 383
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131f9a234ed0fb910800000000000000
+      internalID: 1855216845253636401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 383
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc37b84f5649a2ea0800000000000000
+      internalID: -5896737596472855604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 383
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e734849f61920330800000000000000
+      internalID: 3675660154306836450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_51
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 401
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8a5f033ca9d42b0800000000000000
+      internalID: -5598648598620952383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 401
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9694e13901c51e040800000000000000
+      internalID: 4675119114444753257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_53
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1214ef59c4d483000800000000000000
+      internalID: 15847590025117985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_54
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1b0ebe4f37cbf10800000000000000
+      internalID: 2286830206563955124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_55
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 383
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb6105aaa5164c10800000000000000
+      internalID: 2037339704088685554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 401
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510593b6a36a4de20800000000000000
+      internalID: 3374504790644576277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_57
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 383
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8aa5397805d6330800000000000000
+      internalID: 3705706611618785477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571b948fd5c864090800000000000000
+      internalID: -8050592948652756619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 359
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76f04823fa3c4d60800000000000000
+      internalID: 7875734664390964861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_60
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 355
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a13cb5d3ed57930800000000000000
+      internalID: 4140459787550923278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_61
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 353
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059b33a96c19a0080800000000000000
+      internalID: -9220397004911036080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 319
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2e8fa0041144760800000000000000
+      internalID: 7441091451082564338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 319
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9292f22419534cd10800000000000000
+      internalID: 2144898220532115753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 319
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1fc7138849dd440800000000000000
+      internalID: 4962285677098889707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_65
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 319
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1ef6dc598f07650800000000000000
+      internalID: 6228751606933873081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 319
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbb71b8a569a0bf0800000000000000
+      internalID: -357307904797721604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 319
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9afb8693e2bfe50800000000000000
+      internalID: 6844114882825005544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_68
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 349
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9454c020f9ad8a0800000000000000
+      internalID: -6279531899270116870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 349
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd500fbe3a2e04c40800000000000000
+      internalID: 5494640739057927645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_70
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 319
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8263f71029624cc0800000000000000
+      internalID: -3728301954947652982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 319
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029ed4f49a08e2480800000000000000
+      internalID: -8922052347106039520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_72
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 319
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad53040285cc7ae0800000000000000
+      internalID: -1550147009518543450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 349
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f728dd965e5f770800000000000000
+      internalID: 8644067302658178907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 319
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bb31c02655007c0800000000000000
+      internalID: -4107188980564116733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_75
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 255
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaf95d7625bf1850800000000000000
+      internalID: 6349993176532122347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 277
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53a93dc33ea4c910800000000000000
+      internalID: 1856800483893158748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_77
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 274
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5757c9ed66c645e70800000000000000
+      internalID: 9103019935899874677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_78
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 258
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56d61cb430e58130800000000000000
+      internalID: 3568504796859520602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outfit_thief_red_79
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 255
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f010bbadce64cbf0800000000000000
+      internalID: -304997045126557448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      outfit_thief_red_0: 5966090590515278444
+      outfit_thief_red_1: 2721121020129392352
+      outfit_thief_red_10: -1587971453697528345
+      outfit_thief_red_11: -2352800198355270858
+      outfit_thief_red_12: 6684486667947245864
+      outfit_thief_red_13: 4972399799527379688
+      outfit_thief_red_14: 4690844991953664895
+      outfit_thief_red_15: -5449003277582608559
+      outfit_thief_red_16: 550669013081547239
+      outfit_thief_red_17: -6846740854495899438
+      outfit_thief_red_18: -7598709146906459297
+      outfit_thief_red_19: 2195783698652872575
+      outfit_thief_red_2: -6785780370436274951
+      outfit_thief_red_20: 4037347081873767330
+      outfit_thief_red_21: -7853704351952222285
+      outfit_thief_red_22: 5580315781981317524
+      outfit_thief_red_23: 771703134590608033
+      outfit_thief_red_24: -2448101448833761619
+      outfit_thief_red_25: 2147048810998254678
+      outfit_thief_red_26: 4703881249923119728
+      outfit_thief_red_27: 5789159987784725024
+      outfit_thief_red_28: -8270316871350685683
+      outfit_thief_red_29: -1429482700971956181
+      outfit_thief_red_3: 3508872652733869749
+      outfit_thief_red_30: 521368595727876760
+      outfit_thief_red_31: 6962757976965160498
+      outfit_thief_red_32: -2333816565200678368
+      outfit_thief_red_33: -5339856354188632822
+      outfit_thief_red_34: -7094393781374545890
+      outfit_thief_red_35: -9193437391782777061
+      outfit_thief_red_36: -5578976095529704709
+      outfit_thief_red_37: -2852124129586059767
+      outfit_thief_red_38: -2603251063686004012
+      outfit_thief_red_39: -1624560727917999247
+      outfit_thief_red_4: -8921282361502953914
+      outfit_thief_red_40: -3961340028071678443
+      outfit_thief_red_41: 960281848648191549
+      outfit_thief_red_42: 546904255076774998
+      outfit_thief_red_43: 1714282030179333321
+      outfit_thief_red_44: -3951933823042790684
+      outfit_thief_red_45: 4849190958773631838
+      outfit_thief_red_46: 6349008543262860865
+      outfit_thief_red_47: 7879138812900652763
+      outfit_thief_red_48: 1855216845253636401
+      outfit_thief_red_49: -5896737596472855604
+      outfit_thief_red_5: 5369264510113597413
+      outfit_thief_red_50: 3675660154306836450
+      outfit_thief_red_51: -5598648598620952383
+      outfit_thief_red_52: 4675119114444753257
+      outfit_thief_red_53: 15847590025117985
+      outfit_thief_red_54: 2286830206563955124
+      outfit_thief_red_55: 2037339704088685554
+      outfit_thief_red_56: 3374504790644576277
+      outfit_thief_red_57: 3705706611618785477
+      outfit_thief_red_58: -8050592948652756619
+      outfit_thief_red_59: 7875734664390964861
+      outfit_thief_red_6: -7445327873666509935
+      outfit_thief_red_60: 4140459787550923278
+      outfit_thief_red_61: -9220397004911036080
+      outfit_thief_red_62: 7441091451082564338
+      outfit_thief_red_63: 2144898220532115753
+      outfit_thief_red_64: 4962285677098889707
+      outfit_thief_red_65: 6228751606933873081
+      outfit_thief_red_66: -357307904797721604
+      outfit_thief_red_67: 6844114882825005544
+      outfit_thief_red_68: -6279531899270116870
+      outfit_thief_red_69: 5494640739057927645
+      outfit_thief_red_7: 4199733041400910783
+      outfit_thief_red_70: -3728301954947652982
+      outfit_thief_red_71: -8922052347106039520
+      outfit_thief_red_72: -1550147009518543450
+      outfit_thief_red_73: 8644067302658178907
+      outfit_thief_red_74: -4107188980564116733
+      outfit_thief_red_75: 6349993176532122347
+      outfit_thief_red_76: 1856800483893158748
+      outfit_thief_red_77: 9103019935899874677
+      outfit_thief_red_78: 3568504796859520602
+      outfit_thief_red_79: -304997045126557448
+      outfit_thief_red_8: -1165835495822693280
+      outfit_thief_red_9: 5958231527105308090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

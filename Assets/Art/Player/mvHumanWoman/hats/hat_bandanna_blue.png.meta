@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: eca84c9f1584b5647b4da623017acf94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8644622012421213507
+    second: hat_bandanna_blue_0
+  - first:
+      213: 4015966290528523762
+    second: hat_bandanna_blue_1
+  - first:
+      213: 1043998853001150621
+    second: hat_bandanna_blue_2
+  - first:
+      213: -4817697126131606717
+    second: hat_bandanna_blue_3
+  - first:
+      213: 3324553229193066657
+    second: hat_bandanna_blue_4
+  - first:
+      213: 6352816953459144013
+    second: hat_bandanna_blue_5
+  - first:
+      213: 2579631567186013402
+    second: hat_bandanna_blue_6
+  - first:
+      213: 6859990084118193928
+    second: hat_bandanna_blue_7
+  - first:
+      213: -8707680196442817323
+    second: hat_bandanna_blue_8
+  - first:
+      213: -4830311081902313833
+    second: hat_bandanna_blue_9
+  - first:
+      213: -4983514146627612909
+    second: hat_bandanna_blue_10
+  - first:
+      213: 5346238339848578412
+    second: hat_bandanna_blue_11
+  - first:
+      213: 5339702916683592780
+    second: hat_bandanna_blue_12
+  - first:
+      213: -4174299764741141410
+    second: hat_bandanna_blue_13
+  - first:
+      213: 4419567962872884875
+    second: hat_bandanna_blue_14
+  - first:
+      213: 5306331833518240211
+    second: hat_bandanna_blue_15
+  - first:
+      213: 598368069962675880
+    second: hat_bandanna_blue_16
+  - first:
+      213: 7679808488148037788
+    second: hat_bandanna_blue_17
+  - first:
+      213: 1938366344405370372
+    second: hat_bandanna_blue_18
+  - first:
+      213: -2086427623318427133
+    second: hat_bandanna_blue_19
+  - first:
+      213: 2216928353192284869
+    second: hat_bandanna_blue_20
+  - first:
+      213: 7572647014365324211
+    second: hat_bandanna_blue_21
+  - first:
+      213: 5106162974152489736
+    second: hat_bandanna_blue_22
+  - first:
+      213: -1701753158877986909
+    second: hat_bandanna_blue_23
+  - first:
+      213: 3559883071096410916
+    second: hat_bandanna_blue_24
+  - first:
+      213: 8148624322952363690
+    second: hat_bandanna_blue_25
+  - first:
+      213: -8422176860360063848
+    second: hat_bandanna_blue_26
+  - first:
+      213: 6440824322025270968
+    second: hat_bandanna_blue_27
+  - first:
+      213: 402527543226041636
+    second: hat_bandanna_blue_28
+  - first:
+      213: 7389040162426246585
+    second: hat_bandanna_blue_29
+  - first:
+      213: -4469558019135122194
+    second: hat_bandanna_blue_30
+  - first:
+      213: 4385023636616676288
+    second: hat_bandanna_blue_31
+  - first:
+      213: -2536040296283181807
+    second: hat_bandanna_blue_32
+  - first:
+      213: 1052985395449382582
+    second: hat_bandanna_blue_33
+  - first:
+      213: 4791412516924362877
+    second: hat_bandanna_blue_34
+  - first:
+      213: 1182840650749720360
+    second: hat_bandanna_blue_35
+  - first:
+      213: 4834729510038204083
+    second: hat_bandanna_blue_36
+  - first:
+      213: -5719774369008307855
+    second: hat_bandanna_blue_37
+  - first:
+      213: -2895392849696148283
+    second: hat_bandanna_blue_38
+  - first:
+      213: 6588063754610317091
+    second: hat_bandanna_blue_39
+  - first:
+      213: 8649898382919423096
+    second: hat_bandanna_blue_40
+  - first:
+      213: 6626153292567911921
+    second: hat_bandanna_blue_41
+  - first:
+      213: 7681190166193177311
+    second: hat_bandanna_blue_42
+  - first:
+      213: -7788525110426229483
+    second: hat_bandanna_blue_43
+  - first:
+      213: 2015203384721892875
+    second: hat_bandanna_blue_44
+  - first:
+      213: 96999395222738659
+    second: hat_bandanna_blue_45
+  - first:
+      213: -4546327342038647094
+    second: hat_bandanna_blue_46
+  - first:
+      213: -5047296139581592638
+    second: hat_bandanna_blue_47
+  - first:
+      213: -4173138520310496057
+    second: hat_bandanna_blue_48
+  - first:
+      213: -8455511395812231129
+    second: hat_bandanna_blue_49
+  - first:
+      213: 5467628779136886597
+    second: hat_bandanna_blue_50
+  - first:
+      213: -2387322621171988020
+    second: hat_bandanna_blue_51
+  - first:
+      213: -1300963884177800445
+    second: hat_bandanna_blue_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_bandanna_blue_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 613
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d83eb4bedd7f770800000000000000
+      internalID: 8644622012421213507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 613
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f555e050149bb730800000000000000
+      internalID: 4015966290528523762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 613
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d908c0bec670d7e00800000000000000
+      internalID: 1043998853001150621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 613
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b51813df9142db0800000000000000
+      internalID: -4817697126131606717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 613
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a83ee63c8f232e20800000000000000
+      internalID: 3324553229193066657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 613
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45f20a4c5db92850800000000000000
+      internalID: 6352816953459144013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 613
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adca18d2e31bcc320800000000000000
+      internalID: 2579631567186013402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 611
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807219eb2a4933f50800000000000000
+      internalID: 6859990084118193928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 606
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc72512ffa182780800000000000000
+      internalID: -8707680196442817323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e6490c9a947fcb0800000000000000
+      internalID: -4830311081902313833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 548
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f8025994007dab0800000000000000
+      internalID: -4983514146627612909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 547
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65af3bc177a13a40800000000000000
+      internalID: 5346238339848578412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 546
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44fa03038f6a1a40800000000000000
+      internalID: 5339702916683592780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 547
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c8b98fa78e116c0800000000000000
+      internalID: -4174299764741141410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 544
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e2cb775a5755d30800000000000000
+      internalID: 4419567962872884875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 550
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1b33d30b0e3a940800000000000000
+      internalID: 5306331833518240211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 548
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6bf0fd694dd4800800000000000000
+      internalID: 598368069962675880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 548
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90f71f6129249a60800000000000000
+      internalID: 7679808488148037788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 538
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406cada9be576ea10800000000000000
+      internalID: 1938366344405370372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 537
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aea8681258b03e0800000000000000
+      internalID: -2086427623318427133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 484
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c29488679c14ce10800000000000000
+      internalID: 2216928353192284869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 483
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3eaa48652771960800000000000000
+      internalID: 7572647014365324211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 481
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b7c9fdb2cbcd640800000000000000
+      internalID: 5106162974152489736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 478
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afbdada4882268e0800000000000000
+      internalID: -1701753158877986909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 483
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423d0a6cace376130800000000000000
+      internalID: 3559883071096410916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 478
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaefea106aab51170800000000000000
+      internalID: 8148624322952363690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 483
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89449b2a4ca6e1b80800000000000000
+      internalID: -8422176860360063848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 483
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be230f8897626950800000000000000
+      internalID: 6440824322025270968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 478
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4258c4afaa0169500800000000000000
+      internalID: 402527543226041636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_29
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 483
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5d28001e42b8660800000000000000
+      internalID: 7389040162426246585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4d37e89a0f8f1c0800000000000000
+      internalID: -4469558019135122194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c38a30c3cbbadc30800000000000000
+      internalID: 4385023636616676288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de6fb79cc2eccd0800000000000000
+      internalID: -2536040296283181807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 408
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b64f6163a4fc9e00800000000000000
+      internalID: 1052985395449382582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7013a35c448e7240800000000000000
+      internalID: 4791412516924362877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 408
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82734dd0e4b4a6010800000000000000
+      internalID: 1182840650749720360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3beece6bfd8681340800000000000000
+      internalID: 4834729510038204083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17130eb14874f90b0800000000000000
+      internalID: -5719774369008307855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 408
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4b7ac2b8f71d7d0800000000000000
+      internalID: -2895392849696148283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_39
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3279c2b64118d6b50800000000000000
+      internalID: 6588063754610317091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874532900cc9a0870800000000000000
+      internalID: 8649898382919423096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd9bce0053d4fb50800000000000000
+      internalID: 6626153292567911921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd20b2c62c1199a60800000000000000
+      internalID: 7681190166193177311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_43
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 356
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515a5dc6da999e390800000000000000
+      internalID: -7788525110426229483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0663882dc077fb10800000000000000
+      internalID: 2015203384721892875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 356
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6ddaf9f6c985100800000000000000
+      internalID: 96999395222738659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_46
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acef321be5338e0c0800000000000000
+      internalID: -4546327342038647094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbe90c17e664f9b0800000000000000
+      internalID: -5047296139581592638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_48
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 356
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4c46240a80616c0800000000000000
+      internalID: -4173138520310496057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_49
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728385a4f2df7aa80800000000000000
+      internalID: -8455511395812231129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 289
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5472828e76be0eb40800000000000000
+      internalID: 5467628779136886597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 270
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc90ac089b68eded0800000000000000
+      internalID: -2387322621171988020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_blue_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30348f97d3c02fde0800000000000000
+      internalID: -1300963884177800445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_bandanna_blue_0: 8644622012421213507
+      hat_bandanna_blue_1: 4015966290528523762
+      hat_bandanna_blue_10: -4983514146627612909
+      hat_bandanna_blue_11: 5346238339848578412
+      hat_bandanna_blue_12: 5339702916683592780
+      hat_bandanna_blue_13: -4174299764741141410
+      hat_bandanna_blue_14: 4419567962872884875
+      hat_bandanna_blue_15: 5306331833518240211
+      hat_bandanna_blue_16: 598368069962675880
+      hat_bandanna_blue_17: 7679808488148037788
+      hat_bandanna_blue_18: 1938366344405370372
+      hat_bandanna_blue_19: -2086427623318427133
+      hat_bandanna_blue_2: 1043998853001150621
+      hat_bandanna_blue_20: 2216928353192284869
+      hat_bandanna_blue_21: 7572647014365324211
+      hat_bandanna_blue_22: 5106162974152489736
+      hat_bandanna_blue_23: -1701753158877986909
+      hat_bandanna_blue_24: 3559883071096410916
+      hat_bandanna_blue_25: 8148624322952363690
+      hat_bandanna_blue_26: -8422176860360063848
+      hat_bandanna_blue_27: 6440824322025270968
+      hat_bandanna_blue_28: 402527543226041636
+      hat_bandanna_blue_29: 7389040162426246585
+      hat_bandanna_blue_3: -4817697126131606717
+      hat_bandanna_blue_30: -4469558019135122194
+      hat_bandanna_blue_31: 4385023636616676288
+      hat_bandanna_blue_32: -2536040296283181807
+      hat_bandanna_blue_33: 1052985395449382582
+      hat_bandanna_blue_34: 4791412516924362877
+      hat_bandanna_blue_35: 1182840650749720360
+      hat_bandanna_blue_36: 4834729510038204083
+      hat_bandanna_blue_37: -5719774369008307855
+      hat_bandanna_blue_38: -2895392849696148283
+      hat_bandanna_blue_39: 6588063754610317091
+      hat_bandanna_blue_4: 3324553229193066657
+      hat_bandanna_blue_40: 8649898382919423096
+      hat_bandanna_blue_41: 6626153292567911921
+      hat_bandanna_blue_42: 7681190166193177311
+      hat_bandanna_blue_43: -7788525110426229483
+      hat_bandanna_blue_44: 2015203384721892875
+      hat_bandanna_blue_45: 96999395222738659
+      hat_bandanna_blue_46: -4546327342038647094
+      hat_bandanna_blue_47: -5047296139581592638
+      hat_bandanna_blue_48: -4173138520310496057
+      hat_bandanna_blue_49: -8455511395812231129
+      hat_bandanna_blue_5: 6352816953459144013
+      hat_bandanna_blue_50: 5467628779136886597
+      hat_bandanna_blue_51: -2387322621171988020
+      hat_bandanna_blue_52: -1300963884177800445
+      hat_bandanna_blue_6: 2579631567186013402
+      hat_bandanna_blue_7: 6859990084118193928
+      hat_bandanna_blue_8: -8707680196442817323
+      hat_bandanna_blue_9: -4830311081902313833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 29ca8983c91e7984b814761b64b36baf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3302108639657305465
+    second: hat_bandanna_gray_0
+  - first:
+      213: -1511444831667667010
+    second: hat_bandanna_gray_1
+  - first:
+      213: -9130092522678703632
+    second: hat_bandanna_gray_2
+  - first:
+      213: -1884253130913588491
+    second: hat_bandanna_gray_3
+  - first:
+      213: 3834810267972228785
+    second: hat_bandanna_gray_4
+  - first:
+      213: -2745151946077388605
+    second: hat_bandanna_gray_5
+  - first:
+      213: 4499086756745284098
+    second: hat_bandanna_gray_6
+  - first:
+      213: 6176700542911198878
+    second: hat_bandanna_gray_7
+  - first:
+      213: 3383549400447579622
+    second: hat_bandanna_gray_8
+  - first:
+      213: -4074788139075721166
+    second: hat_bandanna_gray_9
+  - first:
+      213: 7995544810407276103
+    second: hat_bandanna_gray_10
+  - first:
+      213: -8694487768805486531
+    second: hat_bandanna_gray_11
+  - first:
+      213: -6353325200989605152
+    second: hat_bandanna_gray_12
+  - first:
+      213: -432794292055016692
+    second: hat_bandanna_gray_13
+  - first:
+      213: 1963770089838813546
+    second: hat_bandanna_gray_14
+  - first:
+      213: 160120098044329308
+    second: hat_bandanna_gray_15
+  - first:
+      213: 8752096029155179910
+    second: hat_bandanna_gray_16
+  - first:
+      213: -3557077081185322629
+    second: hat_bandanna_gray_17
+  - first:
+      213: 3981383186495061416
+    second: hat_bandanna_gray_18
+  - first:
+      213: 4857633814515196236
+    second: hat_bandanna_gray_19
+  - first:
+      213: 5540456921302400482
+    second: hat_bandanna_gray_20
+  - first:
+      213: 5123737203364329436
+    second: hat_bandanna_gray_21
+  - first:
+      213: -5097376277205781060
+    second: hat_bandanna_gray_22
+  - first:
+      213: -4661727352586453459
+    second: hat_bandanna_gray_23
+  - first:
+      213: -5900898701312203273
+    second: hat_bandanna_gray_24
+  - first:
+      213: 90992648616467111
+    second: hat_bandanna_gray_25
+  - first:
+      213: 6369357668861317805
+    second: hat_bandanna_gray_26
+  - first:
+      213: 4682587426410015137
+    second: hat_bandanna_gray_27
+  - first:
+      213: 6267348219401137937
+    second: hat_bandanna_gray_28
+  - first:
+      213: -5153057761347139889
+    second: hat_bandanna_gray_29
+  - first:
+      213: 1241081841154397473
+    second: hat_bandanna_gray_30
+  - first:
+      213: 5756763770534292625
+    second: hat_bandanna_gray_31
+  - first:
+      213: -1870931892234387900
+    second: hat_bandanna_gray_32
+  - first:
+      213: 8368567832335072575
+    second: hat_bandanna_gray_33
+  - first:
+      213: -6017102421358064985
+    second: hat_bandanna_gray_34
+  - first:
+      213: -6645407345128390582
+    second: hat_bandanna_gray_35
+  - first:
+      213: -5066031374262667227
+    second: hat_bandanna_gray_36
+  - first:
+      213: 6310956746389985834
+    second: hat_bandanna_gray_37
+  - first:
+      213: 4150025652213354686
+    second: hat_bandanna_gray_38
+  - first:
+      213: 5534372326129567627
+    second: hat_bandanna_gray_39
+  - first:
+      213: 8583467288902925578
+    second: hat_bandanna_gray_40
+  - first:
+      213: -4397141396895507309
+    second: hat_bandanna_gray_41
+  - first:
+      213: -9125349625456041384
+    second: hat_bandanna_gray_42
+  - first:
+      213: 6556296849017458472
+    second: hat_bandanna_gray_43
+  - first:
+      213: 2847907390157622634
+    second: hat_bandanna_gray_44
+  - first:
+      213: -6723608721183345247
+    second: hat_bandanna_gray_45
+  - first:
+      213: -8495335542679991401
+    second: hat_bandanna_gray_46
+  - first:
+      213: 33260973524640992
+    second: hat_bandanna_gray_47
+  - first:
+      213: -4250625494071139385
+    second: hat_bandanna_gray_48
+  - first:
+      213: -3269907867686987211
+    second: hat_bandanna_gray_49
+  - first:
+      213: 1044515583364997074
+    second: hat_bandanna_gray_50
+  - first:
+      213: 4008896899866283236
+    second: hat_bandanna_gray_51
+  - first:
+      213: -7256709794646839349
+    second: hat_bandanna_gray_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_bandanna_gray_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 613
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a5a7300bd8c22d0800000000000000
+      internalID: -3302108639657305465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 613
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf39defee4460be0800000000000000
+      internalID: -1511444831667667010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 613
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9294359356b4180800000000000000
+      internalID: -9130092522678703632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 613
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa5af8b2c9c9d5e0800000000000000
+      internalID: -1884253130913588491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 613
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6518bfe9bf73530800000000000000
+      internalID: 3834810267972228785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 613
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0c59779d247e9d0800000000000000
+      internalID: -2745151946077388605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 613
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a877d6197ff6e30800000000000000
+      internalID: 4499086756745284098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 611
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e963f201b6c08b550800000000000000
+      internalID: 6176700542911198878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 606
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5f9adb048c4fe20800000000000000
+      internalID: 3383549400447579622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238aa63d6c17377c0800000000000000
+      internalID: -4074788139075721166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 548
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e2b0294a1e5fe60800000000000000
+      internalID: 7995544810407276103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 547
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30de5c8079f65780800000000000000
+      internalID: -8694487768805486531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 546
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e23a7c146474d7a0800000000000000
+      internalID: -6353325200989605152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 547
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b7e3962e76ef9f0800000000000000
+      internalID: -432794292055016692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 544
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6121610e76b04b10800000000000000
+      internalID: 1963770089838813546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 550
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d355d716cd83200800000000000000
+      internalID: 160120098044329308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 548
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68db6e9c7f0b57970800000000000000
+      internalID: 8752096029155179910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 548
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79f349ad39b2aec0800000000000000
+      internalID: -3557077081185322629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 538
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad30c1f9e6b04730800000000000000
+      internalID: 3981383186495061416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 537
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41aa1ba738c96340800000000000000
+      internalID: 4857633814515196236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 484
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed759f1738a3ec40800000000000000
+      internalID: 5540456921302400482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 483
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7fbf8f6db2b1740800000000000000
+      internalID: 5123737203364329436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 481
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb575ae684b7249b0800000000000000
+      internalID: -5097376277205781060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 478
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ebc55fba73e4fb0800000000000000
+      internalID: -4661727352586453459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 483
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5e8bc35ebcb1ea0800000000000000
+      internalID: -5900898701312203273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 478
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aad4f1f455434100800000000000000
+      internalID: 90992648616467111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 483
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da293e3bd01846850800000000000000
+      internalID: 6369357668861317805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 483
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a921e47474ebf040800000000000000
+      internalID: 4682587426410015137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 478
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fe41deff71af650800000000000000
+      internalID: 6267348219401137937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_29
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 483
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc685d3a449ac78b0800000000000000
+      internalID: -5153057761347139889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1251237eb55393110800000000000000
+      internalID: 1241081841154397473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ce88e062224ef40800000000000000
+      internalID: 5756763770534292625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7b6c4b5d1906e0800000000000000
+      internalID: -1870931892234387900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 408
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3db71dda10232470800000000000000
+      internalID: 8368567832335072575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa4fcd4a35fe7ca0800000000000000
+      internalID: -6017102421358064985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 408
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40c9dd7a35c6c3a0800000000000000
+      internalID: -6645407345128390582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528f61c5e47d1b9b0800000000000000
+      internalID: -5066031374262667227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a1e6559b5059750800000000000000
+      internalID: 6310956746389985834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 408
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb09fe8c75ad79930800000000000000
+      internalID: 4150025652213354686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_39
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 410
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8784b9ee4a0ecc40800000000000000
+      internalID: 5534372326129567627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d7e38a50a9e1770800000000000000
+      internalID: 8583467288902925578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cd0e252373af2c0800000000000000
+      internalID: -4397141396895507309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852e2732dde3c5180800000000000000
+      internalID: -9125349625456041384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_43
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 356
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fc2b75f35acfa50800000000000000
+      internalID: 6556296849017458472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d0e87beacc58720800000000000000
+      internalID: 2847907390157622634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 356
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5f525cd71f0b2a0800000000000000
+      internalID: -6723608721183345247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_46
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b0fca85518a1a80800000000000000
+      internalID: -8495335542679991401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4e1dfddaa267000800000000000000
+      internalID: 33260973524640992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_48
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 356
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3aba842aeb205c0800000000000000
+      internalID: -4250625494071139385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_49
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 358
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a134a7e14fe92d0800000000000000
+      internalID: -3269907867686987211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 289
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df94d4936dde7e00800000000000000
+      internalID: 1044515583364997074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 270
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecc1b98d7672a730800000000000000
+      internalID: 4008896899866283236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_bandanna_gray_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf2af3b3ecfa4b90800000000000000
+      internalID: -7256709794646839349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_bandanna_gray_0: -3302108639657305465
+      hat_bandanna_gray_1: -1511444831667667010
+      hat_bandanna_gray_10: 7995544810407276103
+      hat_bandanna_gray_11: -8694487768805486531
+      hat_bandanna_gray_12: -6353325200989605152
+      hat_bandanna_gray_13: -432794292055016692
+      hat_bandanna_gray_14: 1963770089838813546
+      hat_bandanna_gray_15: 160120098044329308
+      hat_bandanna_gray_16: 8752096029155179910
+      hat_bandanna_gray_17: -3557077081185322629
+      hat_bandanna_gray_18: 3981383186495061416
+      hat_bandanna_gray_19: 4857633814515196236
+      hat_bandanna_gray_2: -9130092522678703632
+      hat_bandanna_gray_20: 5540456921302400482
+      hat_bandanna_gray_21: 5123737203364329436
+      hat_bandanna_gray_22: -5097376277205781060
+      hat_bandanna_gray_23: -4661727352586453459
+      hat_bandanna_gray_24: -5900898701312203273
+      hat_bandanna_gray_25: 90992648616467111
+      hat_bandanna_gray_26: 6369357668861317805
+      hat_bandanna_gray_27: 4682587426410015137
+      hat_bandanna_gray_28: 6267348219401137937
+      hat_bandanna_gray_29: -5153057761347139889
+      hat_bandanna_gray_3: -1884253130913588491
+      hat_bandanna_gray_30: 1241081841154397473
+      hat_bandanna_gray_31: 5756763770534292625
+      hat_bandanna_gray_32: -1870931892234387900
+      hat_bandanna_gray_33: 8368567832335072575
+      hat_bandanna_gray_34: -6017102421358064985
+      hat_bandanna_gray_35: -6645407345128390582
+      hat_bandanna_gray_36: -5066031374262667227
+      hat_bandanna_gray_37: 6310956746389985834
+      hat_bandanna_gray_38: 4150025652213354686
+      hat_bandanna_gray_39: 5534372326129567627
+      hat_bandanna_gray_4: 3834810267972228785
+      hat_bandanna_gray_40: 8583467288902925578
+      hat_bandanna_gray_41: -4397141396895507309
+      hat_bandanna_gray_42: -9125349625456041384
+      hat_bandanna_gray_43: 6556296849017458472
+      hat_bandanna_gray_44: 2847907390157622634
+      hat_bandanna_gray_45: -6723608721183345247
+      hat_bandanna_gray_46: -8495335542679991401
+      hat_bandanna_gray_47: 33260973524640992
+      hat_bandanna_gray_48: -4250625494071139385
+      hat_bandanna_gray_49: -3269907867686987211
+      hat_bandanna_gray_5: -2745151946077388605
+      hat_bandanna_gray_50: 1044515583364997074
+      hat_bandanna_gray_51: 4008896899866283236
+      hat_bandanna_gray_52: -7256709794646839349
+      hat_bandanna_gray_6: 4499086756745284098
+      hat_bandanna_gray_7: 6176700542911198878
+      hat_bandanna_gray_8: 3383549400447579622
+      hat_bandanna_gray_9: -4074788139075721166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
