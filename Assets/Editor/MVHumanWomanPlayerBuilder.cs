@@ -155,13 +155,15 @@ public static class MVHumanWomanPlayerBuilder
             GeneratedDirectory + "/Idle.anim",
             GeneratedDirectory + "/Run.anim",
             GeneratedDirectory + "/Jump.anim",
-            GeneratedDirectory + "/Fall.anim"
+            GeneratedDirectory + "/Fall.anim",
+            GeneratedDirectory + "/Attack.anim"
         };
 
         AnimationClip existingIdle = AssetDatabase.LoadAssetAtPath<AnimationClip>(clipPaths[0]);
         AnimationClip existingRun = AssetDatabase.LoadAssetAtPath<AnimationClip>(clipPaths[1]);
         AnimationClip existingJump = AssetDatabase.LoadAssetAtPath<AnimationClip>(clipPaths[2]);
         AnimationClip existingFall = AssetDatabase.LoadAssetAtPath<AnimationClip>(clipPaths[3]);
+        AnimationClip existingAttack = AssetDatabase.LoadAssetAtPath<AnimationClip>(clipPaths[4]);
         AnimatorController existingController = AssetDatabase.LoadAssetAtPath<AnimatorController>(ControllerPath);
         if (existingController != null
             && HasExpectedClip(existingIdle, new[] { sprites[FrameIndex(0, 0)] }, true)
@@ -175,7 +177,13 @@ public static class MVHumanWomanPlayerBuilder
                 sprites[FrameIndex(1, 7)], sprites[FrameIndex(1, 8)], sprites[FrameIndex(1, 9)]
             }, false)
             && HasExpectedClip(existingFall, new[] { sprites[FrameIndex(1, 9)] }, false)
-            && HasExpectedController(existingController, existingIdle, existingRun, existingJump, existingFall))
+            && HasExpectedClip(existingAttack, new[]
+            {
+                sprites[FrameIndex(2, 4)], sprites[FrameIndex(2, 5)], sprites[FrameIndex(2, 6)],
+                sprites[FrameIndex(3, 4)], sprites[FrameIndex(3, 5)], sprites[FrameIndex(3, 6)],
+                sprites[FrameIndex(4, 4)], sprites[FrameIndex(4, 5)], sprites[FrameIndex(4, 6)]
+            }, false)
+            && HasExpectedController(existingController, existingIdle, existingRun, existingJump, existingFall, existingAttack))
         {
             return existingController;
         }
@@ -197,25 +205,35 @@ public static class MVHumanWomanPlayerBuilder
             sprites[FrameIndex(1, 7)], sprites[FrameIndex(1, 8)], sprites[FrameIndex(1, 9)]
         }, 0.12f, false);
         AnimationClip fall = CreateClip("Fall", new[] { sprites[FrameIndex(1, 9)] }, 0.1f, false);
+        AnimationClip attack = CreateClip("Attack", new[]
+        {
+            sprites[FrameIndex(2, 4)], sprites[FrameIndex(2, 5)], sprites[FrameIndex(2, 6)],
+            sprites[FrameIndex(3, 4)], sprites[FrameIndex(3, 5)], sprites[FrameIndex(3, 6)],
+            sprites[FrameIndex(4, 4)], sprites[FrameIndex(4, 5)], sprites[FrameIndex(4, 6)]
+        }, 0.06f, false);
         AssetDatabase.CreateAsset(idle, clipPaths[0]);
         AssetDatabase.CreateAsset(run, clipPaths[1]);
         AssetDatabase.CreateAsset(jump, clipPaths[2]);
         AssetDatabase.CreateAsset(fall, clipPaths[3]);
+        AssetDatabase.CreateAsset(attack, clipPaths[4]);
 
         AnimatorController controller = AnimatorController.CreateAnimatorControllerAtPath(ControllerPath);
         controller.AddParameter("Grounded", AnimatorControllerParameterType.Bool);
         controller.AddParameter("Speed", AnimatorControllerParameterType.Float);
         controller.AddParameter("VerticalVelocity", AnimatorControllerParameterType.Float);
+        controller.AddParameter("Attack", AnimatorControllerParameterType.Trigger);
 
         AnimatorStateMachine stateMachine = controller.layers[0].stateMachine;
         AnimatorState idleState = stateMachine.AddState("Idle");
         AnimatorState runState = stateMachine.AddState("Run");
         AnimatorState jumpState = stateMachine.AddState("Jump");
         AnimatorState fallState = stateMachine.AddState("Fall");
+        AnimatorState attackState = stateMachine.AddState("Attack");
         idleState.motion = idle;
         runState.motion = run;
         jumpState.motion = jump;
         fallState.motion = fall;
+        attackState.motion = attack;
         stateMachine.defaultState = idleState;
 
         AddTransition(idleState, runState, new AnimatorCondition { mode = AnimatorConditionMode.Greater, parameter = "Speed", threshold = 0.1f });
@@ -237,6 +255,19 @@ public static class MVHumanWomanPlayerBuilder
         AddTransition(jumpState, runState, new AnimatorCondition { mode = AnimatorConditionMode.If, parameter = "Grounded" }, new AnimatorCondition { mode = AnimatorConditionMode.Greater, parameter = "Speed", threshold = 0.1f });
         AddTransition(fallState, idleState, new AnimatorCondition { mode = AnimatorConditionMode.If, parameter = "Grounded" }, new AnimatorCondition { mode = AnimatorConditionMode.Less, parameter = "Speed", threshold = 0.1f });
         AddTransition(fallState, runState, new AnimatorCondition { mode = AnimatorConditionMode.If, parameter = "Grounded" }, new AnimatorCondition { mode = AnimatorConditionMode.Greater, parameter = "Speed", threshold = 0.1f });
+        AddAnyStateTransition(stateMachine, attackState, new AnimatorCondition { mode = AnimatorConditionMode.If, parameter = "Attack" });
+        AddExitTransition(attackState, idleState,
+            new AnimatorCondition { mode = AnimatorConditionMode.If, parameter = "Grounded" },
+            new AnimatorCondition { mode = AnimatorConditionMode.Less, parameter = "Speed", threshold = 0.1f });
+        AddExitTransition(attackState, runState,
+            new AnimatorCondition { mode = AnimatorConditionMode.If, parameter = "Grounded" },
+            new AnimatorCondition { mode = AnimatorConditionMode.Greater, parameter = "Speed", threshold = 0.1f });
+        AddExitTransition(attackState, jumpState,
+            new AnimatorCondition { mode = AnimatorConditionMode.IfNot, parameter = "Grounded" },
+            new AnimatorCondition { mode = AnimatorConditionMode.Greater, parameter = "VerticalVelocity", threshold = 0.1f });
+        AddExitTransition(attackState, fallState,
+            new AnimatorCondition { mode = AnimatorConditionMode.IfNot, parameter = "Grounded" },
+            new AnimatorCondition { mode = AnimatorConditionMode.Less, parameter = "VerticalVelocity", threshold = 0.1f });
         return controller;
     }
 
@@ -279,14 +310,16 @@ public static class MVHumanWomanPlayerBuilder
         return !looping || keys[^1].value == expectedSprites[0];
     }
 
-    private static bool HasExpectedController(AnimatorController controller, AnimationClip idle, AnimationClip run, AnimationClip jump, AnimationClip fall)
+    private static bool HasExpectedController(AnimatorController controller, AnimationClip idle, AnimationClip run, AnimationClip jump, AnimationClip fall, AnimationClip attack)
     {
         AnimatorControllerParameter grounded = Array.Find(controller.parameters, parameter => parameter.name == "Grounded");
         AnimatorControllerParameter speed = Array.Find(controller.parameters, parameter => parameter.name == "Speed");
         AnimatorControllerParameter verticalVelocity = Array.Find(controller.parameters, parameter => parameter.name == "VerticalVelocity");
+        AnimatorControllerParameter attackParameter = Array.Find(controller.parameters, parameter => parameter.name == "Attack");
         if (grounded == null || grounded.type != AnimatorControllerParameterType.Bool
             || speed == null || speed.type != AnimatorControllerParameterType.Float
             || verticalVelocity == null || verticalVelocity.type != AnimatorControllerParameterType.Float
+            || attackParameter == null || attackParameter.type != AnimatorControllerParameterType.Trigger
             || controller.layers.Length == 0)
         {
             return false;
@@ -297,7 +330,8 @@ public static class MVHumanWomanPlayerBuilder
             ["Idle"] = idle,
             ["Run"] = run,
             ["Jump"] = jump,
-            ["Fall"] = fall
+            ["Fall"] = fall,
+            ["Attack"] = attack
         };
         ChildAnimatorState[] states = controller.layers[0].stateMachine.states;
         if (states.Length != expectedMotions.Count)
@@ -327,7 +361,23 @@ public static class MVHumanWomanPlayerBuilder
             }
         }
 
-        return true;
+        foreach (AnimatorStateTransition transition in controller.layers[0].stateMachine.anyStateTransitions)
+        {
+            if (transition.destinationState == null || transition.destinationState.name != "Attack")
+            {
+                continue;
+            }
+
+            AnimatorCondition[] conditions = transition.conditions;
+            if (conditions.Length == 1
+                && conditions[0].parameter == "Attack"
+                && conditions[0].mode == AnimatorConditionMode.If)
+            {
+                return true;
+            }
+        }
+
+        return false;
     }
 
     private static AnimationClip CreateClip(string name, Sprite[] sprites, float frameDuration, bool looping)
@@ -353,6 +403,24 @@ public static class MVHumanWomanPlayerBuilder
     {
         AnimatorStateTransition transition = from.AddTransition(to);
         transition.hasExitTime = false;
+        transition.duration = 0.05f;
+        transition.conditions = conditions;
+    }
+
+    private static void AddAnyStateTransition(AnimatorStateMachine stateMachine, AnimatorState to, params AnimatorCondition[] conditions)
+    {
+        AnimatorStateTransition transition = stateMachine.AddAnyStateTransition(to);
+        transition.hasExitTime = false;
+        transition.duration = 0.02f;
+        transition.canTransitionToSelf = false;
+        transition.conditions = conditions;
+    }
+
+    private static void AddExitTransition(AnimatorState from, AnimatorState to, params AnimatorCondition[] conditions)
+    {
+        AnimatorStateTransition transition = from.AddTransition(to);
+        transition.hasExitTime = true;
+        transition.exitTime = 0.9f;
         transition.duration = 0.05f;
         transition.conditions = conditions;
     }

@@ -45,6 +45,7 @@ public sealed class PlayerController : MonoBehaviour
     private float lastJumpPressedTime = float.NegativeInfinity;
 
     public bool IsGrounded { get; private set; }
+    public bool IsFacingLeft { get; private set; }
 
     private void Awake()
     {
@@ -125,6 +126,7 @@ public sealed class PlayerController : MonoBehaviour
         if (horizontalInput != 0f)
         {
             bool facingLeft = horizontalInput < 0f;
+            IsFacingLeft = facingLeft;
 
             if (spriteRenderer != null)
             {
