@@ -8,5 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Milestone1.unity
     guid: cfc8e5f9f5c010e419966b5ac9d77021
+  - enabled: 1
+    path: Assets/Scenes/M3_Greybox.unity
+    guid: 226978aabe0729a41ae0505354d49bef
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
